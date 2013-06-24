@@ -1,0 +1,2504 @@
+
+<html>
+<head>
+<title>Journal Format For Print Page: ISI</title>
+</head>
+<body>
+
+<form method="post" action="/cgi-bin/jrnlst/jlresults.cgi">
+
+<!-- <em>
+(Use Browser Back button to return to previous page)
+</em> -->
+
+<p>
+<strong>
+Thomson Reuters Master Journal List
+ - 
+JOURNAL LIST
+</strong>
+<br />
+Total journals: 17266
+</p>
+
+<dl>
+<DT><strong>17001. WOOD RESEARCH</strong></DT>
+ Quarterly ISSN: 1336-4561<br /><DD>SLOVAK FOREST PRODUCTS RESEARCH INST, LAMACSKA CESTA 3, BRATISLAVA, SLOVAKIA, SK-841 04<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17002. WOOD SCIENCE AND TECHNOLOGY</strong></DT>
+ Bimonthly ISSN: 0043-7719<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>17003. WOODCOCK AND SNIPE SPECIALIST GROUP NEWSLETTER</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>WOODCOCK SNIPE SPECIALIST GROUP, C/O DR. YVES FERRAND, OFFICE NATIONAL CHASSE FAUNE SAUVAGE, RESEARCH DEPT - MIGRATORY BIRDS UNIT, B, LE PERRAY-EN-YVELINES, FRANCE, F-78610<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17004. WORD & IMAGE</strong></DT>
+ Quarterly ISSN: 0266-6286<br /><DD>TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17005. WORDSWORTH CIRCLE</strong></DT>
+ Quarterly ISSN: 0043-8006<br /><DD>ED INST BOSTON UNIV, 143 BAY STATE RD, RM 212, BOSTON, USA, MA, 02215<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17006. WORK AND OCCUPATIONS</strong></DT>
+ Quarterly ISSN: 0730-8884<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17007. WORK AND STRESS</strong></DT>
+ Quarterly ISSN: 0267-8373<br /><DD>TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OX14 4RN<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17008. WORK EMPLOYMENT AND SOCIETY</strong></DT>
+ Quarterly ISSN: 0950-0170<br /><DD>SAGE PUBLICATIONS LTD, 1 OLIVERS YARD, 55 CITY ROAD, LONDON, ENGLAND, EC1Y 1SP<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17009. WORK-A JOURNAL OF PREVENTION ASSESSMENT & REHABILITATION</strong></DT>
+ Quarterly ISSN: 1051-9815<br /><DD>IOS PRESS, NIEUWE HEMWEG 6B, AMSTERDAM, NETHERLANDS, 1013 BG<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17010. WORKPLACE HEALTH & SAFETY</strong></DT>
+ Monthly ISSN: 2165-0799<br /><DD>SLACK INC, 6900 GROVE RD, THOROFARE, USA, NJ, 08086<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17011. WORLD APPLIED SCIENCES JOURNAL</strong></DT>
+ Bimonthly ISSN: 1818-4952<br /><DD>INT DIGITAL ORGANIZATION SCIENTIFIC INFORMATION-IDOSI, C/O PROF GHASEM NAJAFPOUR, HD BIOTECHNOL RES CTR, FAC CHEM ENGNG, UNIV TECH BABOL, BABOL, IRAN, NOSHIRVANI, 47144<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17012. WORLD AQUACULTURE</strong></DT>
+ Quarterly ISSN: 1041-5602<br /><DD>WORLD AQUACULTURE SOC, LOUISIANA STATE UNIV, 143 J M PARKER COLISEUM, BATON ROUGE, USA, LA, 70803<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17013. WORLD ARCHAEOLOGY</strong></DT>
+ Quarterly ISSN: 0043-8243<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17014. WORLD BANK ECONOMIC REVIEW</strong></DT>
+ Tri-annual ISSN: 0258-6770<br /><DD>OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17015. WORLD BANK RESEARCH OBSERVER</strong></DT>
+ Semiannual ISSN: 0257-3032<br /><DD>OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17016. WORLD DEVELOPMENT</strong></DT>
+ Monthly ISSN: 0305-750X<br /><DD>PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND, OX5 1GB<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17017. WORLD ECONOMY</strong></DT>
+ Monthly ISSN: 0378-5920<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17018. WORLD ENGLISHES</strong></DT>
+ Quarterly ISSN: 0883-2919<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>17019. WORLD JOURNAL OF BIOLOGICAL PSYCHIATRY</strong></DT>
+ Bimonthly ISSN: 1562-2975<br /><DD>INFORMA HEALTHCARE, TELEPHONE HOUSE, 69-77 PAUL STREET, LONDON, ENGLAND, EC2A 4LQ<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li></ol>
+</li>
+<DT><strong>17020. WORLD JOURNAL OF EMERGENCY SURGERY</strong></DT>
+ Irregular ISSN: 1749-7922<br /><DD>BIOMED CENTRAL LTD, 236 GRAYS INN RD, FLOOR 6, LONDON, ENGLAND, WC1X 8HL<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17021. WORLD JOURNAL OF ENVIRONMENTAL BIOSCIENCES</strong></DT>
+ Quarterly ISSN: 2277-8047<br /><DD>EURESIAN PUBLICATIONS, SAWANT VIHAR, PHASE II, G-118, KATRAJ, MAHARASHTRA, INDIA, PUNE, 416 007<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17022. WORLD JOURNAL OF FISH AND MARINE SCIENCES</strong></DT>
+ Irregular ISSN: 2078-4589<br /><DD>INT DIGITAL ORGANIZATION SCIENTIFIC INFORMATION-IDOSI, C/O PROF DR WAHID M AHMED, DEPT ANIMAL REPROD & AI, VET RES DIV, NATIONAL RES CENTRE, DOKKI, GIZA, EGYPT, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17023. WORLD JOURNAL OF GASTROENTEROLOGY</strong></DT>
+ Weekly ISSN: 1007-9327<br /><DD>BAISHIDENG PUBL GRP CO LTD, ROOM 1701, 17-F, HENAN BUILDING, NO. 90, JAFFE RD, WANCHAI, PEOPLES R CHINA, HONG KONG, 100025<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17024. WORLD JOURNAL OF MICROBIOLOGY & BIOTECHNOLOGY</strong></DT>
+ Monthly ISSN: 0959-3993<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17025. WORLD JOURNAL OF PEDIATRICS</strong></DT>
+ Quarterly ISSN: 1708-8569<br /><DD>ZHEJIANG UNIV SCH MEDICINE, CHILDRENS HOSPITAL, 57 ZHUGAN XIANG, HANGZHOU, PEOPLES R CHINA, 310003<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17026. WORLD JOURNAL OF SURGERY</strong></DT>
+ Monthly ISSN: 0364-2313<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17027. WORLD JOURNAL OF SURGICAL ONCOLOGY</strong></DT>
+ Irregular ISSN: 1477-7819<br /><DD>BIOMED CENTRAL LTD, 236 GRAYS INN RD, FLOOR 6, LONDON, ENGLAND, WC1X 8HL<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17028. WORLD JOURNAL OF UROLOGY</strong></DT>
+ Quarterly ISSN: 0724-4983<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17029. WORLD JOURNAL OF ZOOLOGY</strong></DT>
+ Semiannual ISSN: 1817-3098<br /><DD>INT DIGITAL ORGANIZATION SCIENTIFIC INFORMATION-IDOSI, C/O PROF DR WAHID M AHMED, DEPT ANIMAL REPROD & AI, VET RES DIV, NATIONAL RES CENTRE, DOKKI, GIZA, EGYPT, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17030. WORLD LITERATURE STUDIES</strong></DT>
+ Quarterly ISSN: 1337-9275<br /><DD>SLOVAK ACADEMIC PRESS LTD, PO BOX 57 NAM SLOBODY 6, BRATISLAVA, SLOVAKIA, 810 05<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17031. WORLD LITERATURE TODAY</strong></DT>
+ Quarterly ISSN: 0196-3570<br /><DD>UNIV OKLAHOMA PRESS, UNIVERSITY PRESS BUILDING, 1005 ASP AVE, NORMAN, USA, OK, 73019<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17032. WORLD MYCOTOXIN JOURNAL</strong></DT>
+ Quarterly ISSN: 1875-0710<br /><DD>WAGENINGEN ACADEMIC PUBLISHERS, PO BOX 220, WAGENINGEN, NETHERLANDS, 6700 AE<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li></ol>
+</li>
+<DT><strong>17033. WORLD NEUROSURGERY</strong></DT>
+ Bimonthly ISSN: 1878-8750<br /><DD>ELSEVIER SCIENCE INC, 360 PARK AVE SOUTH, NEW YORK, USA, NY, 10010-1710<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17034. WORLD OF MUSIC-NEW SERIES</strong></DT>
+ Semiannual ISSN: 0043-8774<br /><DD>VWB-VERLAG WISSENSCHAFT & BILDUNG, URBANSTRASSE 71, BERLIN, GERMANY, D-10967<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17035. WORLD OIL</strong></DT>
+ Monthly ISSN: 0043-8790<br /><DD>GULF PUBL CO, BOX 2608, HOUSTON, USA, TX, 77252-2608</li>
+<DT><strong>17036. WORLD POLICY JOURNAL</strong></DT>
+ Quarterly ISSN: 0740-2775<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17037. WORLD POLITICS</strong></DT>
+ Quarterly ISSN: 0043-8871<br /><DD>CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17038. WORLD PSYCHIATRY</strong></DT>
+ Tri-annual ISSN: 1723-8617<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17039. WORLD RABBIT SCIENCE</strong></DT>
+ Quarterly ISSN: 1257-5011<br /><DD>UNIV POLITECNICA VALENCIA, DEPT CIENCIA ANIMAL, PO BOX 22012, VALENCIA, SPAIN, 46071<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li></ol>
+</li>
+<DT><strong>17040. WORLD REVIEW OF NUTRITION AND DIETETICS</strong></DT>
+ Irregular ISSN: 0084-2230<br /><DD>KARGER, POSTFACH, BASEL, SWITZERLAND, CH-4009<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>17041. WORLD TRADE REVIEW</strong></DT>
+ Quarterly ISSN: 1474-7456<br /><DD>CAMBRIDGE UNIV PRESS, EDINBURGH BLDG, SHAFTESBURY RD, CAMBRIDGE, ENGLAND, CB2 8RU<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17042. WORLD WIDE WEB JOURNAL OF BIOLOGY</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>EPRESS INC, 130 UNION TERRACE LA, PLYMOUTH, USA, MN, 55441<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17043. WORLD WIDE WEB-INTERNET AND WEB INFORMATION SYSTEMS</strong></DT>
+ Quarterly ISSN: 1386-145X<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>17044. WORLDS POULTRY SCIENCE JOURNAL</strong></DT>
+ Quarterly ISSN: 0043-9339<br /><DD>CAMBRIDGE UNIV PRESS, EDINBURGH BLDG, SHAFTESBURY RD, CAMBRIDGE, ENGLAND, CB2 8RU<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>17045. WORLDVIEWS ON EVIDENCE-BASED NURSING</strong></DT>
+ Quarterly ISSN: 1545-102X<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17046. WOUND REPAIR AND REGENERATION</strong></DT>
+ Bimonthly ISSN: 1067-1927<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17047. WOUNDS-A COMPENDIUM OF CLINICAL RESEARCH AND PRACTICE</strong></DT>
+ Monthly ISSN: 1044-7946<br /><DD>H M P COMMUNICATIONS, 83 GENERAL WARREN BLVD, STE 100, MALVERN, USA, PA, 19355<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17048. WPA NEWS</strong></DT>
+ Quarterly ISSN: 0963-3278<br /><DD>WORLD PHEASANT ASSOC, NEWCASTLE UNIV, BIOL FIELD STATION, CLOSE HOUSE ESTATE, HEDDON-ON-THE-WALL, NEWCASTLE UPON TYNE, ENGLAND, NE15 0HT<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17049. WRITTEN COMMUNICATION</strong></DT>
+ Quarterly ISSN: 0741-0883<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17050. WSPOLCZESNA ONKOLOGIA-CONTEMPORARY ONCOLOGY</strong></DT>
+ Bimonthly ISSN: 1428-2526<br /><DD>TERMEDIA PUBLISHING HOUSE LTD, WENEDOW ST 9-1, POZNAN, POLAND, 61-614<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17051. WUHAN DAXUE XUEBAO-YIXUE BAN</strong></DT>
+ Quarterly ISSN: 1671-8852<br /><DD>WUHAN UNIV JOURNALS PRESS, DONGHU RD, 155, WUHAN, PEOPLES R CHINA, HUBEI, 430072<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17052. WUHAN UNIVERSITY JOURNAL OF NATURAL SCIENCES</strong></DT>
+ Quarterly ISSN: 1007-1202<br /><DD>WUHAN UNIV JOURNALS PRESS, DONGHU RD, 155, WUHAN, PEOPLES R CHINA, HUBEI, 430072<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17053. WULFENIA</strong></DT>
+ Annual ISSN: 1561-882X<br /><DD>LANDESMUSEUM KARNTEN, MUSEUMGASSE 2, KLAGENFURT, AUSTRIA, A-9021<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17054. WUYI SCIENCE JOURNAL</strong></DT>
+ Annual ISSN: 1001-4276<br /><DD>FUJIAN AGRICULTURAL UNIV, FUZHOU, PEOPLES R CHINA, FUJIAN PROVINCE, 350002<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17055. X-RAY SPECTROMETRY</strong></DT>
+ Bimonthly ISSN: 0049-8246<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17056. XENOBIOTICA</strong></DT>
+ Monthly ISSN: 0049-8254<br /><DD>INFORMA HEALTHCARE, TELEPHONE HOUSE, 69-77 PAUL STREET, LONDON, ENGLAND, EC2A 4LQ<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17057. XENOPHORA</strong></DT>
+ Quarterly ISSN: 0755-8198<br /><DD>ASSOC FRANC CONCHYL, B. P. NO 307, PARIS, FRANCE, F-75770<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17058. XENOTRANSPLANTATION</strong></DT>
+ Bimonthly ISSN: 0908-665X<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17059. XIBEI DIZHI</strong></DT>
+ Irregular ISSN: 1009-6248<br /><DD>CHINESE ACAD GEOLOGICAL SCIENCES, 166 EAST YOUYI RD, XI'AN, PEOPLES R CHINA, 710054<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17060. XIBEI SHIFAN DAXUE XUEBAO-ZIRAN KEXUE BAN</strong></DT>
+ Quarterly ISSN: 1001-988X<br /><DD>NORTHWEST NORMAL UNIV, 805 EASTERN ANNING RD, LANZHOU, PEOPLES R CHINA, GANSU PROVINCE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17061. XINAN DAXUE XUEBAO ZIRAN KEXUE BAN</strong></DT>
+ Monthly ISSN: 1673-9868<br /><DD>SOUTHWEST UNIV, SOUTHWEST UNIV, CHONGQING, PEOPLES R CHINA, 400715<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17062. XINJIANG NONGYE DAXUE XUEBAO</strong></DT>
+ Bimonthly ISSN: 1007-8614<br /><DD>XINJIANG NONGYE DAXUE, 42, NANCHANG LU, URUMAI, PEOPLES R CHINA, 830052<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17063. XINJIANG NONGYE KEXUE</strong></DT>
+ Bimonthly ISSN: 1001-4330<br /><DD>CHINA INT BOOK TRADING CORP, 35 CHEGONGZHUANG XILU, HAIDAN DISTRICT, PO BOX 399, BEIJING, PEOPLES R CHINA, 100044<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17064. XINYANG SHIFAN XUEYUAN XUEBAO ZIRAN KEXUE BAN</strong></DT>
+ Quarterly ISSN: 1003-0972<br /><DD>XINYANG NORMAL UNIV, XINYANG NORMAL UNIV, XINYANG, PEOPLES R CHINA, HENAN, 464000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17065. XUMU SHOUYI XUEBAO-ACTA VETERINARIA ET ZOOTECHNICA SINICA</strong></DT>
+ Monthly ISSN: 0366-6964<br /><DD>CHINA INT BOOK TRADING CORP, PO BOX 399, BEIJING, PEOPLES R CHINA<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17066. YADORIGA</strong></DT>
+ Quarterly ISSN: 0513-417X<br /><DD>LEPIDOPTEROLOGICAL SOC JAPAN, TOKYO OFFICE, 5-20, MOTOYOKOYAMA 2, HACHIOJI, TOKYO, JAPAN, 192-0063<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17067. YAKHAK HOEJI</strong></DT>
+ Quarterly ISSN: 0377-9556<br /><DD>PHARMACEUTICAL SOC KOREA, 1489-3 SUHCHO-DONG, SUHCHO-KU, SEOUL, SOUTH KOREA, 137-071<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17068. YAKUGAKU ZASSHI-JOURNAL OF THE PHARMACEUTICAL SOCIETY OF JAPAN</strong></DT>
+ Monthly ISSN: 0031-6903<br /><DD>PHARMACEUTICAL SOC JAPAN, 2-12-15-201 SHIBUYA, SHIBUYA-KU, TOKYO, JAPAN, 150<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17069. YAKUZAIGAKU</strong></DT>
+ Quarterly ISSN: 0372-7629<br /><DD>ACAD PHARMACEUTICAL SCIENCE TECHNOLOGY, JAPAN-APST J, NIHON GAKKAI JIMU SANTA, 16-9, HONKOMAGOME 5-CHOME, TOKYO, JAPAN, 00000<ol> 
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17070. YALE FRENCH STUDIES</strong></DT>
+ Semiannual ISSN: 0044-0078<br /><DD>YALE FRENCH STUDIES, C/O YALE UNIV PRESS 92A YALE STATION, NEW HAVEN, USA, CT, 06520<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17071. YALE JOURNAL OF BIOLOGY AND MEDICINE</strong></DT>
+ Quarterly ISSN: 0044-0086<br /><DD>YALE J BIOLOGY MEDICINE, INC, 333 CEDAR ST, PO BOX 208000, NEW HAVEN, USA, CT, 06520-8000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17072. YALE LAW JOURNAL</strong></DT>
+ Bimonthly ISSN: 0044-0094<br /><DD>YALE LAW J CO INC, 401-A YALE STATION, NEW HAVEN, USA, CT, 06520<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17073. YALE REVIEW</strong></DT>
+ Quarterly ISSN: 0044-0124<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17074. YAMAGATA MEDICAL JOURNAL</strong></DT>
+ Semiannual ISSN: 0288-030X<br /><DD>YAMAGATA UNIV-YAMAGATA DAIGAKU, 4-12, KOJIRAKAWAMACHI 1 CHOME, YAMAGATA, JAPAN, YAMAGATAKEN, 990, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17075. YANGZHOU DAXUE XUEBAO NONGYE YU SHENGMING KEXUE BAN</strong></DT>
+ Quarterly ISSN: 1671-4652<br /><DD>JIANGSU NONGYE YANJIU, 12 WENHUI EAST ROAD, YANGZHOU, PEOPLES R CHINA, 225009<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17076. YAQUINA STUDIES IN NATURAL HISTORY</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>GAHMKEN PRESS, P. O. BOX 1467, NEWPORT, USA, OR, 97365<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17077. YEARBOOK FOR TRADITIONAL MUSIC</strong></DT>
+ Annual ISSN: 0740-1558<br /><DD>INT COUNCIL TRADITIONAL MUSIC, UCLA/DEPT ETHNOMUSICOLOGY, 2539 SCHOENBERG, BOX 957178, LOS ANGELES, USA, CA, 90095<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17078. YEAST</strong></DT>
+ Monthly ISSN: 0749-503X<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17079. YELLOWSTONE SCIENCE</strong></DT>
+ Quarterly ISSN: ****-****<br /><DD>YELLOWSTONE ASSOC NATURAL SCI, PO BOX 117, YELLOWSTONE NATIONAL PARK, USA, WY, 82190<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17080. YERBILIMLERI</strong></DT>
+ Annual ISSN: 1301-2894<br /><DD>HACETTEPE UNIV, HACETTEPE UNIV, ANKARA, TURKEY, 6532<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17081. YICHUAN</strong></DT>
+ Irregular ISSN: 0253-9772<br /><DD>INST GENETICS DEVELOPMENTAL BIOLOGY, CHINESE ACAD SCIENCE, 917 BUILDING DATUN RD, ANDINGMENWAI, BEIJING, PEOPLES R CHINA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17082. YIDDISH-MODERN JEWISH STUDIES</strong></DT>
+ Quarterly ISSN: 0364-4308<br /><DD>YIDDISH, QUEENS COLLEGE, N S F 350, 65 30 KISSENA BLVD, FLUSHING, USA, NY, 11367<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17083. YOKOHAMA MEDICAL BULLETIN</strong></DT>
+ Tri-annual ISSN: 0044-0531<br /><DD>YOKOHAMA CITY UNIV, SCH MEDICINE, FUKUURA 3-9, YOKOHAMA, JAPAN, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17084. YONAGO ACTA MEDICA</strong></DT>
+ Quarterly ISSN: 0513-5710<br /><DD>TOTTORI UNIV, FACULTY MEDICINE, 86 NISHI-CHO, YONAGO, JAPAN, TOTTORI-KEN, 683-8503<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17085. YONSEI MEDICAL JOURNAL</strong></DT>
+ Bimonthly ISSN: 0513-5796<br /><DD>YONSEI UNIV COLLEGE MEDICINE, IN-HONG CHOI, M.D., PH D, 50 SEONGSAN-RO, SEODAEMUN-GU, SEOUL, SOUTH KOREA, 120-752<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17086. YORKSHIRE BIRDING</strong></DT>
+ Quarterly ISSN: 1466-6375<br /><DD>YORKSHIRE BIRDING, 14 HOOBER VIEW, BARNSLEY, ENGLAND, S73 0SH<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17087. YOUNG</strong></DT>
+ Quarterly ISSN: 1103-3088<br /><DD>SAGE PUBLICATIONS LTD, 1 OLIVERS YARD, 55 CITY ROAD, LONDON, ENGLAND, EC1Y 1SP<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17088. YOUTH & SOCIETY</strong></DT>
+ Quarterly ISSN: 0044-118X<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17089. YOUTH VIOLENCE AND JUVENILE JUSTICE</strong></DT>
+ Quarterly ISSN: 1541-2040<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17090. YUGATO</strong></DT>
+ Quarterly ISSN: 0387-5695<br /><DD>YUGATO SOC, NIIGATA 2-27-29, SHINDORI-NISHI, NIIGATA, JAPAN, 950-2036<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17091. YUNNAN GEOLOGY</strong></DT>
+ Quarterly ISSN: 1004-1885<br /><DD>EDITORIAL OFFICE YUNNAN GEOLOGY, BAITA RD, KUNMING, PEOPLES R CHINA, YUNNAN PROVINCE, 650011<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17092. YUYE KEXUE JINZHAN</strong></DT>
+ Bimonthly ISSN: 1000-7075<br /><DD>YELLOW SEA FISHERIES RESEARCH INST, 106 NANJING RD, QINGDAO, PEOPLES R CHINA, SHANDONG, 266071<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17093. YUZUNCU YIL UNIVERSITY JOURNAL OF AGRICULTURAL SCIENCES</strong></DT>
+ Semiannual ISSN: 1308-7576<br /><DD>YUZUNCU YIL UNIV, ZIRAAT FAKULTESI, ZEVE KAMPSUSU, VAN, TURKEY, 65080<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17094. ZAG-PHOENIX</strong></DT>
+ Quarterly ISSN: 2192-6719<br /><DD>ZAG WIRBELLOSE E V, C/O INGO FRITSCHE, VORSITZENDER UNTER DER LINDE 8, WERNIGERODE, GERMANY, OT SILSTEDT, 38855<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17095. ZAMM-ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND MECHANIK</strong></DT>
+ Monthly ISSN: 0044-2267<br /><DD>WILEY-V C H VERLAG GMBH, BOSCHSTRASSE 12, WEINHEIM, GERMANY, D-69469<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>17096. ZAPADOCESKE ENTOMOLOGICKE LISTY</strong></DT>
+ Irregular ISSN: 1804-3062<br /><DD>ZAPADOCESKE POBOCKY CESKE SPOLECNOSTI ENTOMOLOGICKE, C/O LIBOR DVORAK, MESTSKE MUZEUM MARIANSKE LAZNE, GOETHOVO NAMESTI 11, MARIANSKE LAZNE, CZECH REPUBLIC, CZ-35301<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17097. ZAPOVIDNA SPRAVA V UKRAINI</strong></DT>
+ Semiannual ISSN: 1729-7184<br /><DD>KANIVSKIJ PRORODNIJ ZAPOVIDNIK, KANIVSKIJ PRORODNIJ ZAPOVIDNIK, KANIV, UKRAINE, 19000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17098. ZASHTITA PRIRODE</strong></DT>
+ Annual ISSN: 0514-5899<br /><DD>INST PROTECTION NATURE SERBIA, 3 BULEVAR 106, NOVI BEOGRAD, SERBIA MONTENEG, 11070<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17099. ZASTITA BILJA</strong></DT>
+ Quarterly ISSN: 0372-7866<br /><DD>INST ZA ZASTITU BILJA I ZIVOTNU SREDINU, TEODORA DRAJZERA 9, P O BOX 33-79, BELGRADE, SERBIA MONTENEG, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17100. ZBIRNYK PRATS ZOOLOGICHNOHO MUZEYA-KYIV</strong></DT>
+ Annual ISSN: 0132-1102<br /><DD>ZOOLOGICAL MUSEUM, ZOOLOGICAL MUSEUM, KIEV, UKRAINE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17101. ZBORNIK MATITSE SRPSKE ZA PRIRODNE NAUKE</strong></DT>
+ Semiannual ISSN: 0352-4906<br /><DD>DEPARTMENT NATURAL SCIENCES, UL. MATICE SRPSKE 1, NOVI SAD, YUGOSLAVIA, 21000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17102. ZBORNIK RADOVA EKONOMSKOG FAKULTETA U RIJECI-PROCEEDINGS OF RIJEKA FACULTYOF ECONOMICS</strong></DT>
+ Semiannual ISSN: 1331-8004<br /><DD>UNIV RIJEKA, FAC ECOMOMICS, IVANA FILIPOVICA 4, RIJEKA, CROATIA, 51000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17103. ZBORNIK RADOVA O FAUNI SRBIJE</strong></DT>
+ Irregular ISSN: 0351-7225<br /><DD>SRPSKA AKAD NAUKA I UMETNOSTI, KNEZ MIHAILOVA ULICA 35, P O BOX 366, BELGRADE, SERBIA MONTENEG, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17104. ZBORNIK SLOVENSKEHO NARODNEHO MUZEA PRIRODNE VEDY</strong></DT>
+ Annual ISSN: 0139-5424<br /><DD>SLOVENSKE NARODNE MUZEUM V BRATISLAVE, VAJANSKEHO NABREZIE 2, BRATISLAVA, SLOVAKIA<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17105. ZDRAVNISKI VESTNIK-SLOVENIAN MEDICAL JOURNAL</strong></DT>
+ Monthly ISSN: 1318-0347<br /><DD>SLOVENE MEDICAL SOC, ZDRAVNISKI VESTNIK, DALMATINOVA 10, P P 26, LJUBLJANA, SLOVENIA, 1001<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17106. ZDRAVSTVENO VARSTVO</strong></DT>
+ Quarterly ISSN: 0351-0026<br /><DD>INST PUBLIC HEALTH REPUBLIC SLOVENIA, TRUBARJEVA 2, PP 260, LJUBLJANA, SLOVENIA, 1000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17107. ZEBRAFISH</strong></DT>
+ Quarterly ISSN: 1545-8547<br /><DD>MARY ANN LIEBERT INC, 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, USA, NY, 10801<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17108. ZEEPAARD</strong></DT>
+ Bimonthly ISSN: 0926-3497<br /><DD>STRANDWERKGEMEENSCHAP, C/O PIET VOS, MUNNIKENSTRAAT 43, LEIDEN, NETHERLANDS, 2315 KV<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17109. ZEITGESCHICHTE</strong></DT>
+ Bimonthly ISSN: 0256-5250<br /><DD>STUDIENVERLAG, ERLERSTR 10, INNSBRUCK, AUSTRIA, A-6020<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17110. ZEITSCHRIFT DER ARBEITSGEMEINSCHAFT OESTERREICHISCHER ENTOMOLOGEN</strong></DT>
+ Quarterly ISSN: 0375-5223<br /><DD>ARBEITSGEMEINSCHAFT OESTERREICHISCHER ENTOMOLOGEN, LUDO-HARTMANN-PLATZ 7, VIENNA, AUSTRIA<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17111. ZEITSCHRIFT DER DEUTSCHEN GESELLSCHAFT FUR GEOWISSENSCHAFTEN</strong></DT>
+ Quarterly ISSN: 1860-1804<br /><DD>E SCHWEIZERBARTSCHE VERLAGSBUCHHANDLUNG, NAEGELE U OBERMILLER, SCIENCE PUBLISHERS, JOHANNESSTRASSE 3A, STUTTGART, GERMANY, D 70176<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17112. ZEITSCHRIFT DER DEUTSCHEN MORGENLANDISCHEN GESELLSCHAFT</strong></DT>
+ Semiannual ISSN: 0341-0137<br /><DD>HARRASSOWITZ VERLAG, KREUZBERGER RING 7B-D,, WIESBADEN, GERMANY, 65205<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17113. ZEITSCHRIFT DES DEUTSCHEN PALASTINA-VEREINS</strong></DT>
+ Semiannual ISSN: 0012-1169<br /><DD>VERLAG OTTO HARRASSOWITZ, TAUMUSSTR 14,, WIESBADEN, GERMANY, 65183<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17114. ZEITSCHRIFT DES DEUTSCHEN VEREINS FUR KUNSTWISSENSCHAFT</strong></DT>
+ Semiannual ISSN: 0044-2135<br /><DD>DEUTSCHER VERLAG KUNSTWISSEN, NEUE GRUNSTR 17, BERLIN, GERMANY, D-10179<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17115. ZEITSCHRIFT DES KOELNER ZOO</strong></DT>
+ Quarterly ISSN: 0375-5290<br /><DD>ZOOLOGISCHER GARTEN, RIEHLER STRASSE 173, KOELN, GERMANY, 50735<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17116. ZEITSCHRIFT FUER MYKOLOGIE</strong></DT>
+ Semiannual ISSN: 0170-110X<br /><DD>DEUTSCHE GESELLSCHAFT MYKOLOGIE, POSTFACH 700447, MUNICH, GERMANY, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17117. ZEITSCHRIFT FUR AGYPTISCHE SPRACHE UND ALTERTUMSKUNDE</strong></DT>
+ Semiannual ISSN: 0044-216X<br /><DD>AKAD VERLAG GMBH, PALISADENSTR 40, BERLIN, GERMANY, D-10243<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17118. ZEITSCHRIFT FUR ANALYSIS UND IHRE ANWENDUNGEN</strong></DT>
+ Quarterly ISSN: 0232-2064<br /><DD>EUROPEAN MATHEMATICAL SOC, PUBLISHING HOUSE, E T H-ZENTRUM SEW A27, SCHEUCHZERSTRASSE 70, ZURICH, SWITZERLAND, CH-8092<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17119. ZEITSCHRIFT FUR ANGEWANDTE GEOLOGIE</strong></DT>
+ Semiannual ISSN: 0044-2259<br /><DD>E SCHWEIZERBARTSCHE VERLAGSBUCHHANDLUNG, NAEGELE U OBERMILLER, SCIENCE PUBLISHERS, JOHANNESSTRASSE 3A, STUTTGART, GERMANY, D 70176<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17120. ZEITSCHRIFT FUR ANGEWANDTE MATHEMATIK UND PHYSIK</strong></DT>
+ Bimonthly ISSN: 0044-2275<br /><DD>SPRINGER BASEL AG, PICASSOPLATZ 4, BASEL, SWITZERLAND, 4052<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17121. ZEITSCHRIFT FUR ANGLISTIK UND AMERIKANISTIK</strong></DT>
+ Quarterly ISSN: 0044-2305<br /><DD>KONIGSHAUSEN & NEUMANN GMBH, LEISTENSTR 7, WURZBURG, GERMANY, 97082<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17122. ZEITSCHRIFT FUR ANORGANISCHE UND ALLGEMEINE CHEMIE</strong></DT>
+ Monthly ISSN: 0044-2313<br /><DD>WILEY-V C H VERLAG GMBH, BOSCHSTRASSE 12, WEINHEIM, GERMANY, D-69469<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17123. ZEITSCHRIFT FUR ANTIKES CHRISTENTUM-JOURNAL OF ANCIENT CHRISTIANITY</strong></DT>
+ Tri-annual ISSN: 0949-9571<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17124. ZEITSCHRIFT FUR ARBEITS-UND ORGANISATIONSPSYCHOLOGIE</strong></DT>
+ Quarterly ISSN: 0932-4089<br /><DD>HOGREFE & HUBER PUBLISHERS, ROHNSWEG 25, GOTTINGEN, GERMANY, D-37085<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17125. ZEITSCHRIFT FUR ARZNEI- & GEWURZPFLANZEN</strong></DT>
+ Quarterly ISSN: 1431-9292<br /><DD>AGRIMEDIA GMBH, LUCHOWER STR 13A, CLENZE, GERMANY, 29459<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17126. ZEITSCHRIFT FUR ASSYRIOLOGIE UND VORDERASIATISCHE ARCHAOLOGIE</strong></DT>
+ Semiannual ISSN: 0084-5299<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>17127. ZEITSCHRIFT FUR BIBLIOTHEKSWESEN UND BIBLIOGRAPHIE</strong></DT>
+ Bimonthly ISSN: 0044-2380<br /><DD>VITTORIO KLOSTERMANN GMBH, POSTFACH 90 06 01, FRANKFURT-AM-MAIN, GERMANY, D-60446<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17128. ZEITSCHRIFT FUR DEUTSCHE PHILOLOGIE</strong></DT>
+ Quarterly ISSN: 0044-2496<br /><DD>ERICH SCHMIDT VERLAG, GENTHINER STRASSE 30G, BERLIN-TIERGARTEN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17129. ZEITSCHRIFT FUR DEUTSCHES ALTERTUM UND DEUTSCHE LITERATUR</strong></DT>
+ Quarterly ISSN: 0044-2518<br /><DD>FRANZ STEINER VERLAG GMBH, BIRKENWALDSTRABE 44, STUTTGART, GERMANY, D-70191<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17130. ZEITSCHRIFT FUR DIALEKTOLOGIE UND LINGUISTIK</strong></DT>
+ Tri-annual ISSN: 0044-1449<br /><DD>FRANZ STEINER VERLAG GMBH, BIRKENWALDSTRABE 44, STUTTGART, GERMANY, D-70191<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17131. ZEITSCHRIFT FUR DIE ALTTESTAMENTLICHE WISSENSCHAFT</strong></DT>
+ Quarterly ISSN: 0044-2526<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17132. ZEITSCHRIFT FUR DIE NEUTESTAMENTLICHE WISSENSCHAFT UND DIE KUNDE DER ALTEREN KIRCHE</strong></DT>
+ Semiannual ISSN: 0044-2615<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17133. ZEITSCHRIFT FUR ENTWICKLUNGSPSYCHOLOGIE UND PADAGOGISCHE PSYCHOLOGIE</strong></DT>
+ Quarterly ISSN: 0049-8637<br /><DD>HOGREFE & HUBER PUBLISHERS, ROHNSWEG 25, GOTTINGEN, GERMANY, D-37085<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17134. ZEITSCHRIFT FUR ERZIEHUNGSWISSENSCHAFT</strong></DT>
+ Quarterly ISSN: 1434-663X<br /><DD>VS VERLAG SOZIALWISSENSCHAFTEN-GWV FACHVERLAGE GMBH, ABRAHAM-LINCOLN-STR 46, WIESBADEN, GERMANY, 65189<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17135. ZEITSCHRIFT FUR ETHNOLOGIE</strong></DT>
+ Semiannual ISSN: 0044-2666<br /><DD>DIETRICH REIMER VERLAG, NEUE GRUENSTR 17, BERLIN, GERMANY, 10179<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17136. ZEITSCHRIFT FUR EVALUATION</strong></DT>
+ Semiannual ISSN: 1619-5515<br /><DD>WAXMANN VERLAG GMBH, POSTFACH 8603, MUNSTER, GERMANY, D-48046<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17137. ZEITSCHRIFT FUR EVANGELISCHE ETHIK</strong></DT>
+ Quarterly ISSN: 0044-2674<br /><DD>GUTERSLOHER VERLAGSHAUS, CARL-MIELE-STR 214, GUTERSLOH, GERMANY, D-33311<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17138. ZEITSCHRIFT FUR FAMILIENFORSCHUNG</strong></DT>
+ Tri-annual ISSN: 1437-2940<br /><DD>VERLAG BARBARA BUDRICH, STAUFFENBERGSTR 7, LEVERKUSEN, GERMANY, D-51379<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17139. ZEITSCHRIFT FUR FELDHERPETOLOGIE</strong></DT>
+ Semiannual ISSN: 0946-7998<br /><DD>LAURENTI VERLAG, C/O DR. BURKHARD THIESMEIER, DIEMELWEG 7, BIELEFELD, GERMANY, D-33649<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17140. ZEITSCHRIFT FUR FISCHKUNDE</strong></DT>
+ Semiannual ISSN: 0939-6330<br /><DD>VERLAG NATUR & WISSENSCHAFT, BEREICH VERSANDBUCHHANDLUNG, HARRO HIERONIMUS & DR JURGEN SCHMIDT, DOMPFAFFWEG 53, SOLINGEN, GERMANY, 42659<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17141. ZEITSCHRIFT FUR FRANZOSISCHE SPRACHE UND LITERATUR</strong></DT>
+ Tri-annual ISSN: 0044-2747<br /><DD>FRANZ STEINER VERLAG GMBH, BIRKENWALDSTRABE 44, STUTTGART, GERMANY, D-70191<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17142. ZEITSCHRIFT FUR GASTROENTEROLOGIE</strong></DT>
+ Monthly ISSN: 0044-2771<br /><DD>GEORG THIEME VERLAG KG, RUDIGERSTR 14, STUTTGART, GERMANY, D-70469<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17143. ZEITSCHRIFT FUR GEBURTSHILFE UND NEONATOLOGIE</strong></DT>
+ Bimonthly ISSN: 0948-2393<br /><DD>GEORG THIEME VERLAG KG, RUDIGERSTR 14, STUTTGART, GERMANY, D-70469<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17144. ZEITSCHRIFT FUR GEOLOGISCHE WISSENSCHAFTEN</strong></DT>
+ Monthly ISSN: 0303-4534<br /><DD>GESELLSCHAFT FUER GEOWISSENSCHAFTEN, C/O A STORR, OSTKLUNE 11, USEDOM  WELZIN, GERMANY, D-17406<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17145. ZEITSCHRIFT FUR GEOMORPHOLOGIE</strong></DT>
+ Quarterly ISSN: 0372-8854<br /><DD>GEBRUDER BORNTRAEGER, JOHANNESSTR 3A, STUTTGART, GERMANY, D-70176<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17146. ZEITSCHRIFT FUR GERMANISTIK</strong></DT>
+ Bimonthly ISSN: 0323-7982<br /><DD>PETER LANG GMBH, EUROPAISCHER VERLAG WISSENSCH JUPITERSTRASSE 15, BERN 15, SWITZERLAND, CH-3000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17147. ZEITSCHRIFT FUR GERMANISTISCHE LINGUISTIK</strong></DT>
+ Tri-annual ISSN: 0301-3294<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17148. ZEITSCHRIFT FUR GERONTOLOGIE UND GERIATRIE</strong></DT>
+ Bimonthly ISSN: 0948-6704<br /><DD>SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, HEIDELBERG, GERMANY, D-69121<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17149. ZEITSCHRIFT FUR GESCHICHTSWISSENSCHAFT</strong></DT>
+ Monthly ISSN: 0044-2828<br /><DD>METROPOL-VERLAG, KURFURSTENSTRASSE 135, BERLIN, GERMANY, 10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17150. ZEITSCHRIFT FUR GESUNDHEITSPSYCHOLOGIE</strong></DT>
+ Quarterly ISSN: 0943-8149<br /><DD>HOGREFE & HUBER PUBLISHERS, ROHNSWEG 25, GOTTINGEN, GERMANY, D-37085<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17151. ZEITSCHRIFT FUR HISTORISCHE FORSCHUNG</strong></DT>
+ Quarterly ISSN: 0340-0174<br /><DD>DUNCKER & HUMBLOT GMBH, POSTFACH 410329, BERLIN, GERMANY, 12113<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17152. ZEITSCHRIFT FUR KATALANISTIK</strong></DT>
+ Annual ISSN: 0932-2221<br /><DD>ALBERT LUDWIGS UNIV, ROMANISCHES SEMINAR, PLATZ DER UNIVERSITAT 3, FREIBURG IM BREISGAU, GERMANY, D-79085<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>17153. ZEITSCHRIFT FUR KINDER-UND JUGENDPSYCHIATRIE UND PSYCHOTHERAPIE</strong></DT>
+ Bimonthly ISSN: 1422-4917<br /><DD>VERLAG HANS HUBER, LANGGASS-STRASSE 76, BERN 9, SWITZERLAND, CH-3000<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17154. ZEITSCHRIFT FUR KIRCHENGESCHICHTE</strong></DT>
+ Tri-annual ISSN: 0044-2925<br /><DD>W KOHLHAMMER GMBH, HESSBRUHLSTRASSE 69 POSTFACH 800430, STUTTGART, GERMANY, W-7000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17155. ZEITSCHRIFT FUR KLINISCHE PSYCHOLOGIE UND PSYCHOTHERAPIE</strong></DT>
+ Quarterly ISSN: 1616-3443<br /><DD>HOGREFE & HUBER PUBLISHERS, ROHNSWEG 25, GOTTINGEN, GERMANY, D-37085<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17156. ZEITSCHRIFT FUR KRISTALLOGRAPHIE</strong></DT>
+ Monthly ISSN: 0044-2968<br /><DD>OLDENBOURG VERLAG, LEKTORAT MINT, POSTFACH 80 13 60, MUNICH, GERMANY, D-81613<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17157. ZEITSCHRIFT FUR KRISTALLOGRAPHIE-NEW CRYSTAL STRUCTURES</strong></DT>
+ Quarterly ISSN: 1433-7266<br /><DD>OLDENBOURG VERLAG, LEKTORAT MINT, POSTFACH 80 13 60, MUNICH, GERMANY, D-81613<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17158. ZEITSCHRIFT FUR KUNSTGESCHICHTE</strong></DT>
+ Quarterly ISSN: 0044-2992<br /><DD>DEUTSCHER KUNSTVERLAG GMBH, NYMPHENBURGER STR 84, MUNICH, GERMANY, 80636<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17159. ZEITSCHRIFT FUR MEDIZINISCHE PHYSIK</strong></DT>
+ Quarterly ISSN: 0939-3889<br /><DD>ELSEVIER GMBH, URBAN & FISCHER VERLAG, OFFICE JENA, P O BOX 100537, JENA, GERMANY, 07705<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17160. ZEITSCHRIFT FUR NATIONALOKONOMIE</strong></DT>
+ Irregular ISSN: 0044-3158<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17161. ZEITSCHRIFT FUR NATURFORSCHUNG SECTION A-A JOURNAL OF PHYSICAL SCIENCES</strong></DT>
+ Monthly ISSN: 0932-0784<br /><DD>VERLAG Z NATURFORSCH, POSTFACH 2645, TUBINGEN, GERMANY, 72016<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17162. ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES</strong></DT>
+ Monthly ISSN: 0932-0776<br /><DD>VERLAG Z NATURFORSCH, POSTFACH 2645, TUBINGEN, GERMANY, 72016<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17163. ZEITSCHRIFT FUR NATURFORSCHUNG SECTION C-A JOURNAL OF BIOSCIENCES</strong></DT>
+ Bimonthly ISSN: 0939-5075<br /><DD>VERLAG Z NATURFORSCH, POSTFACH 2645, TUBINGEN, GERMANY, 72016<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17164. ZEITSCHRIFT FUR NEUROPSYCHOLOGIE</strong></DT>
+ Quarterly ISSN: 1016-264X<br /><DD>VERLAG HANS HUBER, LANGGASS-STRASSE 76, BERN 9, SWITZERLAND, CH-3000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17165. ZEITSCHRIFT FUR ORTHOPADIE UND UNFALLCHIRURGIE</strong></DT>
+ Bimonthly ISSN: 1864-6697<br /><DD>THIEME MEDICAL PUBL INC, 333 SEVENTH AVE, NEW YORK, USA, NY, 10001<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17166. ZEITSCHRIFT FUR PADAGOGIK</strong></DT>
+ Bimonthly ISSN: 0044-3247<br /><DD>VERLAG JULIUS BELTZ, AM HAUPTBAHNHOF 10 POSTFACH 1120, WEINHEIM, GERMANY, W-6940<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17167. ZEITSCHRIFT FUR PADAGOGISCHE PSYCHOLOGIE</strong></DT>
+ Tri-annual ISSN: 1010-0652<br /><DD>VERLAG HANS HUBER, LANGGASS-STRASSE 76, BERN 9, SWITZERLAND, CH-3000<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17168. ZEITSCHRIFT FUR PERSONALFORSCHUNG</strong></DT>
+ Quarterly ISSN: 0179-6437<br /><DD>RAINER HAMPP VERLAG, MERINGERZELLERSTR 10, MERING, GERMANY, D-86415<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17169. ZEITSCHRIFT FUR PHILOSOPHISCHE FORSCHUNG</strong></DT>
+ Quarterly ISSN: 0044-3301<br /><DD>VITTORIO KLOSTERMANN GMBH, POSTFACH 90 06 01, FRANKFURT-AM-MAIN, GERMANY, D-60446<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17170. ZEITSCHRIFT FUR PHYSIK</strong></DT>
+ Irregular ISSN: 0044-3328<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17171. ZEITSCHRIFT FUR PHYSIKALISCHE CHEMIE-INTERNATIONAL JOURNAL OF RESEARCH IN PHYSICAL CHEMISTRY & CHEMICAL PHYSICS</strong></DT>
+ Monthly ISSN: 0942-9352<br /><DD>OLDENBOURG VERLAG, LEKTORAT MINT, POSTFACH 80 13 60, MUNICH, GERMANY, D-81613<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>17172. ZEITSCHRIFT FUR PSYCHIATRIE PSYCHOLOGIE UND PSYCHOTHERAPIE</strong></DT>
+ Quarterly ISSN: 1661-4747<br /><DD>VERLAG HANS HUBER, LANGGASS-STRASSE 76, BERN 9, SWITZERLAND, CH-3000<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17173. ZEITSCHRIFT FUR PSYCHOLOGIE</strong></DT>
+ Monthly ISSN: 0323-8342<br /><DD>HOGREFE & HUBER PUBLISHERS, ROHNSWEG 25, GOTTINGEN, GERMANY, D-37085<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17174. ZEITSCHRIFT FUR PSYCHOLOGIE-JOURNAL OF PSYCHOLOGY</strong></DT>
+ Quarterly ISSN: 2190-8370<br /><DD>HOGREFE & HUBER PUBLISHERS, ROHNSWEG 25, GOTTINGEN, GERMANY, D-37085<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17175. ZEITSCHRIFT FUR PSYCHOSOMATISCHE MEDIZIN UND PSYCHOTHERAPIE</strong></DT>
+ Quarterly ISSN: 1438-3608<br /><DD>VANDENHOECK & RUPRECHT, THEATERSTRASSE 13,, GOTTINGEN, GERMANY, D-37073<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17176. ZEITSCHRIFT FUR RELIGIONS-UND GEISTESGESCHICHTE</strong></DT>
+ Quarterly ISSN: 0044-3441<br /><DD>BRILL ACADEMIC PUBLISHERS, PLANTIJNSTRAAT 2, P O BOX 9000, LEIDEN, NETHERLANDS, 2300 PA<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17177. ZEITSCHRIFT FUR RHEUMATOLOGIE</strong></DT>
+ Monthly ISSN: 0340-1855<br /><DD>SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, HEIDELBERG, GERMANY, D-69121<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17178. ZEITSCHRIFT FUR ROMANISCHE PHILOLOGIE</strong></DT>
+ Quarterly ISSN: 0049-8661<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17179. ZEITSCHRIFT FUR SEMIOTIK</strong></DT>
+ Quarterly ISSN: 0170-6241<br /><DD>STAUFFENBURG VERLAG, BRIGITTE NARR GMBH, AUGUST-BEBEL-STR 17,  P.O. BOX 2525, TUBINGEN, GERMANY, D-72072<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17180. ZEITSCHRIFT FUR SEXUALFORSCHUNG</strong></DT>
+ Quarterly ISSN: 0932-8114<br /><DD>GEORG THIEME VERLAG KG, RUDIGERSTR 14, STUTTGART, GERMANY, D-70469<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17181. ZEITSCHRIFT FUR SLAVISCHE PHILOLOGIE</strong></DT>
+ Semiannual ISSN: 0044-3492<br /><DD>UNIVERSITATSVERLAG C WINTER HEIDELBERG GMBH, POSTFACH 10 61 40, HEIDELBERG, GERMANY, D-69051<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17182. ZEITSCHRIFT FUR SLAWISTIK</strong></DT>
+ Quarterly ISSN: 0044-3506<br /><DD>AKAD VERLAG GMBH, PALISADENSTR 40, BERLIN, GERMANY, D-10243<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17183. ZEITSCHRIFT FUR SOZIOLOGIE</strong></DT>
+ Bimonthly ISSN: 0340-1804<br /><DD>LUCIUS LUCIUS VERLAG MBH, GEROKSTR 51, STUTTGART, GERMANY, D-70184<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>17184. ZEITSCHRIFT FUR SOZIOLOGIE DER ERZIEHUNG UND SOZIALISATION</strong></DT>
+ Quarterly ISSN: 1436-1957<br /><DD>JUVENTA VERLAG GMBH, EHRETSTR 3, WEINHEIM, GERMANY, 69469<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17185. ZEITSCHRIFT FUR SPORTPSYCHOLOGIE</strong></DT>
+ Quarterly ISSN: 1612-5010<br /><DD>HOGREFE & HUBER PUBLISHERS, ROHNSWEG 25, GOTTINGEN, GERMANY, D-37085<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17186. ZEITSCHRIFT FUR SPRACHWISSENSCHAFT</strong></DT>
+ Semiannual ISSN: 0721-9067<br /><DD>MOUTON DE GRUYTER, GENTHINER STRASSE 13, BERLIN, GERMANY, 10785<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>17187. ZEITSCHRIFT FUR THEOLOGIE UND KIRCHE</strong></DT>
+ Quarterly ISSN: 0044-3549<br /><DD>J C B MOHR, POSTFACH 2040, TUBINGEN, GERMANY, W-7400<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17188. ZEITSCHRIFT FUR VOLKSKUNDE</strong></DT>
+ Semiannual ISSN: 0044-3700<br /><DD>W KOHLHAMMER GMBH, HESSBRUHLSTRASSE 69 POSTFACH 800430, STUTTGART, GERMANY, W-7000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17189. ZEITSCHRIFT FUR WIRTSCHAFTSGEOGRAPHIE</strong></DT>
+ Quarterly ISSN: 0044-3751<br /><DD>BUCHENVERLAG, POSTFACH 1128, BAD SODEN, GERMANY, 65796<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>17190. ZELEDONIA</strong></DT>
+ Semiannual ISSN: 1659-0732<br /><DD>ASOC ORNITOLOGICA COSTA RICA, APDO 2289-1002, SAN JOSE, COSTA RICA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17191. ZEMDIRBYSTE-AGRICULTURE</strong></DT>
+ Quarterly ISSN: 1392-3196<br /><DD>LITHUANIAN RESEARCH CENTRE AGRICULTURE & FORESTRY, ALEXANDRAS STULGINSKIS UNIV, KEDAINIU R, LITHUANIA, LT-58344<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>17192. ZENTRALBLATT FUR CHIRURGIE</strong></DT>
+ Monthly ISSN: 0044-409X<br /><DD>GEORG THIEME VERLAG KG, RUDIGERSTR 14, STUTTGART, GERMANY, D-70469<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>17193. ZESZYTY NAUKOWE UNIWERSYTETU PRZYRODNICZEGO WE WROCLAWIU</strong></DT>
+ Irregular ISSN: 1897-208X<br /><DD>WROCLAW UNIV ENVIRON & LIFE SCI, UL. SOPOCKA 23, WROCLAW, POLAND, 50-344<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17194. ZEYLANICA</strong></DT>
+ Semiannual ISSN: 1391-6270<br /><DD>WHT PUBLICATIONS-PTE LTD, 95 COTTA RD, COLOMBO, SRI LANKA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17195. ZGAP MITTEILUNGEN</strong></DT>
+ Semiannual ISSN: 1616-9956<br /><DD>ZOOLOGISCHE GESELLSCHAFT ARTEN- POPULATIONSSCHUTZ E V, C/O DIRK PETZOLD, GEHSENWEG 28, BIELEFELD, GERMANY, D-33619<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17196. ZHEJIANG NONGLIN DAXUE XUEBAO</strong></DT>
+ Bimonthly ISSN: 2095-0756<br /><DD>ZHEJIANG A&F UNIV, 88 HUANCHENG BEI LU, LINAN CITY, PEOPLES R CHINA, ZHEJIANG PROVINCE, 311300<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17197. ZHIVOTNOV DNI NAUKI</strong></DT>
+ Bimonthly ISSN: 0514-7441<br /><DD>CENTRE SCIENTIFIC & TECHN INFO, PUBL DEPT, 125 TZARIGRADSKO SHOSSE BLVD, BLOCK 1, SOFIA, BULGARIA, 1113<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17198. ZHIVOTNYI MIR DALNEGO VOSTOKA</strong></DT>
+ Bimonthly ISSN: 0208-1547<br /><DD>BLAGOVESHCHENSKIY STATE PEDAGOGICAL UNIV, BLAGOVESHCHENSKIY STATE PEDAGOGICAL UNIV, BLAGOVESHCHENSK, RUSSIA, 675000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17199. ZHONGGUO CHAOSHENG YIXUE ZAZHI</strong></DT>
+ Monthly ISSN: 1002-0101<br /><DD>CHINESE INFORMATION CENTER ULTRASOUND DIAGNOSIS, 2 BEIYUAN  P O BOX 1609, BEIJING, PEOPLES R CHINA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17200. ZHONGGUO HAIYANG DAXUE XUEBAO</strong></DT>
+ Bimonthly ISSN: 1672-5174<br /><DD>OCEAN UNIV CHINA, 5 YUSHAN RD, QINGDAO, PEOPLES R CHINA, 266003<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17201. ZHONGGUO MEIJIESHENGWUXUE JI KONGZHI ZAZHI</strong></DT>
+ Bimonthly ISSN: 1003-8280<br /><DD>EDITORIAL OFFICE CHINESE JOURNAL VECTOR BIOLOGY CONTROL, P.O. BOX 5, CHANGPING, PEOPLES R CHINA, BEIJING, 102206<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17202. ZHONGGUO NONGYE DAXUE XUEBAO</strong></DT>
+ Bimonthly ISSN: 1007-4333<br /><DD>CHINA AGRICULTURAL UNIV, NO 2 YUANMINGYUAN XILU, BEIJING, PEOPLES R CHINA, 100193<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17203. ZHONGGUO SENLIN BINGCHONG</strong></DT>
+ Bimonthly ISSN: 1671-0886<br /><DD>FOREST PEST DISEASE, NO. 58 NORTH HUANGHE ST., SHENYANG, PEOPLES R CHINA, 110034<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17204. ZHONGGUO SHOUYI KEXUE</strong></DT>
+ Monthly ISSN: 1673-4696<br /><DD>LANZHOU VETERINARY RESEARCH INST, XUJIAPING 1, YANCHANGBU, LANZHOU, PEOPLES R CHINA, GANSU, 730046<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17205. ZHONGGUO XUEXICHONGBING FANGZHI ZAZHI</strong></DT>
+ Bimonthly ISSN: 1005-6661<br /><DD>CHINA PREVENTATIVE MEDICINE ASSOC, MEIYUAN, WUXI, PEOPLES R CHINA, JIANGSU, 214064<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17206. ZHONGGUO YIYAO GONGYE ZAZHI</strong></DT>
+ Monthly ISSN: 1001-8255<br /><DD>SHANGHAI INST PHARMACEUTICAL INDUSTRY, 1320 BEIJING XI LU, SHANGHAI, PEOPLES R CHINA, 00000<ol> 
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17207. ZHONGGUO ZHONGYAO ZAZHI</strong></DT>
+ Monthly ISSN: 1001-5302<br /><DD>CHINA JOURNAL CHINESE MATERIA MEDICA, 18 BEIXINCANG, INNER DONGZHIMEN, BEIJING, AFGHANISTAN, 00000<ol> 
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17208. ZHONGHUA JIEHE HE HUXI ZAZHI</strong></DT>
+ Monthly ISSN: 1001-0939<br /><DD>CHINESE MEDICAL ASSOC, 42 DONGSI XIDAJIE, BEIJING, PEOPLES R CHINA, 100710<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17209. ZHONGHUA PIFUKE ZAZHI</strong></DT>
+ Irregular ISSN: 0412-4030<br /><DD>INST DERMATOLOGY, CHINESE ACAD MEDICAL SCIENCES PEKING UNIV, 14, JIANG-WANG-MIAO RD, NANJING, PEOPLES R CHINA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17210. ZHONGHUA WEISHENG SHACHONG YAOXIE</strong></DT>
+ Bimonthly ISSN: 1671-2781<br /><DD>CENTER DISEASE CONTROL & PREVENTION NANJING COMMAND, 293 ZHONGSHAN EAST RD, NANJING, PEOPLES R CHINA, JIANGSU, 210002<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17211. ZHONGHUA XINXUEGUANBING ZAZHI</strong></DT>
+ Irregular ISSN: 0253-3758<br /><DD>CHINESE MEDICAL ASSOC, 42 DONGSI XIDAJIE, BEIJING, PEOPLES R CHINA, 100710<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17212. ZHONGHUA YUFANG YIXUE ZAZHI</strong></DT>
+ Irregular ISSN: 0253-9624<br /><DD>CHINESE MEDICAL ASSOC, 42 DONGSI XIDAJIE, BEIJING, PEOPLES R CHINA, 100710<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17213. ZHONGHUA ZHONGLIU ZAZHI</strong></DT>
+ Irregular ISSN: 0253-3766<br /><DD>CANCER INST, CHINESE ACAD MEDICAL SCIENCES, C/O PEKING UNION MEDICAL COLLEGE, 17, PANJIAYUAN, BEIJING, PEOPLES R CHINA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17214. ZHURNAL MIKROBIOLOGII EPIDEMIOLOGII I IMMUNOBIOLOGII</strong></DT>
+ Monthly ISSN: 0372-9311<br /><DD>S-INFO, A-YA 42, MOSCOW, RUSSIA, 125284<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17215. ZHURNAL NEVROLOGII I PSIKHIATRII IMENI S S KORSAKOVA</strong></DT>
+ Monthly ISSN: 1997-7298<br /><DD>IZDATELSTVO MEDITSINA, PETROVERIGSKII PER 6-8, MOSCOW, RUSSIA, K-142<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17216. ZHURNAL OBSHCHEI BIOLOGII</strong></DT>
+ Bimonthly ISSN: 0044-4596<br /><DD>MEZHDUNARODNAYA KNIGA, 39 DIMITROVA UL., MOSCOW, RUSSIA, 113095<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17217. ZHURNAL VYSSHEI NERVNOI DEYATELNOSTI IMENI I P PAVLOVA</strong></DT>
+ Bimonthly ISSN: 0044-4677<br /><DD>MEZHDUNARODNAYA KNIGA, 39 DIMITROVA UL., MOSCOW, RUSSIA, 113095<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17218. ZIMBABWE SCIENCE NEWS</strong></DT>
+ Quarterly ISSN: 1016-1503<br /><DD>ZIMBABWE SCIENTIFIC ASSOC NEWS, P. O. BOX CY 124  CAUSEWAY, HARARE, ZIMBABWE, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17219. ZITTELIANA REIHE A</strong></DT>
+ Annual ISSN: 1612-412X<br /><DD>BAYERISCHE STAATSSAMMLUNG  PALAEONTOLOGIE & GEOLOGIE, RICHARD-WAGNER-STRASSE 10, MUNICH, GERMANY, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17220. ZITTELIANA REIHE B</strong></DT>
+ Irregular ISSN: 1612-4138<br /><DD>BAYERISCHE STAATSSAMMLUNG  PALAEONTOLOGIE & GEOLOGIE, RICHARD-WAGNER-STRASSE 10, MUNICH, GERMANY, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17221. ZIVOT UMJETNOSTI</strong></DT>
+ Semiannual ISSN: 0514-7794<br /><DD>INST POVIJEST UMJETNOSTI-INST ART HISTORY, ULICA GRADA VUKOVARA 68, ZAGREB, CROATIA, 10000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>17222. ZKG INTERNATIONAL</strong></DT>
+ Monthly ISSN: 0949-0205<br /><DD>BAUVERLAG BV GMBH, AVENWEDDER STR 55, GUTERSLOH, GERMANY, 33311<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>17223. ZOGRAF</strong></DT>
+ Annual ISSN: 0350-1361<br /><DD>UNIV BELGRADE, INST ART HISTORY, FACULTY PHILOSOPHY, CIKA KJUBINA 18-20, BELGRADE, SERBIA, 11000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17224. ZOO BIOLOGY</strong></DT>
+ Bimonthly ISSN: 0733-3188<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17225. ZOO INDONESIA</strong></DT>
+ Semiannual ISSN: 0215-191X<br /><DD>MASYARAKAT ZOOLOGI INDONESIA, D/A BIDANG ZOOLOGI-PUSLIT BIOLOGI LIPI, JL RAYA CIBINONG KM 46, CIBINONG, INDONESIA, 16911<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17226. ZOOGDIER</strong></DT>
+ Quarterly ISSN: 0925-1006<br /><DD>VERENIGING VOOR ZOOGDIERKUNDE EN ZOOGDIERBESCHERMING-VZZ, OUDE KRAAN 8, ARNHEM, NETHERLANDS, 6811 LJ<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17227. ZOOKEYS</strong></DT>
+ Irregular ISSN: 1313-2989<br /><DD>PENSOFT PUBL, GEO MILEV STR 13A, SOFIA, BULGARIA, 1111<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17228. ZOOLOGIA</strong></DT>
+ Quarterly ISSN: 1984-4670<br /><DD>SOC BRASILEIRA ZOOLOGIA, UNIV FEDERAL PARANA, CAIXA POSTAL 19020, CURITIBA, BRAZIL, PARANA, 81531-980<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17229. ZOOLOGIA CABOVERDIANA</strong></DT>
+ Irregular ISSN: 2074-5737<br /><DD>SOC CABOVERDIANA ZOOL, CAIXA POSTAL 177A, SAO VICENTE, CAPE VERDE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17230. ZOOLOGICA BAETICA</strong></DT>
+ Annual ISSN: 1130-4251<br /><DD>UNIV GRANADA, UNIV GRANADA, GRANADA, SPAIN, 18071<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17231. ZOOLOGICA POLONIAE</strong></DT>
+ Quarterly ISSN: 0044-510X<br /><DD>POLSKIE TOWARZYSTWA ZOOLOGICZNEGO, C/O JAN KOTUSZ, SEC, MUZ. PRZYRODNICZE, UNIW WROCLAWSKI, UL. SIENKIEWICZA 21, WROCLAW, POLAND, 50 335<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17232. ZOOLOGICA SCRIPTA</strong></DT>
+ Bimonthly ISSN: 0300-3256<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17233. ZOOLOGICA-STUTTGART</strong></DT>
+ Irregular ISSN: 0044-5088<br /><DD>E SCHWEIZERBARTSCHE VERLAGSBUCHHANDLUNG, NAEGELE U OBERMILLER, SCIENCE PUBLISHERS, JOHANNESSTRASSE 3A, STUTTGART, GERMANY, D 70176<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17234. ZOOLOGICAL BIBLIOGRAPHY</strong></DT>
+ Quarterly ISSN: 2045-4643<br /><DD>AVES PRESS LTD, C/O EDWARD C DICKINSON, FLAT 3, BOLSOVER COURT, 19 BOLSOVER RD, EASTBOURNE, ENGLAND, BN20 7JG<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17235. ZOOLOGICAL JOURNAL OF THE LINNEAN SOCIETY</strong></DT>
+ Monthly ISSN: 0024-4082<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17236. ZOOLOGICAL RESEARCH</strong></DT>
+ Bimonthly ISSN: 0254-5853<br /><DD>SCIENCE PRESS, 16 DONGHUANGCHENGGEN NORTH ST, BEIJING, PEOPLES R CHINA, 100717<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17237. ZOOLOGICAL SCIENCE</strong></DT>
+ Monthly ISSN: 0289-0003<br /><DD>ZOOLOGICAL SOC JAPAN, TOSHIN-BUILDING, HONGO 2-27-2, BUNKYO-KU, TOKYO, JAPAN, 113-0033<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17238. ZOOLOGICAL STUDIES</strong></DT>
+ Bimonthly ISSN: 1021-5506<br /><DD>ACAD SINICA INST ZOOLOGY, EDITORIAL OFFICE, TAIPEI, TAIWAN, 115<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17239. ZOOLOGICHESKIE ISSLEDOVANIA</strong></DT>
+ Irregular ISSN: 1025-532X<br /><DD>UNIV QATAR, FAC SCIENCE, P O BOX 2713, DOHA, QATAR, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17240. ZOOLOGICHESKY ZHURNAL</strong></DT>
+ Monthly ISSN: 0044-5134<br /><DD>MAIK NAUKA-INTERPERIODIC PUBLISHING, PROFSOYUZNAYA UL 90, MOSCOW, RUSSIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17241. ZOOLOGIIS INSTITUTIS SROMEBI</strong></DT>
+ Irregular ISSN: 1512-1720<br /><DD>AKAD NAUK GRUZII, INST ZOOLOGY, CHAVCHAVADZE AVE, TBILISI 31, REP OF GEORGIA, 0197<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17242. ZOOLOGISCHE GARTEN</strong></DT>
+ Bimonthly ISSN: 0044-5169<br /><DD>ELSEVIER GMBH, URBAN & FISCHER VERLAG, OFFICE JENA, P O BOX 100537, JENA, GERMANY, 07705<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17243. ZOOLOGISCHE MEDEDELINGEN</strong></DT>
+ Irregular ISSN: 0024-0672<br /><DD>NATL NATUURHISTORISCH MUSEUM, P O BOX 9517, LEIDEN, NETHERLANDS, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17244. ZOOLOGISCHER ANZEIGER</strong></DT>
+ Quarterly ISSN: 0044-5231<br /><DD>ELSEVIER GMBH, URBAN & FISCHER VERLAG, OFFICE JENA, P O BOX 100537, JENA, GERMANY, 07705<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17245. ZOOLOGIYA BESPOZVONOCHNYKH</strong></DT>
+ Semiannual ISSN: 1812-9250<br /><DD>KMK SCIENTIFIC PRESS LTD, MOSCOW STATE UNIV, ZOOLOGICAL MUSEUM, BOLSHAYA NIKITSKAYA STREET 6, MOSCOW, RUSSIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17246. ZOOLOGY</strong></DT>
+ Bimonthly ISSN: 0944-2006<br /><DD>ELSEVIER GMBH, URBAN & FISCHER VERLAG, OFFICE JENA, P O BOX 100537, JENA, GERMANY, 07705<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17247. ZOOLOGY AND ECOLOGY</strong></DT>
+ Quarterly ISSN: 2165-8005<br /><DD>TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17248. ZOOLOGY IN THE MIDDLE EAST</strong></DT>
+ Annual ISSN: 0939-7140<br /><DD>TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17249. ZOOMORPHOLOGY</strong></DT>
+ Quarterly ISSN: 0720-213X<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17250. ZOONOSES AND PUBLIC HEALTH</strong></DT>
+ Bimonthly ISSN: 1863-1959<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17251. ZOONOTES</strong></DT>
+ Irregular ISSN: 1313-9916<br /><DD>PLOVDIV UNIV, 24 TSAR ASEN ST, PLOVDIV, BULGARIA, 4000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17252. ZOONOVA</strong></DT>
+ Irregular ISSN: 1759-0116<br /><DD>AFRIHERP COMUNICATIONS, 30 LEGION RD, GREENFORD, ENGLAND, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17253. ZOOS PRINT</strong></DT>
+ Monthly ISSN: 0971-6378<br /><DD>ZOO OUTREACH ORGANISATION, 96, KUMUDHAM NAGAR, VILANKURICHI RD, COIMBATORE, INDIA, TAMIL NADU, 641 035<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17254. ZOOSYSTEMA</strong></DT>
+ Quarterly ISSN: 1280-9551<br /><DD>PUBLICATIONS SCIENTIFIQUES DU MUSEUM, PARIS, CP 39-57, RUE CUVIER, PARIS CEDEX 05, FRANCE, F-75231<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17255. ZOOSYSTEMATICA ROSSICA</strong></DT>
+ Semiannual ISSN: 0320-9180<br /><DD>ZOOLOGICAL INST, ST PETERSBURG UNIV, UNIVERSITETSKAYA NAB., 1, C/O DR. ILYA GAVRILOV, ST PETERSBURG, RUSSIA, 199034<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17256. ZOOSYSTEMATICS AND EVOLUTION</strong></DT>
+ Semiannual ISSN: 1435-1935<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17257. ZOOTAXA</strong></DT>
+ Irregular ISSN: 1175-5326<br /><DD>MAGNOLIA PRESS, PO BOX 41383, AUCKLAND, NEW ZEALAND, ST LUKES, 1030<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17258. ZOOTECNIA TROPICAL</strong></DT>
+ Tri-annual ISSN: 0798-7269<br /><DD>CENTRO NACIONAL INVESTIGACIONES AGROPECUARIAS VENEZUELA, AVENIDA CASANOVA GODOY, MARACAY, VENEZUELA, ESTADO ARAGUA, 2103<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17259. ZOOVITA</strong></DT>
+ Irregular ISSN: 1439-4650<br /><DD>CURCULIO-INST, HAUWEG 62, MOENCHENGLADBACH, GERMANY, D-41066<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17260. ZPRAVY MOS</strong></DT>
+ Irregular ISSN: 0231-5750<br /><DD>MORAVIAN ORNITHOLOGICAL SOC, P.O. BOX 65, PREROV, CZECH REPUBLIC, 750 65<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17261. ZPRAVY VLASTIVEDNEHO MUZEA V OLOMOUCI</strong></DT>
+ Irregular ISSN: 1212-1134<br /><DD>VLASTIVEDNE MUZEUM V OLOMOUCI, NAM. REPUBLIKY 5, OLOMOUC, CZECH REPUBLIC, 771 73<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17262. ZSL CONSERVATION REPORT</strong></DT>
+ Irregular ISSN: 1744-3997<br /><DD>ZOOLOGICAL SOC LONDON, REGENTS PARK, LONDON, UNITED KINGDOM, NW1 4RY<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>17263. ZUCHTUNGSKUNDE</strong></DT>
+ Bimonthly ISSN: 0044-5401<br /><DD>EUGEN ULMER GMBH CO, POSTFACH 700561 WOLLGRASWEG 41, STUTTGART, GERMANY, D-70599<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17264. ZYGON</strong></DT>
+ Quarterly ISSN: 0591-2385<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>17265. ZYGOTE</strong></DT>
+ Quarterly ISSN: 0967-1994<br /><DD>CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>17266. ZYWNOSC-NAUKA TECHNOLOGIA JAKOSC</strong></DT>
+ Quarterly ISSN: 1425-6959<br /><DD>POLSKIE TOWARZYSTWO TECHNOLOGOW ZYWNOSCI, AL 29 LISTOPADA 46, KRAKOW, POLAND, 31-425<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+
+</dl>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,3974 @@
+
+<html>
+<head>
+<title>Journal Format For Print Page: ISI</title>
+</head>
+<body>
+
+<form method="post" action="/cgi-bin/jrnlst/jlresults.cgi">
+
+<!-- <em>
+(Use Browser Back button to return to previous page)
+</em> -->
+
+<p>
+<strong>
+Thomson Reuters Master Journal List
+ - 
+JOURNAL LIST
+</strong>
+<br />
+Total journals: 17266
+</p>
+
+<dl>
+<DT><strong>14501. RETINA-THE JOURNAL OF RETINAL AND VITREOUS DISEASES</strong></DT>
+ Monthly ISSN: 0275-004X<br /><DD>LIPPINCOTT WILLIAMS & WILKINS, 530 WALNUT ST, PHILADELPHIA, USA, PA, 19106-3621<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14502. RETROVIROLOGY</strong></DT>
+ Irregular ISSN: 1742-4690<br /><DD>BIOMED CENTRAL LTD, 236 GRAYS INN RD, FLOOR 6, LONDON, ENGLAND, WC1X 8HL<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14503. REUMATOLOGIA</strong></DT>
+ Bimonthly ISSN: 0034-6233<br /><DD>INST REUMATOLOGICZNY, UL. SPARTANSKA 1, WARSAW, POLAND, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14504. REVIEW OF ACCOUNTING STUDIES</strong></DT>
+ Quarterly ISSN: 1380-6653<br /><DD>SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14505. REVIEW OF AFRICAN POLITICAL ECONOMY</strong></DT>
+ Quarterly ISSN: 0305-6244<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14506. REVIEW OF CENTRAL AND EAST EUROPEAN LAW</strong></DT>
+ Quarterly ISSN: 0925-9880<br /><DD>MARTINUS NIJHOFF PUBL, PO BOX 9000, LEIDEN, NETHERLANDS, 2300 PA<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14507. REVIEW OF COGNITIVE LINGUISTICS</strong></DT>
+ Semiannual ISSN: 1877-9751<br /><DD>JOHN BENJAMINS PUBLISHING COMPANY, PO BOX 36224, AMSTERDAM, NETHERLANDS, 1020 ME<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14508. REVIEW OF DERIVATIVES RESEARCH</strong></DT>
+ Tri-annual ISSN: 1380-6645<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14509. REVIEW OF DEVELOPMENT ECONOMICS</strong></DT>
+ Quarterly ISSN: 1363-6669<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14510. REVIEW OF ECONOMIC DESIGN</strong></DT>
+ Quarterly ISSN: 1434-4742<br /><DD>SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, HEIDELBERG, GERMANY, D-69121<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14511. REVIEW OF ECONOMIC DYNAMICS</strong></DT>
+ Quarterly ISSN: 1094-2025<br /><DD>ACADEMIC PRESS INC ELSEVIER SCIENCE, 525 B ST, STE 1900, SAN DIEGO, USA, CA, 92101-4495<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14512. REVIEW OF ECONOMIC STUDIES</strong></DT>
+ Quarterly ISSN: 0034-6527<br /><DD>OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14513. REVIEW OF ECONOMICS AND STATISTICS</strong></DT>
+ Quarterly ISSN: 0034-6535<br /><DD>MIT PRESS, 55 HAYWARD STREET, CAMBRIDGE, USA, MA, 02142<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14514. REVIEW OF ECONOMICS OF THE HOUSEHOLD</strong></DT>
+ Quarterly ISSN: 1569-5239<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14515. REVIEW OF EDUCATIONAL RESEARCH</strong></DT>
+ Quarterly ISSN: 0034-6543<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14516. REVIEW OF ENGLISH STUDIES</strong></DT>
+ Bimonthly ISSN: 0034-6551<br /><DD>OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14517. REVIEW OF ENVIRONMENTAL ECONOMICS AND POLICY</strong></DT>
+ Semiannual ISSN: 1750-6816<br /><DD>OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14518. REVIEW OF FAITH & INTERNATIONAL AFFAIRS</strong></DT>
+ Quarterly ISSN: 1557-0274<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14519. REVIEW OF FINANCE</strong></DT>
+ Quarterly ISSN: 1572-3097<br /><DD>OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14520. REVIEW OF FINANCIAL STUDIES</strong></DT>
+ Monthly ISSN: 0893-9454<br /><DD>OXFORD UNIV PRESS INC, JOURNALS DEPT, 2001 EVANS RD, CARY, USA, NC, 27513<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14521. REVIEW OF GENERAL PSYCHOLOGY</strong></DT>
+ Quarterly ISSN: 1089-2680<br /><DD>EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC, 750 FIRST ST, NE, WASHINGTON, USA, DC, 20002-4242<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14522. REVIEW OF HIGHER EDUCATION</strong></DT>
+ Quarterly ISSN: 0162-5748<br /><DD>JOHNS HOPKINS UNIV PRESS, JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, USA, MD, 21218-4363<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14523. REVIEW OF HYDROBIOLOGY</strong></DT>
+ Semiannual ISSN: 1308-4119<br /><DD>REVIEW HYDROBIOLOGY, 74 ST NO 6-3, OVECLER, TURKEY, ANKARA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14524. REVIEW OF INCOME AND WEALTH</strong></DT>
+ Quarterly ISSN: 0034-6586<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14525. REVIEW OF INDUSTRIAL ORGANIZATION</strong></DT>
+ Bimonthly ISSN: 0889-938X<br /><DD>SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14526. REVIEW OF INTERNATIONAL ECONOMICS</strong></DT>
+ Bimonthly ISSN: 0965-7576<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14527. REVIEW OF INTERNATIONAL ORGANIZATIONS</strong></DT>
+ Quarterly ISSN: 1559-7431<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14528. REVIEW OF INTERNATIONAL POLITICAL ECONOMY</strong></DT>
+ Bimonthly ISSN: 0969-2290<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14529. REVIEW OF INTERNATIONAL STUDIES</strong></DT>
+ Bimonthly ISSN: 0260-2105<br /><DD>CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14530. REVIEW OF MANAGERIAL SCIENCE</strong></DT>
+ Tri-annual ISSN: 1863-6683<br /><DD>SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, HEIDELBERG, GERMANY, D-69121<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14531. REVIEW OF METAPHYSICS</strong></DT>
+ Quarterly ISSN: 0034-6632<br /><DD>CATHOLIC UNIV AMER PRESS, 620 MICHIGAN AVENUE NE ADMIN BLDG ROOM 303, WASHINGTON, USA, DC, 20064<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14532. REVIEW OF NETWORK ECONOMICS</strong></DT>
+ Quarterly ISSN: 2194-5993<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14533. REVIEW OF PALAEOBOTANY AND PALYNOLOGY</strong></DT>
+ Monthly ISSN: 0034-6667<br /><DD>ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14534. REVIEW OF POLICY RESEARCH</strong></DT>
+ Bimonthly ISSN: 1541-132X<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14535. REVIEW OF PUBLIC PERSONNEL ADMINISTRATION</strong></DT>
+ Quarterly ISSN: 0734-371X<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14536. REVIEW OF RADICAL POLITICAL ECONOMICS</strong></DT>
+ Quarterly ISSN: 0486-6134<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14537. REVIEW OF RELIGIOUS RESEARCH</strong></DT>
+ Quarterly ISSN: 0034-673X<br /><DD>SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, HEIDELBERG, GERMANY, D-69121<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14538. REVIEW OF RESEARCH IN EDUCATION</strong></DT>
+ Annual ISSN: 0091-732X<br /><DD>SAGE PUBLICATIONS INC, 2455 TELLER RD, NEWBURY PK, USA, CA, 91320<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14539. REVIEW OF SCIENTIFIC INSTRUMENTS</strong></DT>
+ Monthly ISSN: 0034-6748<br /><DD>AMER INST PHYSICS, CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1, MELVILLE, USA, NY, 11747-4501<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14540. REVIEW OF SYMBOLIC LOGIC</strong></DT>
+ Quarterly ISSN: 1755-0203<br /><DD>CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14541. REVIEW OF WORLD ECONOMICS</strong></DT>
+ Quarterly ISSN: 1610-2878<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14542. REVIEW-LITERATURE AND ARTS OF THE AMERICAS</strong></DT>
+ Semiannual ISSN: 0890-5762<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14543. REVIEWS IN AMERICAN HISTORY</strong></DT>
+ Quarterly ISSN: 0048-7511<br /><DD>JOHNS HOPKINS UNIV PRESS, JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, USA, MD, 21218-4363<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14544. REVIEWS IN ANALYTICAL CHEMISTRY</strong></DT>
+ Quarterly ISSN: 0793-0135<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14545. REVIEWS IN AQUACULTURE</strong></DT>
+ Quarterly ISSN: 1753-5123<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14546. REVIEWS IN CARDIOVASCULAR MEDICINE</strong></DT>
+ Quarterly ISSN: 1530-6550<br /><DD>MEDREVIEWS, LLC, 1370 BROADWAY, STE 900, NEW YORK, USA, NY, 10018<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14547. REVIEWS IN CHEMICAL ENGINEERING</strong></DT>
+ Bimonthly ISSN: 0167-8299<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14548. REVIEWS IN COMPUTATIONAL CHEMISTRY</strong></DT>
+ Irregular ISSN: 1069-3599<br /><DD>WILEY-BLACKWELL, COMMERCE PLACE, 350 MAIN STREET, MALDEN, USA, MA, 02148<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14549. REVIEWS IN ENDOCRINE & METABOLIC DISORDERS</strong></DT>
+ Quarterly ISSN: 1389-9155<br /><DD>SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14550. REVIEWS IN ENVIRONMENTAL SCIENCE AND BIO-TECHNOLOGY</strong></DT>
+ Quarterly ISSN: 1569-1705<br /><DD>SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14551. REVIEWS IN FISH BIOLOGY AND FISHERIES</strong></DT>
+ Quarterly ISSN: 0960-3166<br /><DD>SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14552. REVIEWS IN FISHERIES SCIENCE</strong></DT>
+ Quarterly ISSN: 1064-1262<br /><DD>TAYLOR & FRANCIS INC, 325 CHESTNUT ST, SUITE 800, PHILADELPHIA, USA, PA, 19106<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14553. REVIEWS IN GASTROENTEROLOGICAL DISORDERS</strong></DT>
+ Quarterly ISSN: 1533-001X<br /><DD>MEDREVIEWS, LLC, 1370 BROADWAY, STE 900, NEW YORK, USA, NY, 10018<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14554. REVIEWS IN INORGANIC CHEMISTRY</strong></DT>
+ Quarterly ISSN: 0193-4929<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14555. REVIEWS IN MATHEMATICAL PHYSICS</strong></DT>
+ Monthly ISSN: 0129-055X<br /><DD>WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE, SINGAPORE, 596224<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14556. REVIEWS IN MEDICAL MICROBIOLOGY</strong></DT>
+ Quarterly ISSN: 0954-139X<br /><DD>LIPPINCOTT WILLIAMS & WILKINS, 530 WALNUT ST, PHILADELPHIA, USA, PA, 19106-3621<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14557. REVIEWS IN MEDICAL VIROLOGY</strong></DT>
+ Bimonthly ISSN: 1052-9276<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14558. REVIEWS IN MINERALOGY</strong></DT>
+ Semiannual ISSN: 0275-0279<br /><DD>MINERALOGICAL SOC AMER, 3635 CONCORDE PKWY STE 500, CHANTILLY, USA, VA, 20151-1125<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14559. REVIEWS IN MINERALOGY & GEOCHEMISTRY</strong></DT>
+ Irregular ISSN: 1529-6466<br /><DD>MINERALOGICAL SOC AMER, 3635 CONCORDE PKWY STE 500, CHANTILLY, USA, VA, 20151-1125<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14560. REVIEWS IN THE NEUROSCIENCES</strong></DT>
+ Bimonthly ISSN: 0334-1763<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14561. REVIEWS OF ENVIRONMENTAL CONTAMINATION AND TOXICOLOGY</strong></DT>
+ Quarterly ISSN: 0179-5953<br /><DD>SPRINGER, 233 SPRING STREET, NEW YORK, UNITED STATES, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14562. REVIEWS OF GEOPHYSICS</strong></DT>
+ Quarterly ISSN: 8755-1209<br /><DD>AMER GEOPHYSICAL UNION, 2000 FLORIDA AVE NW, WASHINGTON, USA, DC, 20009<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14563. REVIEWS OF MODERN PHYSICS</strong></DT>
+ Quarterly ISSN: 0034-6861<br /><DD>AMER PHYSICAL SOC, ONE PHYSICS ELLIPSE, COLLEGE PK, USA, MD, 20740-3844<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14564. REVIEWS OF PHYSIOLOGY BIOCHEMISTRY AND PHARMACOLOGY</strong></DT>
+ Irregular ISSN: 0303-4240<br /><DD>SPRINGER-VERLAG BERLIN, HEIDELBERGER PLATZ 3, BERLIN, GERMANY, D-14197<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14565. REVIEWS ON ADVANCED MATERIALS SCIENCE</strong></DT>
+ Bimonthly ISSN: 1606-5131<br /><DD>INST PROBLEMS MECHANICAL ENGINEERING-RUSSIAN ACAD SCIENCES, BOLSHOJ 61, VAS OSTROV, ST PTERSBURG, RUSSIA, 199178<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14566. REVIEWS ON ENVIRONMENTAL HEALTH</strong></DT>
+ Quarterly ISSN: 0048-7554<br /><DD>WALTER DE GRUYTER GMBH, GENTHINER STRASSE 13, BERLIN, GERMANY, D-10785<ol> 
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14567. REVIJA ZA KRIMINALISTIKO IN KRIMINOLOGIJO</strong></DT>
+ Quarterly ISSN: 0034-690X<br /><DD>MINISTRY INTERIOR REPUBLIC SLOVENIA, STEFANOVA ULICA 2, LJUBLJANA, SLOVENIA, 1501<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14568. REVIJA ZA SOCIJALNU POLITIKU</strong></DT>
+ Tri-annual ISSN: 1330-2965<br /><DD>SVEUCLISTE ZAGREBU, PRAVNI FAKULTED-UNIV ZAGREB, FAC LAW, TRG MARSALA TITA 14, ZAGREB, CROATIA, 10000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14569. REVISTA 180</strong></DT>
+ Semiannual ISSN: 0718-2309<br /><DD>UNIV DIEGO PORTALES, REPUBLICA 180, SANTIAGO, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14570. REVISTA ARGENTINA DE CLINICA PSICOLOGICA</strong></DT>
+ Tri-annual ISSN: 0327-6716<br /><DD>FUNDACION AIGLE, VIRREY OLAGUER FELIU 2679, BUENOS AIRES, ARGENTINA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14571. REVISTA ARGENTINA DE MICROBIOLOGIA</strong></DT>
+ Quarterly ISSN: 0325-7541<br /><DD>ASOCIACION ARGENTINA MICROBIOLOGIA, BULNES 44  PB   B, BUENOS AIRES, ARGENTINA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14572. REVISTA ARVORE</strong></DT>
+ Bimonthly ISSN: 0100-6762<br /><DD>UNIV FEDERAL VICOSA, CAIXA POSTAL 270, VICOSA, BRAZIL, MG, CEP 36571-00AP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14573. REVISTA BIOCIENCIAS</strong></DT>
+ Semiannual ISSN: 1415-7411<br /><DD>UNIV TAUBATE, PRPPG, RUA VISCONDE DO RIO BRANCO, 210-CENTRO, CEP, TAUBATE, SPAIN, SP, 12020-040<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14574. REVISTA BRASILEIRA DE ANESTESIOLOGIA</strong></DT>
+ Bimonthly ISSN: 0034-7094<br /><DD>ELSEVIER SCIENCE INC, 360 PARK AVE SOUTH, NEW YORK, USA, NY, 10010-1710<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14575. REVISTA BRASILEIRA DE ARMAZENAMENTO</strong></DT>
+ Semiannual ISSN: 0100-3518<br /><DD>UNIV FEDERAL VICOSA, CAIXA POSTAL 270, VICOSA, BRAZIL, MG, CEP 36571-00AP<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14576. REVISTA BRASILEIRA DE BIOLOGIA</strong></DT>
+ Quarterly ISSN: 0034-7108<br /><DD>INST INT ECOLOGIA, R BENTO CARLOS, 750, SAO CARLOS SP, BRAZIL, 13560-660</li>
+<DT><strong>14577. REVISTA BRASILEIRA DE CARDIOLOGIA INVASIVA</strong></DT>
+ Quarterly ISSN: 2179-8397<br /><DD>SOCIEDADE BRASILEIRA HEMODINAMICA E CARDIOLOGIA INTERVENCIONISTA-SBHCI, R BEIRA RIO, 45, 7O ANDAR-CJ 71, SAO PAULO SP, BRAZIL, 04548-050</li>
+<DT><strong>14578. REVISTA BRASILEIRA DE CIENCIA DO SOLO</strong></DT>
+ Bimonthly ISSN: 0100-0683<br /><DD>SOC BRASILEIRA DE CIENCIA DO SOLO, C P 231, VICOSA, BRAZIL, MG, BR-36571-000BC<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li></ol>
+</li>
+<DT><strong>14579. REVISTA BRASILEIRA DE CIENCIA VETERINARIA</strong></DT>
+ Tri-annual ISSN: 1413-0130<br /><DD>UNIV FEDERAL FLUMINENSE, RUA VITAL BRAZIL FILHO, 64, NITEROI, BRAZIL, RJ, 24230-340<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14580. REVISTA BRASILEIRA DE CIENCIAS DO ESPORTE</strong></DT>
+ Tri-annual ISSN: 0101-3289<br /><DD>COLEGIO BRASILEIRO CIENCIAS ESPORTE, RUA FELIZARDO, 750, PORTO ALEGRE RS, BRAZIL, 90690-200</li>
+<DT><strong>14581. REVISTA BRASILEIRA DE CIENCIAS SOCIAIS</strong></DT>
+ Tri-annual ISSN: 0102-6909<br /><DD>ASSOC NACIONAL POS-GRADUACAO E PESQUISA CIENCIAS SOCIAIS-ANPOCS, AV PROF LUCIANO GUALBERTO, 315-SALA 116, SAO PAULO SP, BRAZIL, 05508-900</li>
+<DT><strong>14582. REVISTA BRASILEIRA DE CINEANTROPOMETRIA & DESEMPENHO HUMANO</strong></DT>
+ Bimonthly ISSN: 1980-0037<br /><DD>UNIV FEDERAL SANTA CATARINA, CAMPUS UNIVERSITARIO, FLORIANOPOLIS, BRAZIL, SC, 88040-900</li>
+<DT><strong>14583. REVISTA BRASILEIRA DE CIRURGIA CARDIOVASCULAR</strong></DT>
+ Quarterly ISSN: 0102-7638<br /><DD>SOC BRASIL CIRURGIA CARDIOVASC, RUA BEIRA RIO, 45, 7 ANDAR-CJ 72 VILA OLIMPIA, SAO PAULO SP, BRAZIL, CEP04548-050AP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14584. REVISTA BRASILEIRA DE EDUCACAO</strong></DT>
+ Tri-annual ISSN: 1413-2478<br /><DD>ASSOC NACIONAL POS-GRADUACAO E PESQUISA EDUCACAO, EDITORA AUTORES ASSOC, RUA VISCONDE SANTA ISABEL, 20 CONJUNTO 206-208 VILAISABEL, RIO DE JANEIRO RJ, BRAZIL, 20570-120</li>
+<DT><strong>14585. REVISTA BRASILEIRA DE EDUCACAO ESPECIAL</strong></DT>
+ Semiannual ISSN: 1413-6538<br /><DD>ASSOC BRASILEIRA PESQUISADORES EDUCACAO ESPECIAL-ABPEE, AV HYGINO MUZZI FILHO, 737, CAIXA POSTAL 181, MARILIA, SAO PAULO, BRAZIL, 17525-900</li>
+<DT><strong>14586. REVISTA BRASILEIRA DE ENFERMAGEM</strong></DT>
+ Bimonthly ISSN: 0034-7167<br /><DD>ASSOC BRASILEIRA ENFERMAGEM, SGA NORTE QUADRA 603 CONJ B AV L2 NORTE, BRASILIA DF, BRAZIL, 70830-030</li>
+<DT><strong>14587. REVISTA BRASILEIRA DE ENGENHARIA AGRICOLA E AMBIENTAL</strong></DT>
+ Monthly ISSN: 1415-4366<br /><DD>UNIV FED PARAIBA CCSA, CIDADE UNIV, PROG POS-GRAD CIENC INFORM, JOAO PESSOA PB, BRAZIL, 58 059-900<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li></ol>
+</li>
+<DT><strong>14588. REVISTA BRASILEIRA DE ENSINO DE FISICA</strong></DT>
+ Quarterly ISSN: 1806-1117<br /><DD>SOC BRASILEIRA FISICA, CAIXA POSTAL 66328, SAO PAULO, BRAZIL, 05315-970<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14589. REVISTA BRASILEIRA DE ENTOMOLOGIA</strong></DT>
+ Quarterly ISSN: 0085-5626<br /><DD>SOC BRASILEIRA ENTOMOLOGIA, CAIXA POSTAL 19030, CURITIBA, BRAZIL, PR, 81531-980<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14590. REVISTA BRASILEIRA DE EPIDEMIOLOGIA</strong></DT>
+ Quarterly ISSN: 1415-790X<br /><DD>ASSOC BRASILEIRA POS GRADUACAO SAUDE COLETIVA, AV DR ARNALDO, 715 2 ANDAR SL 3 CERQUEIRA CESAR, SAO PAULO SP, BRAZIL, 01246-904</li>
+<DT><strong>14591. REVISTA BRASILEIRA DE ESTUDOS DE POPULACAO</strong></DT>
+ Semiannual ISSN: 0102-3098<br /><DD>ASSOC BRASILEIRA ESTUDOS POPULACIONAIS, RUA ANDRE CAVALVANTI, 106, SALA 502, RIO DE JANEIRO RJ, BRAZIL, CEP20231-050AP</li>
+<DT><strong>14592. REVISTA BRASILEIRA DE FARMACOGNOSIA-BRAZILIAN JOURNAL OF PHARMACOGNOSY</strong></DT>
+ Quarterly ISSN: 0102-695X<br /><DD>SOC BRASILEIRA FARMACOGNOSIA, C/O PROF JOSE MARIA BARBOSA FILHO, UNIV FEDERAL PARAIBA, LAB TECNOLOGIA  FARMACEUTICA, JOAO PESSOA, BRAZIL, 58051-970PB<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14593. REVISTA BRASILEIRA DE FISIOLOGIA VEGETAL</strong></DT>
+ Semiannual ISSN: 0103-3131<br /><DD>SOCIEDADE BRASILEIRA FISIOLOGIA VEGETAL, PO BOX 6109, CAMPINAS SP, BRAZIL, 13083-970</li>
+<DT><strong>14594. REVISTA BRASILEIRA DE FISIOTERAPIA</strong></DT>
+ Bimonthly ISSN: 1413-3555<br /><DD>ASSOCIACAO BRASILEIRA PESQUISA POS-GRADUACAO FISIOTERAPIA-ABRAPG-FT, ROD WASHINGTON LUIS, KM 235, CAIXA POSTAL 676, SAO CARLOS SP, BRAZIL, CEP13565-905AP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14595. REVISTA BRASILEIRA DE FRUTICULTURA</strong></DT>
+ Quarterly ISSN: 0100-2945<br /><DD>SOC BRASILEIRA FRUTICULTURA, VIA ACESSO PROF PAULO DONATO CASTELLANE, S-N, JABOTICABAL SP, BRAZIL, 14884-900<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14596. REVISTA BRASILEIRA DE GEOCIENCIAS</strong></DT>
+ Irregular ISSN: 0375-7536<br /><DD>SOC BRASILEIRA GEOLOGIA, CAIXA POSTAL 11348, SAO PAULO, BRAZIL, SP, 05422-970<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14597. REVISTA BRASILEIRA DE GEOFISICA</strong></DT>
+ Semiannual ISSN: 0102-261X<br /><DD>SOC BRASILEIRA GEOFISICA-SBGF, AV RIO BRANCO, 156, SALA 2510, RIO DE JANEIRO RJ, BRAZIL, 20043-900</li>
+<DT><strong>14598. REVISTA BRASILEIRA DE GINECOLOGIA E OBSTETRICIA</strong></DT>
+ Quarterly ISSN: 0100-7203<br /><DD>FEDERACAO BRASILEIRA SOC GINECOLOGIA & OBSTETRICIA-FEBRASGO, AV DAS AMERICAS, 8445, SALA 711-BARRA DA TIJUCA, RIO DE JANEIRO RJ, BRAZIL, 22793-081</li>
+<DT><strong>14599. REVISTA BRASILEIRA DE HISTORIA</strong></DT>
+ Semiannual ISSN: 0102-0188<br /><DD>ASSOC NAC HISTORIA-ANPUH, CIDADE UNIV, AV PROF LINEU PRESTES, 338, CAIXA POSTAL 8105, SAO PAULO SP, BRAZIL, 05508-900<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14600. REVISTA BRASILEIRA DE LINGUISTICA APLICADA</strong></DT>
+ Quarterly ISSN: 1984-6398<br /><DD>UNIV FED MINAS GERAIS, FAC LETRAS, AV ANTONIO CARLOS, 6627 4 ANDAR-4036, BELO HORIZONTE MS, BRAZIL, 31270-901</li>
+<DT><strong>14601. REVISTA BRASILEIRA DE MEDICINA DO ESPORTE</strong></DT>
+ Bimonthly ISSN: 1517-8692<br /><DD>SOC BRASILEIRA MED ESPORTE, AV BRIGADEIRO LUIS ANTONIO, 278, 6 AND, SAO PAULO SP, BRAZIL, 01318 901<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14602. REVISTA BRASILEIRA DE MEDICINA VETERINARIA</strong></DT>
+ Quarterly ISSN: 0100-2430<br /><DD>SOC MEDICINA VETERINARIA ESTADO RIO DE JANEIRO, AV PRESIDENTE VARGAS 446-1004, RIO DE JANEIRO, BRAZIL, RJ, 20085-900<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14603. REVISTA BRASILEIRA DE METEOROLOGIA</strong></DT>
+ Tri-annual ISSN: 0102-7786<br /><DD>SOC BRASILEIRA METEOROLOGIA, AV DOS ASTRONAUTAS, 1758 JARDIM GRANJA, SAN JOSE CAMPOS SP, BRAZIL, 12227-010</li>
+<DT><strong>14604. REVISTA BRASILEIRA DE OCEANOGRAFIA</strong></DT>
+ Semiannual ISSN: 1413-7739<br /><DD>INST OCEANOGRAFICO, UNIV SAO PAULO, PRACA DO OCEANOGRAFICO, 191, CIDADE UNIVERSITARIA, SAO PAULO, BRAZIL, SP, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14605. REVISTA BRASILEIRA DE OFTALMOLOGIA</strong></DT>
+ Bimonthly ISSN: 0034-7280<br /><DD>SOC BRASILEIRA OFTALMOLOGIA, RUA SAO SALVADOR 107, RIO DE JANEIRO, BRAZIL, 22231-170<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14606. REVISTA BRASILEIRA DE ORNITOLOGIA</strong></DT>
+ Quarterly ISSN: 0103-5657<br /><DD>SOC BRASILEIRA ORNITOLOGIA, C/O ROMULO RIBON, MUSEU ZOOLOGIA JOAO MOOJEN, LADEIRA DOS OPERARIOS 54-204, VICOSA, BRAZIL, MG, 36570-000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14607. REVISTA BRASILEIRA DE ORTOPEDIA</strong></DT>
+ Monthly ISSN: 0102-3616<br /><DD>SOC BRASILEIRA ORTOPEDIA & TRAUMATOLOGIA, AL LORENA, 427 14 ANDAR, SAO PAULO SP, BRAZIL, 01424-000</li>
+<DT><strong>14608. REVISTA BRASILEIRA DE PALEONTOLOGIA</strong></DT>
+ Tri-annual ISSN: 1519-7530<br /><DD>SOC BRASILEIRA PALEONTOLOGIA, PPGEO UNISINOS, AV UNISINOS 950, SAO LEOPOLDO, BRAZIL, RS, 93022-000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14609. REVISTA BRASILEIRA DE PARASITOLOGIA VETERINARIA</strong></DT>
+ Semiannual ISSN: 1984-2961<br /><DD>BRAZILIAN COLL VETERINARY PARASITOLOGY, C/O ASSISTANT EDITOR  AV PROF LINEU PRESTES, 1374, CIDADE UNIVERSITARIA, CEP 05508-900, SAO PAULO, BRAZIL, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14610. REVISTA BRASILEIRA DE PLANTAS MEDICINAIS</strong></DT>
+ Semiannual ISSN: 1516-0572<br /><DD>FUNDACAO INST BIOCIENCIAS-FUNDIBIO, UNESP, DISTRITO RUBIAO JUNIOR, S/N, BOTUCATU, BRAZIL, SP, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14611. REVISTA BRASILEIRA DE POLITICA INTERNACIONAL</strong></DT>
+ Semiannual ISSN: 0034-7329<br /><DD>INST BRASILEIRO RELACOES INT, CAIXA POSTAL 4400, BRASILIA DF, BRAZIL, 70919-970<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14612. REVISTA BRASILEIRA DE PSIQUIATRIA</strong></DT>
+ Quarterly ISSN: 1516-4446<br /><DD>ASSOC BRASILEIRA PSIQUIATRIA, SUBSCRIPTION DEPARTMENT, RUA PEDRO DE TOLEDO, 967 - CASA 01, SAO PAULO, BRAZIL, SP, 04039-032  AAP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14613. REVISTA BRASILEIRA DE REPRODUCAO ANIMAL</strong></DT>
+ Quarterly ISSN: 0102-0803<br /><DD>COLEGIO BRASILEIRO REPRODUCAO ANIMAL-CBRA, ALAMEDA DAS PRINCESAS, 1275, BAIRRO SAO JOSE, BELO HORIZONTE, BRAZIL, MG, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14614. REVISTA BRASILEIRA DE REUMATOLOGIA</strong></DT>
+ Bimonthly ISSN: 0482-5004<br /><DD>ELSEVIER SCIENCE INC, 360 PARK AVE SOUTH, NEW YORK, USA, NY, 10010-1710<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14615. REVISTA BRASILEIRA DE SAUDE MATERNO INFANTIL</strong></DT>
+ Quarterly ISSN: 1519-3829<br /><DD>INST MEDICINA INTEGRAL PROF FERNANDO FIGUEIRA, RUA DOS COELHOS, 300 BOA VISTA, RECIFE PE, BRAZIL, 50070-550</li>
+<DT><strong>14616. REVISTA BRASILEIRA DE ZOOCIENCIAS</strong></DT>
+ Semiannual ISSN: 1517-6770<br /><DD>UNIV FEDERAL JUIZ FORA, CIDADE UNIV, CP 36100, JUIZ DO FORA, BRAZIL, MINAS GERAIS, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14617. REVISTA BRASILEIRA DE ZOOTECNIA-BRAZILIAN JOURNAL OF ANIMAL SCIENCE</strong></DT>
+ Monthly ISSN: 1516-3598<br /><DD>REVISTA BRASILEIRA ZOOTECNIA BRAZILIAN JOURNAL ANIMAL SCI, UNIVERSIDADE FEDERAL VICOSA,, VICOSA-MG, BRAZIL, 36571-000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14618. REVISTA CAATINGA</strong></DT>
+ Quarterly ISSN: 0100-316X<br /><DD>UNIV FED RURAL SEMI-ARIDO-UFERSA, PRO-REITORIA PESQUISA POS-GRADUACAO, BR 110 - KM 47 S-N, MOSSORO, BRAZIL, 59625-900<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14619. REVISTA CATALANA D ORNITOLOGIA</strong></DT>
+ Annual ISSN: 1697-4697<br /><DD>INST CATALA ORNITOLOGIA, MUSEU ZOOLOGIA, PASSEIG PICASSO S-N, BARCELONA, SPAIN, 08003<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14620. REVISTA CEFAC</strong></DT>
+ Quarterly ISSN: 1982-0216<br /><DD>CEFAC SAUDE & EDUCACAO, RUA CAYOWAA, 664, SAO PAULO SP, BRAZIL, 05018-000CEPAP</li>
+<DT><strong>14621. REVISTA CERES</strong></DT>
+ Bimonthly ISSN: 0034-737X<br /><DD>UNIV FEDERAL VICOSA, CAIXA POSTAL 270, VICOSA, BRAZIL, MG, CEP 36571-00AP<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14622. REVISTA CHAPINGO SERIE CIENCIAS FORESTALES Y DEL AMBIENTE</strong></DT>
+ Semiannual ISSN: 0186-3231<br /><DD>UNIV AUTONOMA CHAPINGO, CUBICULO 113, CHAPINGO, EDO DE MEXICO, MEXICO, 56230<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14623. REVISTA CHAPINGO SERIE HORTICULTURA</strong></DT>
+ Tri-annual ISSN: 1027-152X<br /><DD>UNIV AUTONOMA CHAPINGO, CUBICULO 113, CHAPINGO, EDO DE MEXICO, MEXICO, 56230<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14624. REVISTA CHILENA DE CIRUGIA</strong></DT>
+ Bimonthly ISSN: 0718-4026<br /><DD>SOC CIRUJANOS CHILE, ROMAN DIAZ 205, OF 401, CASILLA 2843, SANTIAGO, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14625. REVISTA CHILENA DE DERECHO</strong></DT>
+ Tri-annual ISSN: 0718-3437<br /><DD>PONTIFICA UNIV CATOLICA DE CHILE FACULTAD DE DERECHO, AV LIBERATADOR BEMARDO O HIGGINS 340, SANTIAGO, CHILE, CASILLA 114-D, SANTIAGO 1, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14626. REVISTA CHILENA DE DERECHO PRIVADO</strong></DT>
+ Semiannual ISSN: 0718-8072<br /><DD>UNIV DIEGO PORTALES, ESCUELA DERECHO, FUND FERNANDO FUEYO LANERI, AVENIDA REPUBLICA N 105, SEGUNDO PISO, SANTIAGO, CHILE, 00000</li>
+<DT><strong>14627. REVISTA CHILENA DE ENTOMOLOGIA</strong></DT>
+ Irregular ISSN: 0034-740X<br /><DD>SOC CHILENA ENTOMOLOGIA, CASILLA 21132, SANTIAGO, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14628. REVISTA CHILENA DE HISTORIA NATURAL</strong></DT>
+ Quarterly ISSN: 0716-078X<br /><DD>SOC BIOLGIA CHILE, CASILLA 16164, SANTIAGO, CHILE, 9<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14629. REVISTA CHILENA DE INFECTOLOGIA</strong></DT>
+ Bimonthly ISSN: 0716-1018<br /><DD>SOC CHILENA INFECTOLOGIA, BERNARDA MORIN 488, 2 PISO, PROVIDENCIA, CHILE, SANTIAGO, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14630. REVISTA CHILENA DE LITERATURA</strong></DT>
+ Semiannual ISSN: 0718-2295<br /><DD>UNIV CHILE, FAC FILOS HUMAN EDUC, CENTRO ESTGRIEGOS BIZANTINOS Y NEOHELENICOS, IGNACIO CARRERA PINTO 1025, CASILLA 73 SUC GRECIA NUNOA, SANTIAGO, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14631. REVISTA CHILENA DE NEURO-PSIQUIATRIA</strong></DT>
+ Quarterly ISSN: 0717-9227<br /><DD>SOC NEUROLOGIA PSIQUIATRIA & NEUROCIRUGIA, CARLOS SILVA V 1292, DEPT 22, PLAZA LAS LILAS, PROVIDENCIA, SANTIAGO, CHILE, 00000</li>
+<DT><strong>14632. REVISTA CHILENA DE NUTRICION</strong></DT>
+ Quarterly ISSN: 0717-7518<br /><DD>SOC CHILENA NUTRICION, BROMATOLOGIA & TOXICOLOGIA, CONCEPCION 81, OFICINA 1307, PROVIDENCIA, SANTIAGO, CHILE, 00000</li>
+<DT><strong>14633. REVISTA CHILENA DE OBSTETRICIA Y GINECOLOGIA</strong></DT>
+ Bimonthly ISSN: 0717-7526<br /><DD>SOC CHILENA OBSTETRICIA & GINECOLOGIA, ROMAN DIAZ 205, DEPT 205 PROVIDENCIA, SANTIAGO, CHILE, 00000</li>
+<DT><strong>14634. REVISTA CHILENA DE PEDIATRIA</strong></DT>
+ Bimonthly ISSN: 0370-4106<br /><DD>SOC CHILENA PEDIATRIA, ALCALDE EDUARDO CASTILLO VELASCO 1838, NUNOA, CASILLA 593-11, SANTIAGO, CHILE, 00000</li>
+<DT><strong>14635. REVISTA CIENCIA AGRONOMICA</strong></DT>
+ Semiannual ISSN: 0045-6888<br /><DD>UNIV FEDERAL CEARA, DEPT GEOL, CAMPUS UNIV PICI, BLOCO 912, CX POSTAL 6027, FORTALEZA, BRAZIL, CEARA, 60451-970<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14636. REVISTA CIENCIAS EXATAS E NATURAIS</strong></DT>
+ Semiannual ISSN: 1518-0352<br /><DD>UNIV ESTADUAL  CENTRO-OESTE, RUA PRESIDENTE ZACARIAS, 875-CX POSTAL 3010, GUARAPUAVA, BRAZIL, PR, CEP 85015-43AP<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14637. REVISTA CIENTIFICA UDO AGRICOLA</strong></DT>
+ Annual ISSN: 1317-9152<br /><DD>UNIV ORIENTE, ESCUELA INGENIERIA AGRONOMICA, AVENIDA UNIV, CAMPUS LOS GUARITOS, MATURIN,VENEZUELA, ESTADO MONAGAS, 6201<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14638. REVISTA CIENTIFICA-FACULTAD DE CIENCIAS VETERINARIAS</strong></DT>
+ Bimonthly ISSN: 0798-2259<br /><DD>UNIV ZULIA, FACULTAD CIENCIAS VETERINARIAS, UNIVERSIDAD DEL ZULIA, MARACAIBO, VENEZUELA<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14639. REVISTA CLINICA ESPANOLA</strong></DT>
+ Monthly ISSN: 0014-2565<br /><DD>EDICIONES DOYMA S A, TRAV DE GRACIA 17-21, BARCELONA, SPAIN, 08021<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14640. REVISTA COLOMBIANA DE ANESTESIOLOGIA</strong></DT>
+ Quarterly ISSN: 0120-3347<br /><DD>SCARE-SOC COLOMBIANA ANESTESIOLOGIA & REANIMACION, TRANSVERSAL 17 NO 120-174 PISO 4, BOGOTA, COLOMBIA, 00000</li>
+<DT><strong>14641. REVISTA COLOMBIANA DE BIOTECNOLOGIA</strong></DT>
+ Semiannual ISSN: 0123-3475<br /><DD>UNIV NACIONAL DE COLOMBIA, EDIFICIO MANUAL ANCIZAR AA, BOGOTA, COLOMBIA, 14490<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14642. REVISTA COLOMBIANA DE CIENCIAS PECUARIAS</strong></DT>
+ Quarterly ISSN: 0120-0690<br /><DD>UNIV ANTIOQUIA, FAC CIENCIAS AGRARIAS, CIUDADELA ROBLEDO, CARRERA 75 NO 65-87 OF 6-225, APARTADO AEREO 1226, MEDELLIN, COLOMBIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14643. REVISTA COLOMBIANA DE ENTOMOLOGIA</strong></DT>
+ Semiannual ISSN: 0120-0488<br /><DD>SOC COLOMBIANA ENTOMOLOGIA-SOCOLEN, APARTADO AEREO 11366, SANTAFE DE BOGOTA, COLOMBIA, D.C., 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14644. REVISTA COLOMBIANA DE ESTADISTICA</strong></DT>
+ Semiannual ISSN: 0120-1751<br /><DD>UNIV NAC COLOMBIA, DEPT ESTADISTICA, FAC CIENCIAS, CARRETA 30 NO 45-03, BOGOTA DC, COLOMBIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14645. REVISTA COLOMBIANA DE MATEMATICAS</strong></DT>
+ Quarterly ISSN: 0034-7426<br /><DD>UNIV NAC COLOMBIA & SOC COLOMBIANA MATEMATICAS, CALLE 16 NO 9-64, APARTADO AEREO 2521, BOGOTA, COLOMBIA, CUND, 00000</li>
+<DT><strong>14646. REVISTA COLOMBIANA DE OBSTETRICIA Y GINECOLOGIA</strong></DT>
+ Quarterly ISSN: 0034-7434<br /><DD>FED COLOMBIANA ASOCIACIONES OBSTETRICIA & GINECOLOGIA, CARRERA 15 NO 98-42, OFICINA 204-205, BOGOTA, COLOMBIA, 00000</li>
+<DT><strong>14647. REVISTA COLOMBIANA DE PSICOLOGIA</strong></DT>
+ Semiannual ISSN: 0121-5469<br /><DD>UNIV NACIONAL COLOMBIA, FAC CIENCIAS HUMANAS, DEPT PSICOLOGIA, CIUDAD UNIV, CARRERA 30 N 45-03, EDIFICIO 212 OF 220, BOGOTA, COLOMBIA, 00000</li>
+<DT><strong>14648. REVISTA COLOMBIANA DE PSIQUIATRIA</strong></DT>
+ Quarterly ISSN: 0034-7450<br /><DD>ASOC COLOMBIANA PSIQUIATRIA, CRA 18 NO 84-87 OF 403, BOGOTA, COLOMBIA, 00000</li>
+<DT><strong>14649. REVISTA COLOMBIANA DE QUIMICA</strong></DT>
+ Semiannual ISSN: 0120-2804<br /><DD>UNIV NAC COLOMBIA, DEPT QUIMICA, CIUDAD UNIV, TRANSVERSAL 38 NO 40-01, APT AEREO 5997, BOGOTA, COLOMBIA, 00000</li>
+<DT><strong>14650. REVISTA CORPOICA-CIENCIA Y TECNOLOGIA AGROPECUARIA</strong></DT>
+ Semiannual ISSN: 0122-8706<br /><DD>CORP COLOMBIANA INVESTIGACION AGROPECUARIA-CORPOICA, APARTADO AEREO 240142, LAS PALMAS BOGOTA, COLOMBIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14651. REVISTA COSTARRICENSE DE CIENCIAS MEDICAS</strong></DT>
+ Quarterly ISSN: 0253-2948<br /><DD>EDITORIAL NAC SALUD & SEGURIDAD SOCIAL, APDO 75-10100, CENTRO COLON, SAN JOSE, COSTA RICA, 1007</li>
+<DT><strong>14652. REVISTA CUBANA DE CIENCIAS VETERINARIAS</strong></DT>
+ Tri-annual ISSN: 0048-7678<br /><DD>CONSEJO CIENTIFICO VETERINARIO CUBA, PASEO NO 604 E/25 Y 27, VEDADO, HAVANA, CUBA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14653. REVISTA CUBANA DE FARMACIA</strong></DT>
+ Tri-annual ISSN: 1561-2988<br /><DD>EDITORIAL CIENCIAS MEDICAS, CALLE 23 654 ENTRE D & E, VEDADO, CIUDAD LA HABANA, CUBA, CP 10400</li>
+<DT><strong>14654. REVISTA CUBANA DE HEMATOLOGIA INMUNOLOGIA Y HEMOTERAPIA</strong></DT>
+ Tri-annual ISSN: 1561-2996<br /><DD>EDITORIAL CIENCIAS MEDICAS, CALLE 23 654 ENTRE D & E, VEDADO, CIUDAD LA HABANA, CUBA, CP 10400</li>
+<DT><strong>14655. REVISTA CUBANA DE INVESTIGACIONES BIOMEDICAS</strong></DT>
+ Quarterly ISSN: 1561-3011<br /><DD>EDITORIAL CIENCIAS MEDICAS, CALLE 23 654 ENTRE D & E, VEDADO, CIUDAD LA HABANA, CUBA, CP 10400</li>
+<DT><strong>14656. REVISTA CUBANA DE MEDICINA TROPICAL</strong></DT>
+ Tri-annual ISSN: 0375-0760<br /><DD>CENTRO NACIONAL INFORMACION CIENCIAS MEDICAS, CALLE E NO 452, E/19 Y 20, VEDADO, APARTADO 6520, EL VEDADO APARTADO 6520,CUBA, HAVANA, 10400<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14657. REVISTA DA ASSOCIACAO MEDICA BRASILEIRA</strong></DT>
+ Bimonthly ISSN: 0104-4230<br /><DD>ASSOC MEDICA BRASILEIRA, RUA SAO CARLOS DO PINHAL 324, CAIXA POSTAL 8904, SAO PAULO, BRAZIL, SP, 01333-903  AP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14658. REVISTA DA ESCOLA DE ENFERMAGEM DA USP</strong></DT>
+ Quarterly ISSN: 0080-6234<br /><DD>UNIV SAO PAOLO, AV  DR ENEAS DE CARVALHO AGUIAR, 419, CERQUERA CESAR, BRAZIL, SP, 05403-000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14659. REVISTA DA SOCIEDADE BRASILEIRA DE FONOAUDIOLOGIA</strong></DT>
+ Bimonthly ISSN: 1982-0232<br /><DD>SOC BRASILEIRA FONOAUDIOLOGIA, AL JAU, 684 7 ANDAR, SAO PAULO SP, BRAZIL, 01420-001</li>
+<DT><strong>14660. REVISTA DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL</strong></DT>
+ Bimonthly ISSN: 0037-8682<br /><DD>SOC BRASILEIRA MEDICINA TROPICAL, UNIV BRASILIA, NUCLEO MEDICINA TROPICAL E NUTRICAO, CAIXA POSTAL 4356, BRASILIA, BRAZIL, DF, 70919-970<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14661. REVISTA DA UNIPE</strong></DT>
+ Tri-annual ISSN: 1414-3194<br /><DD>CENTRO UNIV DE JOAO PRESSOA-UNIPE, CAMPUS UNIV, BR 230-KM 22, CX POSTAL 318, JOAO PESSOA, BRAZIL, CEP 58053-00AP<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14662. REVISTA DE ADMINISTRACAO CONTEMPORANEA</strong></DT>
+ Quarterly ISSN: 1982-7849<br /><DD>ASSOC NAC PROGRAMAS POS-GRADUACAO ADM, R MARQUES SAO VICENTE, 225, GAVEA, RIO DE JANEIRO RJ, BRAZIL, 22451-900</li>
+<DT><strong>14663. REVISTA DE ADMINISTRACION PUBLICA</strong></DT>
+ Quarterly ISSN: 0034-7639<br /><DD>FUNDACAO GETULIO VARGAS, EDITORA, PRAIA BOTAFOGO-190. SAIA 538 5 ANDAR, RIO DE JANEIRO RJ, BRAZIL, 22250-900</li>
+<DT><strong>14664. REVISTA DE AGRICULTURA TROPICAL</strong></DT>
+ Annual ISSN: 1409-438X<br /><DD>ESTACION EXPERIMENTAL FABIO BAUDRIT MORENO, APDO POSTAL 183, ALAJUELA, COSTA RICA, 4050<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14665. REVISTA DE ANALISIS ECONOMICO</strong></DT>
+ Semiannual ISSN: 0718-8870<br /><DD>ILADES, UNIV ALBERTO HURTADO, ERASMO ESCALA 1835, SANTIAGO, CHILE, 00000</li>
+<DT><strong>14666. REVISTA DE BIOLOGIA E CIENCIAS DA TERRA</strong></DT>
+ Semiannual ISSN: 1519-5228<br /><DD>UNIV ESTADUAL PARAIBA, EDITORA-EDUEP, AV DAS BARAUNAS, 351 COMPLEXO ADMINISTRATIVO, CAMPUS UNIVERSITARIO, BODOCONGO, CAMPINA GRANDE, BRAZIL, PARAIBA, 58109-753<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14667. REVISTA DE BIOLOGIA MARINA Y OCEANOGRAFIA</strong></DT>
+ Tri-annual ISSN: 0717-3326<br /><DD>UNIV VALPARAISO, FACULTAD CIENCIAS MAR RECURSOS NATURALES, CASILLA 5080 - RENACA, VINA DEL MAR, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14668. REVISTA DE BIOLOGIA NEOTROPICAL</strong></DT>
+ Semiannual ISSN: 1807-9652<br /><DD>UNIV FEDERAL GOIAS, INST CIENCIAS BIOLOGICAS, CAMPUS SAMAMBAIA, CAIXA POSTAL 131, GOIANIA, BRAZIL, 74001-970<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14669. REVISTA DE BIOLOGIA TROPICAL</strong></DT>
+ Tri-annual ISSN: 0034-7744<br /><DD>REVISTA DE BIOLOGIA TROPICAL, UNIVERSIDAD DE COSTA RICA CIUDAD UNIVERSITARIA, SAN JOSE, COSTA RICA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14670. REVISTA DE BIOLOGIA-LISBON</strong></DT>
+ Irregular ISSN: 0034-7736<br /><DD>MUSEU, LABORATORIO JARDIM BOTANICO, MUSEU NACIONAL DE HISTORIA NATURAL, UNIVERSIDADE DE LISBOA, RUA DA ESCOLA POLITECNICA 58, LISBON, PORTUGAL, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14671. REVISTA DE CERCETARE SI INTERVENTIE SOCIALA</strong></DT>
+ Quarterly ISSN: 1583-3410<br /><DD>EDITURA LUMEN, IASI, HOLT ROMANIA FCSSCF FILIALA, IASI STR BISTRITA, NR 7, BL B13, PARTER, AP 3, IASI, ROMANIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14672. REVISTA DE CHIMIE</strong></DT>
+ Monthly ISSN: 0034-7752<br /><DD>CHIMINFORM DATA S A, CALEA PLEVNEI NR 139, SECTOR 6, BUCHAREST, ROMANIA, R-77131<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14673. REVISTA DE CIENCIA POLITICA</strong></DT>
+ Semiannual ISSN: 0716-1417<br /><DD>PONTIFICIA UNIV CATOLICA CHILE, INST CIENCIA POLITICA, AV VICUNA MACKENNA 4860, SANTIAGO, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14674. REVISTA DE CIENCIAS AGRARIAS</strong></DT>
+ Quarterly ISSN: 0871-018X<br /><DD>SOC CIENCIAS AGRARIAS PORTUGAL, RUA DA JUNQUEIRA, 299, LISBON, PORTUGAL, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14675. REVISTA DE CIENCIAS FARMACEUTICAS BASICA E APLICADA</strong></DT>
+ Tri-annual ISSN: 1808-4532<br /><DD>UNIV ESTADUAL PAULISTA-UNESP, FAC CIENCIAS FARMACEUTICA, RODOVIA ARARAQUARA - JAU, KM 1  CAIXA POSTAL 502, ARARAQUARA, BRAZIL, SP, 00000<ol> 
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14676. REVISTA DE CIENCIAS SOCIALES</strong></DT>
+ Tri-annual ISSN: 1315-9518<br /><DD>UNIV ZULIA, FAC CIENCIAS ECON & SOCIALES SCI, CIUDAD UNIV DR. ANTONIO BORJAS ROMERO, NUCLEO HUMANISTICO, AV GUAJIRA, SECTOR ZIRUMA, APDO 526, MARACAIBO, VENEZUELA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14677. REVISTA DE CRITICA LITERARIA LATINOAMERICANA</strong></DT>
+ Semiannual ISSN: 0252-8843<br /><DD>RCLL-TUFTS UNIV, DEPT ROMANCE LANGUAGES, 180 PACKARD AVE, OLIN CENTER, MEDFORD, USA, MA, 02155<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14678. REVISTA DE DERECHO</strong></DT>
+ Semiannual ISSN: 0718-9753<br /><DD>UNIV CATOLICA NORTE, LARRONDO 1281, COQUIMNO, CHILE, 00000</li>
+<DT><strong>14679. REVISTA DE DIAGNOSTICO BIOLOGICO</strong></DT>
+ Quarterly ISSN: 0034-7973<br /><DD>EDITORIAL SIGLO, COMUNIDAD CASTILLA-LA MANCHA, 3 3, LA ROZAS, MADRID, SPAIN, 28230</li>
+<DT><strong>14680. REVISTA DE DIALECTOLOGIA Y TRADICIONES POPULARES</strong></DT>
+ Annual ISSN: 0034-7981<br /><DD>CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS, VITRUVIO 8, MADRID, SPAIN, 28006<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14681. REVISTA DE ECOLOGIA LATINOAMERICANA</strong></DT>
+ Tri-annual ISSN: 1012-2494<br /><DD>CIRES, P. O. BOX 397, MERIDA, VENEZUELA, 5101<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14682. REVISTA DE ECONOMIA APLICADA</strong></DT>
+ Tri-annual ISSN: 1133-455X<br /><DD>UNIV ZARAGOZA, DEPT ESTRUCTURA ECONOMICA ECONOMIA PUBLICA, GRAN VIA 2, ZARAGOZA, SPAIN, 50005<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14683. REVISTA DE ECONOMIA INSTITUCIONAL</strong></DT>
+ Semiannual ISSN: 0124-5996<br /><DD>UNIV EXTERNADO COLOMBIA, CARRERA 1 NO 12 68, CASA MANDOLINAS, BOGOTA, COLOMBIA, 00000</li>
+<DT><strong>14684. REVISTA DE ECONOMIA MUNDIAL</strong></DT>
+ Semiannual ISSN: 1576-0162<br /><DD>UNIV HUELVA, SERV PUBLICACIONES, CAMPUS EL CARMEN, EDIFICIO MARIE CURIE, AVENIDA FUERZAS ARMADAS S-N, HUELVA, SPAIN, 21071<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14685. REVISTA DE ECONOMIA POLITICA</strong></DT>
+ Quarterly ISSN: 0101-3157<br /><DD>CENTRO ECONOMIA POLITICIA, RUA ARARIPINA, 106, SAO PAULO SP, BRAZIL, CEP05603-030AP</li>
+<DT><strong>14686. REVISTA DE EDUCACION</strong></DT>
+ Quarterly ISSN: 0034-8082<br /><DD>MINISTRY EDUCATION & SCIENCE, SAN FERNANDO DEL JARAMA, 14, MADRID, SPAIN, 28002<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14687. REVISTA DE ESTUDIOS HISPANICOS</strong></DT>
+ Tri-annual ISSN: 0034-818X<br /><DD>REVISTA DE ESTUDIOS HISPANICOS, WASHINGTON UNIV, BOX 1077, DEPT ROMANCE LANG, ONE BROOKINGS DR, ST LOUIS, USA, MO, 63130-4899<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14688. REVISTA DE ESTUDIOS HISTORICO-JURIDICOS</strong></DT>
+ Annual ISSN: 0716-5455<br /><DD>EDICIONES UNIV VALPARAISO, CASILLA 1415, VALPARAISO, CHILE, 00000</li>
+<DT><strong>14689. REVISTA DE ESTUDIOS POLITICOS</strong></DT>
+ Quarterly ISSN: 0048-7694<br /><DD>CENTRO ESTUDIOS POLITICOS CONSTITUCIONALES, PLAZA DE LA MARINA ESPANOLA 9, MADRID, SPAIN, 28071<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14690. REVISTA DE ESTUDIOS SOCIALES</strong></DT>
+ Tri-annual ISSN: 0123-885X<br /><DD>UNIV LOS ANDES, FAC CIENCIAS SOC, SOCIAL SCIENC FACULTY, CARRERA 1A ESTE NO 18A-10, BOGOTA, COLOMBIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14691. REVISTA DE ETNOGRAFIE SI FOLCLOR-JOURNAL OF ETHNOGRAPHY AND FOLKLORE</strong></DT>
+ Semiannual ISSN: 0034-8198<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14692. REVISTA DE ETOLOGIA</strong></DT>
+ Semiannual ISSN: 1517-2805<br /><DD>UNIV FED UBERLANDIA, SOC BRASILEIRA ETOLOGIA, INST BIOL, C/O PROF DR KLEBER DEL-CLARO, CAIXS POSTAL 593, UBERLANDIA, BRAZIL, CEP38400-902AP<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14693. REVISTA DE FILOLOGIA ESPANOLA</strong></DT>
+ Semiannual ISSN: 0210-9174<br /><DD>CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS, VITRUVIO 8, MADRID, SPAIN, 28006<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14694. REVISTA DE FILOSOFIA</strong></DT>
+ Annual ISSN: 0718-4360<br /><DD>UNIV CHILE, FAC FILOSOFIA & HUMANIDADES, DEPT LINGUISTICA, AV CAPITAN IGNACIO CARRERA PINTO 1025, CUARTO PISO, NUNOA, SANTIAGO, CHILE, 00000</li>
+<DT><strong>14695. REVISTA DE FILOSOFIA AURORA</strong></DT>
+ Semiannual ISSN: 0104-4443<br /><DD>PONTIFICIA UNIV CATOLICA PARANA, RUA IMACULADA CONCEICAO 1155, PRADO VELHO, CAIXA POSTAL 16.210, CURITIBA, BRAZIL, PARANA, CEP 80.215-9AP<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14696. REVISTA DE GEOGRAFIA NORTE GRANDE</strong></DT>
+ Semiannual ISSN: 0718-3402<br /><DD>PONTIFICA UNIV CATOLICA CHILE, INST GEOGRAFIA, AV VICUNA MACKENNA 4860, SANTIAGO, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14697. REVISTA DE GEOLOGIA-FORTALEZA</strong></DT>
+ Semiannual ISSN: 0103-2410<br /><DD>UNIV FEDERAL CEARA, DEPT GEOL, CAMPUS UNIV PICI, BLOCO 912, CX POSTAL 6027, FORTALEZA, BRAZIL, CEARA, 60451-970<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14698. REVISTA DE HISPANISMO FILOSOFICO</strong></DT>
+ Annual ISSN: 1136-8071<br /><DD>FONDO CULTURA ECONOMICA ESPANA S L, VIA POBLADOS, 17-EDIF INDUBUILDING-GOICO, 4-15, MADRID, SPAIN, 28033<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14699. REVISTA DE HISTORIA DA SOCIEDADE E DA CULTURA</strong></DT>
+ Annual ISSN: 1645-2259<br /><DD>UNIV COIMBRA, FAC LETRAS, CENTRO HIST SOCIEDADE, LARGO PORTA FERREA, COIMBRA, PORTUGAL, 3004-530<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14700. REVISTA DE HISTORIA ECONOMICA</strong></DT>
+ Tri-annual ISSN: 0212-6109<br /><DD>CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14701. REVISTA DE HISTORIA INDUSTRIAL</strong></DT>
+ Semiannual ISSN: 1132-7200<br /><DD>UNIV BARCELONA, DEPT HISTORIA, INST ECONOMIQUES, AVDA DIAGONAL 690, BARCELONA, SPAIN, 08034<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14702. REVISTA DE INDIAS</strong></DT>
+ Tri-annual ISSN: 0034-8341<br /><DD>CENTRO DE ESTUDIOS HISTORICUS CONSEJO SUPER INVEST CIENTIF, DEPT HISTORIA DE AMERICA, DUQUE DE MEDINACELI 6, MADRID, SPAIN, 28014<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14703. REVISTA DE INVESTIGACION CLINICA</strong></DT>
+ Bimonthly ISSN: 0034-8376<br /><DD>INST NACIONAL NUTRICION, VASCO DE QUIROZA 15, COLONIA SECCION XVI, TLALPAN, MEXICO, MEXICO, 14000 DF<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14704. REVISTA DE INVESTIGACION MARINA</strong></DT>
+ Irregular ISSN: 1988-818X<br /><DD>AZTI-TECNALIA, UNIV INVESTIGACION MARINA, HERRERA KAIA, PORTUALDEA, PASAIA, SPAIN, 20010<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14705. REVISTA DE INVESTIGACION Y DESARROLLO PESQUERO</strong></DT>
+ Irregular ISSN: 0325-6375<br /><DD>INST NACIONAL INVESTIGACION DESARROLLO PESQUERO, PLAYA GRANDE, CASILLA DE CORREO 175, MAR DEL PLATA, ARGENTINA, 7600<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14706. REVISTA DE INVESTIGACION-CARACAS</strong></DT>
+ Semiannual ISSN: 0798-0329<br /><DD>UNIV PEDAGOGICO EXPERIMENTAL LIBERTADOR, INST PEDAGOGICO DE CARACAS, AV PAEZ-EL PARAISO, CARACAS, VENEZUELA, 1021<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14707. REVISTA DE INVESTIGACIONES AGROPECUARIAS</strong></DT>
+ Tri-annual ISSN: 0325-8718<br /><DD>INST NACIONAL TECNOLOGIA AGROPECUARIA, RIVADAVIA 1439, BUENOS AIRES, ARGENTINA, 1033<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14708. REVISTA DE INVESTIGACIONES MARINAS</strong></DT>
+ Tri-annual ISSN: 0252-1962<br /><DD>UNIV HABANA, CALLE 16 NO 114, ENTRE 1RA Y 3RA, PLAYA, C P 11300, LA HABANA, CUBA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14709. REVISTA DE INVESTIGACIONES VETERINARIAS DEL PERU</strong></DT>
+ Semiannual ISSN: 1682-3419<br /><DD>UNIV NACIONAL MAYOR SAN MARCOS, FAC MED VET, AV CIRCUNVALACION CDRA 28 S-N, SAN BORJA, PERU, LIMA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14710. REVISTA DE LA ACADEMIA CANARIA DE CIENCIAS</strong></DT>
+ Semiannual ISSN: 1130-4723<br /><DD>ACAD CANARIA CIENCIAS, C/O PROF. N. HAYEK, FACULTAD MATEMATICAS, UNIV  LAGUNA, TENERIFE, SPAIN, ISLAS CANARIAS<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14711. REVISTA DE LA ACADEMIA COLOMBIANA DE CIENCIAS EXACTAS FISICAS Y NATURALES</strong></DT>
+ Quarterly ISSN: 0370-3908<br /><DD>ACAD COLOMB CIEN EXACTAS FISICAS NAT, CARRERA 3A NO. 17-34, PISO 3O, APARTADO 44763, SANTAFE DE BOGOTA, COLOMBIA, D.C., 1<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14712. REVISTA DE LA ASOCIACION GEOLOGICA ARGENTINA</strong></DT>
+ Quarterly ISSN: 0004-4822<br /><DD>ASOC GEOL ARGENTINA, MAIPU 645, PISO 1, BUENOS AIRES, ARGENTINA, 1006<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14713. REVISTA DE LA CONSTRUCCION</strong></DT>
+ Semiannual ISSN: 0718-915X<br /><DD>PONTIFICIA UNIV CATOLICA CHILE, ESCUELA CONSTRUCCION CIVIL, AV VICUNA MACKENNA 4860, SANTIAGO, CHILE, 0000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14714. REVISTA DE LA FACULTAD DE AGRONOMIA DE LA UNIVERSIDAD DEL ZULIA</strong></DT>
+ Quarterly ISSN: 0378-7818<br /><DD>UNIV ZULIA, FACULTAD AGRONOMIA, APARTADO 15205, MARACAIBO, VENEZUELA, ZU 4005<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14715. REVISTA DE LA FACULTAD DE AGRONOMIA UNIVERSIDAD NACIONAL DE LA PLATA</strong></DT>
+ Semiannual ISSN: 0041-8676<br /><DD>UNIV NACIONAL LA PLATA, FAC AGRONOMIA, CASILLA DE COREO 31, LA PLATA, ARGENTINA, 1900<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14716. REVISTA DE LA FACULTAD DE CIENCIAS AGRARIAS</strong></DT>
+ Semiannual ISSN: 0370-4661<br /><DD>UNIV NACIONAL CUYO, FAC CIENCIAS AGRARIAS, ALMIRANTE BROWN 500, CHACRAS DE CORIA, ARGENTINA, MENDOZA, M5528AHB<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14717. REVISTA DE LA REAL ACADEMIA DE CIENCIAS EXACTAS FISICAS QUIMICAS Y NATURALES DE ZARAGOZA</strong></DT>
+ Semiannual ISSN: ****-****<br /><DD>REAL ACAD CIENCIAS EXACTAS, FISICAS, QUIMICAS NATURALES ZARAGOZA, ACADEMICO-DIRECTOR DE PUBLICACIONES, CIUDAD UNIV, ZARAGOZA, SPAIN, 50009<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14718. REVISTA DE LA REAL ACADEMIA DE CIENCIAS EXACTAS FISICAS Y NATURALES SERIE A-MATEMATICAS</strong></DT>
+ Semiannual ISSN: 1578-7303<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14719. REVISTA DE LA SOCIEDAD ENTOMOLOGICA ARGENTINA</strong></DT>
+ Semiannual ISSN: 0373-5680<br /><DD>SOC ENTOMOLOGICA ARGENTINA, MUSEO DE LA PLATA, PASEO DEL BOSQUE, LA PLATA, ARGENTINA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14720. REVISTA DE LA SOCIEDAD GEOLOGICA DE ESPANA</strong></DT>
+ Semiannual ISSN: 0214-2708<br /><DD>SOC GEOLOGICA ESPANA, DPT INGENIERA GEOLOGICA, UNIV POLITECNICA  MADR, C/O JOSE EUGENIO ORTIZ MENENDEZ, SECRETARIO, ESCUELA TECNICA SUPERIOR DE INGENIEROS DE MINAS,, MADRID, SPAIN, E-28003<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14721. REVISTA DE LA SOCIETAT PALEONTOLOGICA D ELX SECCION PALEONTOLOGICA</strong></DT>
+ Irregular ISSN: 0370-3908<br /><DD>SOC PALEONTOLOGICA ELX, LLANO DE SAN JOSE, P 1-134, ELCHE, SPAIN, 3293<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14722. REVISTA DE LA SOCIETAT PALEONTOLOGICA D ELX SECCION VERTEBRADOS ACTUALES</strong></DT>
+ Irregular ISSN: 1576-9550<br /><DD>SOC PALEONTOLOGICA ELX, LLANO DE SAN JOSE, P 1-134, ELCHE, SPAIN, 3293<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14723. REVISTA DE LA UNION MATEMATICA ARGENTINA</strong></DT>
+ Semiannual ISSN: 0041-6932<br /><DD>UNION MATEMATICA ARGENTINA, UNIV BUENOS AIRES, DEPT MATEMATICA, INTENDENTE GUIRALDES 2160, CIUDAD UNIV, LA PLATA, ARGENTINA, 1900<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14724. REVISTA DE LA UNIVERSIDAD DEL VALLE DE GUATEMALA</strong></DT>
+ Annual ISSN: 1607-5706<br /><DD>UNIV VALLE GUATEMALA, 18 AVENIDA 11-95, ZONA 15, VISTA HERMOSA III, GUATEMALA, 01015<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14725. REVISTA DE LETRAS</strong></DT>
+ Semiannual ISSN: 0101-3505<br /><DD>UNIV ESTADUAL PAULISTA-UNESP, FAC CIENCIAS LETRAS, CAMPUS DE ARARAQUARA, DEPT LETRAS MODERNAS,, ARARAQUARA, BRAZIL, SP, 14800-901<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14726. REVISTA DE LITERATURA</strong></DT>
+ Semiannual ISSN: 0034-849X<br /><DD>CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS, VITRUVIO 8, MADRID, SPAIN, 28006<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14727. REVISTA DE METALURGIA</strong></DT>
+ Bimonthly ISSN: 0034-8570<br /><DD>CENIM, AVDA. GREGORIO DEL AMO, 8, MADRID, SPAIN, 28040<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14728. REVISTA DE NEFROLOGIA DIALISIS Y TRASPLANTE</strong></DT>
+ Quarterly ISSN: 0326-3428<br /><DD>ASOC REGIONAL DIALISIS TRASPLANTES RENALES, AVDA BELGRANO 452, 4 PISO, BUENOS AIRES, ARGENTINA, C1092AAR<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14729. REVISTA DE NEUROLOGIA</strong></DT>
+ Semimonthly ISSN: 0210-0010<br /><DD>REVISTA DE NEUROLOGIA, C/O CESAR VIGUERA, EDITOR, APDO 94121, BARCELONA, SPAIN, 08080<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14730. REVISTA DE NUTRICAO-BRAZILIAN JOURNAL OF NUTRITION</strong></DT>
+ Bimonthly ISSN: 1415-5273<br /><DD>PONTIFICIA UNIVERSIDADE CATOLICA CAMPINAS, NUCLEO EDITORACAO SBI-CCV, CAMPUS II AV JOHN BOYD DUNLOP S-N PREDIO ONTOLOGIA JD IPAUSSURAMA, CAMPINAS, BRAZIL, SP, 13060-904<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14731. REVISTA DE OCCIDENTE</strong></DT>
+ Monthly ISSN: 0034-8635<br /><DD>FUNDACION JOSE ORTEGA Y GASSET, REVISTA DE OCCIDENTE FORTUNY 53, MADRID, SPAIN, 28010<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14732. REVISTA DE PATOLOGIA TROPICAL</strong></DT>
+ Semiannual ISSN: 0301-0406<br /><DD>UNIV FEDERAL GOIAS, INST PATOLOGIA TROPICAL SAUDE PUB, CAIXA POSTAL 131, GOIANIA, BRAZIL, GOIAS, 74001-970<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14733. REVISTA DE PSICODIDACTICA</strong></DT>
+ Semiannual ISSN: 1136-1034<br /><DD>ESCUELA UNIV MAGISTERIO, RAMON Y CAJAL 72, BILBAO, SPAIN, 48014<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14734. REVISTA DE PSICOLOGIA DEL DEPORTE</strong></DT>
+ Semiannual ISSN: 1132-239X<br /><DD>UNIV ILLES BALEARS, SERVEI PUBLICACIONS INTERCANVI CIENTIFIC CAS JAI, CAMPUS UNIV, CARRETERA VALLDEMOSSA, K M 7 5, PALMA, SPAIN, ILLES BALEARS, 07122<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14735. REVISTA DE PSICOLOGIA SOCIAL</strong></DT>
+ Tri-annual ISSN: 0213-4748<br /><DD>FUNDACION INFANCIA APRENDIZAJE, NARANJO DE BULNES, 69 CIUDALCAMPO, SAN SEBASTIAN DE LOS REYES, MADRID, SPAIN, 28707<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14736. REVISTA DE PSIQUIATRIA CLINICA</strong></DT>
+ Quarterly ISSN: 0101-6083<br /><DD>UNIV SAO PAULO, INST PSIQUIATRIA, RUA OVIDIO PIRES CAMPOS, 785, 1 ANDAR, SAO PAULO, BRAZIL, 05403-010<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14737. REVISTA DE PSIQUIATRIA Y SALUD MENTAL</strong></DT>
+ Quarterly ISSN: 1888-9891<br /><DD>ELSEVIER DOYMA SL, TRAVESERA DE GARCIA, 17-21, BARCELONA, SPAIN, 08021<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14738. REVISTA DE SALUD ANIMAL</strong></DT>
+ Quarterly ISSN: 0253-570X<br /><DD>CENTRO NACIONAL SANIDAD AGROPECUARIA REPUBLICA CUBA, CARRETERA DE JAMAICA Y AUTOPISTA NACIONAL, APDO 10, SAN JOSE DE LAS LAJAS,LA HABANA, CUBA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14739. REVISTA DE SAUDE PUBLICA</strong></DT>
+ Bimonthly ISSN: 0034-8910<br /><DD>REVISTA DE SAUDE PUBLICA, FACULDADE SAUDE PUBL DA USP, AV DR ARNALDO 715, SAO PAULO, BRAZIL, 01246-904SP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14740. REVISTA DE TECNOLOGIA E AMBIENTE</strong></DT>
+ Semiannual ISSN: 1413-8131<br /><DD>UNIV EXTREMO SUL CATARINENSE, AV UNIVERSITARIA, 1105-BAIRRO UNIVERSITARIO-C P 3167, BAIRRO UNIVERSITARIO, BRAZIL, CEP 88806-00AP<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14741. REVISTA DEL CLAD REFORMA Y DEMOCRACIA</strong></DT>
+ Tri-annual ISSN: 1315-2378<br /><DD>CLAD-LATINOAMERICANO ADMINISTRACION DESARROLLO, CALLE HERRERA TORO, QTA CLAD, SECTOR LOS NARANJOS, LAS MERCEDES APARTADO 4182, CARACAS, VENEZUELA, 1010-A<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14742. REVISTA DEL MUSEO ARGENTINO DE CIENCIAS NATURALES NUEVA SERIE</strong></DT>
+ Semiannual ISSN: 1514-5158<br /><DD>MUSEO ARGENTINO CIENCIAS NATURALES BERNARDINO RIVADAVIA, INST, AV  ANGEL GALLARDO 470, BUENOS AIRES, ARGENTINA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14743. REVISTA DEL MUSEO DE LA PLATA PUBLICACION TECNICA Y DIDACTICA</strong></DT>
+ Irregular ISSN: 0372-4565<br /><DD>UNIV NACIONAL PLATA, FAC CIENCIAS NATURALES MUSEO, PASEO BOSQUE, 1900 LA PLATA, BUENOS AIRES, ARGENTINA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14744. REVISTA DEL MUSEO DE LA PLATA SECCION PALEONTOLOGIA</strong></DT>
+ Irregular ISSN: 0373-3823<br /><DD>UNIV NACIONAL LA PLATA, FAC CIENCIAS NATURALES MUSEO, PASEO DEL BOSQUE, AVENIDAS 60 Y 122, LA PLATA, ARGENTINA, BUENOS AIRES, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14745. REVISTA DEL MUSEO DE LA PLATA SECCION ZOOLOGIA</strong></DT>
+ Irregular ISSN: 0372-4638<br /><DD>UNIV NACIONAL LA PLATA, FAC CIENCIAS NATURALES MUSEO, PASEO DEL BOSQUE, AVENIDAS 60 Y 122, LA PLATA, ARGENTINA, BUENOS AIRES, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14746. REVISTA DO INSTITUTO ADOLFO LUTZ</strong></DT>
+ Semiannual ISSN: 0073-9855<br /><DD>INST ADOLFO LUTZ, AV DR ARNALDO, 355, SAO PAULO, BRAZIL, SP, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14747. REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SAO PAULO</strong></DT>
+ Bimonthly ISSN: 0036-4665<br /><DD>INST MEDICINA TROPICAL SAO PAULO, AV DR ENEAS CARVALHO DE AGUIAR, 470, C CESAR, SAO PAULO, BRAZIL, 05403-000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14748. REVISTA DO INSTITUTO GEOLOGICO-SAO PAULO</strong></DT>
+ Semiannual ISSN: 0100-929X<br /><DD>INST GEOLOGICO CENTRO ESTADUAL AGRICULTURA, AV MIGUEL STEFANO 3900, SAO PAULO, BRAZIL, SP, 04301-903<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14749. REVISTA ESPANOLA DE CARDIOLOGIA</strong></DT>
+ Monthly ISSN: 0300-8932<br /><DD>EDICIONES DOYMA S A, TRAV DE GRACIA 17-21, BARCELONA, SPAIN, 08021<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14750. REVISTA ESPANOLA DE DERECHO CONSTITUCIONAL</strong></DT>
+ Tri-annual ISSN: 0211-5743<br /><DD>CENTRO ESTUDIOS POLITICOS CONSTITUCIONALES, PLAZA DE LA MARINA ESPANOLA 9, MADRID, SPAIN, 28071<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14751. REVISTA ESPANOLA DE DOCUMENTACION CIENTIFICA</strong></DT>
+ Quarterly ISSN: 0210-0614<br /><DD>CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS, VITRUVIO 8, MADRID, SPAIN, 28006<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14752. REVISTA ESPANOLA DE DROGODEPENDENCIAS</strong></DT>
+ Quarterly ISSN: 0213-7615<br /><DD>ASOCIACION CIENTIFICA DROGALCOHOL, APARTADO 477, VALENCIA, SPAIN, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14753. REVISTA ESPANOLA DE ENFERMEDADES DIGESTIVAS</strong></DT>
+ Monthly ISSN: 1130-0108<br /><DD>ARAN EDICIONES, S A, CASTELLO, 128, 1O, MADRID, SPAIN, 28006<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14754. REVISTA ESPANOLA DE FINANCIACION Y CONTABILIDAD-SPANISH JOURNAL OF FINANCEAND ACCOUNTING</strong></DT>
+ Quarterly ISSN: 0210-2412<br /><DD>ASOCIACION ESPANOLA CONTABILIDAD ADMIN EMPRESAS, RAFAEL BERGAMIN 16B, MADRID, SPAIN, 28043<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14755. REVISTA ESPANOLA DE INVESTIGACIONES SOCIOLOGICAS</strong></DT>
+ Quarterly ISSN: 0210-5233<br /><DD>CENTRO INVESTIGACIONES SOCIOLOGICAS, MONTALBAN 8, MADRID, SPAIN, 28014<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14756. REVISTA ESPANOLA DE LINGUISTICA APLICADA</strong></DT>
+ Annual ISSN: 0213-2028<br /><DD>ASOC ESPANOLA LINGUISTICA APLICADA, UNIV RIOJA, DEPT FILOLOGIAS MODERNAS, C-SAN JOSE DE CALASANZ, S-N, LOGRONO, SPAIN, 26004<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14757. REVISTA ESPANOLA DE MEDICINA NUCLEAR E IMAGEN MOLECULAR</strong></DT>
+ ISSN: 2253-654X<br /><DD>ELSEVIER DOYMA SL, TRAVESERA DE GARCIA, 17-21, BARCELONA, SPAIN, 08021<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14758. REVISTA ESPANOLA DE MICROPALEONTOLOGIA</strong></DT>
+ Tri-annual ISSN: 0556-655X<br /><DD>INST GEOLOGICA MINERO ESPANA, MUSEO GEOMINERO, RIOS ROSAS, NO 23, MADRID, SPAIN, 28003<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14759. REVISTA ESPANOLA DE NUTRICION COMUNITARIA-SPANISH JOURNAL OF COMMUNITY NUTRITION</strong></DT>
+ Quarterly ISSN: 1135-3074<br /><DD>NEXUS MEDICA EDITORES, PASSEIG D AMUNT 38, BARCELONA, SPAIN, 08028<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14760. REVISTA ESPANOLA DE PEDAGOGIA</strong></DT>
+ Tri-annual ISSN: 0034-9461<br /><DD>INST EUROPEO INCIATIVAS EDUCATIVAS, VITRUVIO 8, MADRID, SPAIN, 28006<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14761. REVISTA ESPANOLA DE QUIMIOTERAPIA</strong></DT>
+ Quarterly ISSN: 0214-3429<br /><DD>SOCIEDAD ESPANOLA QUIMIOTERAPIA, UNIV COMPLUTENSE MADRID, MICROBIOLOGY DEPT, SCHOOL MEDICINE, AVDA COMPLUTENSE S/N, MADRID, SPAIN, 28040<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14762. REVISTA ESPANOLA DE SALUD PUBLICA</strong></DT>
+ Bimonthly ISSN: 1135-5727<br /><DD>MINISTERIO DE SANIDAD Y CONSUMO, PASEO DEL PRADO 18-20, MADRID, SPAIN, 28071<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14763. REVISTA FACULTAD DE CIENCIAS BASICAS UNIVERSIDAD MILITAR NUEVA GRANADA</strong></DT>
+ Annual ISSN: 1900-4699<br /><DD>UNIV MILITAR NUEVA GRANADA, FAC CIENCIAS BASICAS, SEDE BOGOTA CRA 11 N 101-80, BOGOTA, COLOMBIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14764. REVISTA FACULTAD DE INGENIERIA-UNIVERSIDAD DE ANTIOQUIA</strong></DT>
+ Quarterly ISSN: 0120-6230<br /><DD>IMPRENTA UNIV ANTIOQUIA, 67 N 53-108, BLOQUE 28, CIUDAD UNIV, UNIV ANTIQUIA, MEDELLIN, COLOMBIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14765. REVISTA FAVE CIENCIAS VETERINARIAS</strong></DT>
+ Semiannual ISSN: 1666-938X<br /><DD>UNIV NAC LITORAL, CIUDAD UNIV, FAC BIOQUIM & CIENC BIOL, PARAJE POZO, SANTA FE, ARGENTINA, 53000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14766. REVISTA FITOTECNIA MEXICANA</strong></DT>
+ Quarterly ISSN: 0187-7380<br /><DD>SOC MEXICANA FITOGENETICA, APARTADO POSTAL NO 21, CHAPINGO, MEXICO, ESTADO MEXICO, 56 230<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14767. REVISTA GADITANA DE ENTOMOLOGIA</strong></DT>
+ Semiannual ISSN: 2172-2595<br /><DD>REV GADITANA ENTOMOLOGIA, C/O ANTONIO VERDUGO, HEROES DEL BALEARES, 10-3O B, SAN FERNANDO, SPAIN, CADIZ, 11100<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14768. REVISTA GEOLOGICA DE AMERICA CENTRAL</strong></DT>
+ Semiannual ISSN: 0256-7024<br /><DD>UNIV COSTA RICA, ESCUELA CENTROAMERICANA GEOLOGICA, APDO 214-2060, SAN JOSE, COSTA RICA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14769. REVISTA IBERICA DE ARACNOLOGIA</strong></DT>
+ Semiannual ISSN: 1576-9518<br /><DD>GRUPO IBERICO ARACNOLOGIA-GIA, AVDA RADIO JUVENTUD, 37, ZARAGOZA, SPAIN, 50012<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14770. REVISTA IBERO-LATINOAMERICANA DE PARASITOLOGIA</strong></DT>
+ Semiannual ISSN: 0718-8730<br /><DD>SOCIEDAD ESPANOLA PARASITOLOGIA, C/O DR ENRIQUE MARTINEZ CARRETERO,UNIV LAGUNA, PARASITOLOGIA Y ENFERMEDADES PARASITARIAS, LAGUNA, SPAIN, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14771. REVISTA IBEROAMERICANA</strong></DT>
+ Quarterly ISSN: 0034-9631<br /><DD>INST INT LIT IBEROAMERICANA, UNIV PITTSBURGH ATTN: ERIKA BRAGA 1312 CATHEDRAL OF LEARNING, PITTSBURGH, USA, PA, 15260<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14772. REVISTA IBEROAMERICANA DE AUTOMATICA E INFORMATICA INDUSTRIAL</strong></DT>
+ Quarterly ISSN: 1697-7912<br /><DD>COMITE ESPANOL AUTOMATICA CEA, C VERA 14, APDO 22012, VALENCIA, SPAIN, E-46071<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14773. REVISTA IBEROAMERICANA DE DIAGNOSTICO Y EVALUACION-E AVALIACAO PSICOLOGICA</strong></DT>
+ Semiannual ISSN: 1135-3848<br /><DD>AIDEP, MARIO BRAVO 427 1 C, CAPITAL FEDERAL, BUENOS AIRES, ARGENTINA, C175ASM CPA<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14774. REVISTA IBEROAMERICANA DE MICOLOGIA</strong></DT>
+ Quarterly ISSN: 1130-1406<br /><DD>ASOCIACION ESPANOLA MICOLOGIA-AEM, C/O DR GUILLERMO QUINDOS, EDITOR-IN-CHIEF, DEPT INMUNOLOGIA, MICROBIOLOGIAY PARASITOLO, BILBAO, SPAIN, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14775. REVISTA INTERNACIONAL DE ANDROLOGIA</strong></DT>
+ Quarterly ISSN: 1698-031X<br /><DD>ELSEVIER DOYMA SL, TRAVESERA DE GARCIA, 17-21, BARCELONA, SPAIN, 08021<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14776. REVISTA INTERNACIONAL DE CONTAMINACION AMBIENTAL</strong></DT>
+ Quarterly ISSN: 0188-4999<br /><DD>CENTRO CIENCIAS ATMOSFERA UNAM, CIRCUITO EXTERIOR, MEXICO CITY, MEXICO, CU 04510<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14777. REVISTA INTERNACIONAL DE MEDICINA Y CIENCIAS DE LA ACTIVIDAD FISICA Y DEL DEPORTE</strong></DT>
+ Quarterly ISSN: 1577-0354<br /><DD>RED IRIS, EDIF BRONCE, PLAZA DE MANUEL GOMEZ MORENO, S-N 2A PLANTA, MADRID, SPAIN, 28020<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14778. REVISTA INTERNACIONAL DE METODOS NUMERICOS PARA CALCULO Y DISENO EN INGENIERIA</strong></DT>
+ Quarterly ISSN: 0213-1315<br /><DD>UNIV POLITECNICA CATALUNYA, REV INT METODOS NUM, CALCULO & DISENO INGENIERIA, EDIFICIO C-1, CAMPUS NORTE-UPC, GRAN CAPITAN S-N, BARCELONA, SPAIN, 08034<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14779. REVISTA INTERNACIONAL DE SOCIOLOGIA</strong></DT>
+ Tri-annual ISSN: 0034-9712<br /><DD>CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS, VITRUVIO 8, MADRID, SPAIN, 28006<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14780. REVISTA LATINO-AMERICANA DE ENFERMAGEM</strong></DT>
+ Bimonthly ISSN: 0104-1169<br /><DD>UNIV SAO PAULO, ESCOLA DE ENFERMAGEM DE RIBEIRAO PRETO, AV BANDEIRANTES, 3900, RIBEIRAO PRETO, BRAZIL, SP, 14040-902  AP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14781. REVISTA LATINOAMERICANA DE HIPERTENSION</strong></DT>
+ Quarterly ISSN: 1856-4550<br /><DD>SOC LATINOAMERICANA HIPERTENSION, ESCUELA  MEDICINA JOSE MARIA VARGAS, CATEDRA FARMACOLOGIA, PISO 3 ESQ-PIRINEOUS, SAN JOSE, VENEZUELA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14782. REVISTA LATINOAMERICANA DE INVESTIGACION EN MATEMATICA EDUCATIVA-RELIME</strong></DT>
+ Tri-annual ISSN: 1665-2436<br /><DD>CLAME-COMITE LATINOAMERICANO MAT EDUC, CENT INVEST ESTUD AVANZADOS IPN, DEPT MATEMATICA EDUC, OFC 216, AV INST POLITEC NAC NO 2508, SAN PEDRO ZACATENCO, MEXICO, CUIDAD MEXICO DF, CP 07360<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14783. REVISTA LATINOAMERICANA DE MICROBIOLOGIA</strong></DT>
+ Quarterly ISSN: 0034-9771<br /><DD>ASOCIACION LATINOAMERICANA MICROBIOLOGIA, APDO POSTAL 4-862, MEXICO D F, MEXICO, 06400<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14784. REVISTA LATINOAMERICANA DE PSICOLOGIA</strong></DT>
+ Tri-annual ISSN: 0120-0534<br /><DD>FOUNDATION ADVANCEMENT PSYCHOLOGY, APARTADO AEREO 92621, BOGOTA D C, COLOMBIA<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14785. REVISTA LATINOAMERICANA DE PSICOPATOLOGIA FUNDAMENTAL</strong></DT>
+ Quarterly ISSN: 1415-4714<br /><DD>ASSOC UNIV PEQUISA PSICOPATOLOGIA FUNDAMENTAL, RUA TUPI, 397-10- CJ 104, SAO PAOLO SP, BRAZIL, 01233-001<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14786. REVISTA MATEMATICA COMPLUTENSE</strong></DT>
+ Semiannual ISSN: 1139-1138<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14787. REVISTA MATEMATICA IBEROAMERICANA</strong></DT>
+ Tri-annual ISSN: 0213-2230<br /><DD>EUROPEAN MATHEMATICAL SOC, PUBLISHING HOUSE, E T H-ZENTRUM SEW A27, SCHEUCHZERSTRASSE 70, ZURICH, SWITZERLAND, CH-8092<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14788. REVISTA MEDICA DE CHILE</strong></DT>
+ Monthly ISSN: 0034-9887<br /><DD>SOC MEDICA SANTIAGO, BERNARDA MORIN 488 PROVIDENCIA, CASILLA 168 CORREO 55, SANTIAGO 9, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14789. REVISTA MEXICANA DE ASTRONOMIA Y ASTROFISICA</strong></DT>
+ Semiannual ISSN: 0185-1101<br /><DD>UNIV NACIONAL AUTONOMA MEXICO, INST DE ASTRONOMIA, APDO POSTAL 70-264, MEXICO CITY, MEXICO, 04510<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14790. REVISTA MEXICANA DE BIODIVERSIDAD</strong></DT>
+ Tri-annual ISSN: 1870-3453<br /><DD>INST BIOLOGIA, UNIV NACIONAL AUTONOMA MEXICO, APARTADO POSTAL 70-233, MEXICO, MEXICO, D F, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14791. REVISTA MEXICANA DE CIENCIAS FARMACEUTICAS</strong></DT>
+ Bimonthly ISSN: 1027-3956<br /><DD>ASOCIACION FARMACEUTICA MEXICANA, A C, ADOLFO PRIETO NO. 1649-6TO PISO, COL DEL VALLE, MEXICO, DF 03100   AP</li>
+<DT><strong>14792. REVISTA MEXICANA DE CIENCIAS GEOLOGICAS</strong></DT>
+ Tri-annual ISSN: 1026-8774<br /><DD>CENTRO GEOCIENCIAS UNAM, CENTRO GEOCIENCIAS, UNAM, CAMPUS JURIQUILLA, QUERETARO, MEXICO, QRO, 76230<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14793. REVISTA MEXICANA DE CIENCIAS PECUARIAS</strong></DT>
+ Quarterly ISSN: 2007-1124<br /><DD>INIFAP-CENID PARASITOLOGIA VETERINARIA, CARRETERA FEDERAL CUERNAVACA-CUAUTIA NO 8534, COL PROGRESSO, JIUTEPEC C P,MEXICO, 06300 D F<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14794. REVISTA MEXICANA DE FISICA</strong></DT>
+ Bimonthly ISSN: 0035-001X<br /><DD>SOC MEXICANA FISICA, APARTADO POSTAL 70-348, COYOACAN, MEXICO, 04511<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14795. REVISTA MEXICANA DE FISICA E</strong></DT>
+ Semiannual ISSN: 1870-3542<br /><DD>SOC MEXICANA FISICA, APARTADO POSTAL 70-348, COYOACAN, MEXICO, 04511<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14796. REVISTA MEXICANA DE FITOPATOLOGIA</strong></DT>
+ Irregular ISSN: 0185-3309<br /><DD>SOC MEXICANA FITOPATOLOGIA A C, CIMMYT INT, NORMAN E. BORLAUG, KM. 12 ENTRE 800 Y 900, VALLE DEL YAQUI, APDO. POSTAL 140, CIUDAD OBREGON, MEXICO, SON, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14797. REVISTA MEXICANA DE INGENIERIA QUIMICA</strong></DT>
+ Tri-annual ISSN: 1665-2738<br /><DD>UNIV AUTONOMA METROPOLITANA-IZTAPALAPA, SAN RAFAEL ATLIXCO NO 186, COL VICENTINA, DELEGACION IZTAPALAPA, MEXICO, MEXICO, 09340<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14798. REVISTA MEXICANA DE MASTOZOOLOGIA</strong></DT>
+ Annual ISSN: ****-****<br /><DD>ASOC MALACOL ANDALUZA MALAKOS, APARTADO DE CORREOS 15.736, MALAGA, SPAIN, 29080<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14799. REVISTA MEXICANA DE MICOLOGIA</strong></DT>
+ Annual ISSN: 0187-3180<br /><DD>SOC MEXICANA MICOLOGIA, KM 2.5 CARRETERA ANTIGUA A COATEPEC NO. 351, CONGREGACION EL HAYA, XALAPA,MEXICO, VERUCRUZ, 91000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14800. REVISTA MEXICANA DE PSICOLOGIA</strong></DT>
+ Semiannual ISSN: 0185-6073<br /><DD>SOC MEXICANA PSICOLOGIA, APARTADO POSTAL 22-211, TLALPAN, MEXICO, 14000<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14801. REVISTA MUSICAL CHILENA</strong></DT>
+ Semiannual ISSN: 0716-2790<br /><DD>UNIV CHILE, FACULTY ARTS, CASILLA 2100, SANTIAGO, CHILE, 1264<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14802. REVISTA MVZ CORDOBA</strong></DT>
+ Semiannual ISSN: 0122-0268<br /><DD>UNIV CORDOBA, FAC MEDICINA VETERINARIA Y ZOOTECNIA, KM 26, VIA CIENEGA DE ORO, APARTADO AEREO NO 354, MONTERIA, COLOMBIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14803. REVISTA NICARAGUENSE DE ENTOMOLOGIA</strong></DT>
+ Quarterly ISSN: 1021-0296<br /><DD>MUSEO ENTOMOLOGICO DE LEON, A.P. 527, LEON, NICARAGUA<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14804. REVISTA PAN-AMAZONICA DE SAUDE</strong></DT>
+ Quarterly ISSN: 2176-6215<br /><DD>INST EVANDRO CHAGAS, CENTRO DOCUMENTACAO, INFORMACAO E MEMORIA, RODOVIA BR-316 KM 7 S-N-LEVILANDIA, ANANINDEUA PARA, BRAZIL, 67030-000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14805. REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC HEALTH</strong></DT>
+ Monthly ISSN: 1020-4989<br /><DD>PAN AMER HEALTH ORGANIZATION, 525 23RD ST NW, WASHINGTON, USA, DC, 20037<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14806. REVISTA PERUANA DE BIOLOGIA</strong></DT>
+ Semiannual ISSN: 1561-0837<br /><DD>UNIV NACIONAL MAYOR SAN MARCOS, CIUDAD UNIVERSITARIA, AV VENEZUELA CDRA. 34 S/N, CASILLA POSTAL 11-0058, LIMA, PERU, 11<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14807. REVISTA PERUANA DE ENTOMOLOGIA</strong></DT>
+ Annual ISSN: 0080-2425<br /><DD>SOC ENTOMOLOGICA PERU-SEP, LOCAL FERMIN TANGUIS - LIMA, ESQUINA 7MA CUADRA AV. PETIT THOUARS Y PABLO BERMUDEZ, APARTADO POSTAL, LIMA, PERU, 14<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14808. REVISTA PORTUGUESA DE CARDIOLOGIA</strong></DT>
+ Monthly ISSN: 0870-2551<br /><DD>ELSEVIER DOYMA SL, TRAVESERA DE GARCIA, 17-21, BARCELONA, SPAIN, 08021<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14809. REVISTA PORTUGUESA DE CIENCIAS VETERINARIAS</strong></DT>
+ Quarterly ISSN: 0035-0389<br /><DD>SOC PORTUGUESA CIENCIAS VETERINARIAS, RUA D DINIS, 2-A, LISBOA, PORTUGAL, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14810. REVISTA PORTUGUESA DE FARMACIA</strong></DT>
+ Quarterly ISSN: 0484-811X<br /><DD>ORDEM DOS FARMACEUTICOS, RUA DA SOCIEDADE FARMACEUTICA, 18, LISBON, PORTUGAL, 1169-075</li>
+<DT><strong>14811. REVISTA PORTUGUESA DE PNEUMOLOGIA</strong></DT>
+ Bimonthly ISSN: 0873-2159<br /><DD>ELSEVIER DOYMA SL, TRAVESERA DE GARCIA, 17-21, BARCELONA, SPAIN, 08021<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14812. REVISTA REAL ACADEMIA GALEGA DE CIENCIAS</strong></DT>
+ Annual ISSN: 1135-5417<br /><DD>REAL ACAD GALEGA CIENCIAS, SAN ROQUE 2, SANTIAGO DE COMPOSTELA, SPAIN, 15704<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14813. REVISTA ROMANA DE BIOETICA</strong></DT>
+ Quarterly ISSN: 1583-5170<br /><DD>COLEGIUL MEDICILOR IASI, STR CAROL I, NR. 3-5, IASI, ROMANIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14814. REVISTA ROMANA DE MATERIALE-ROMANIAN JOURNAL OF MATERIALS</strong></DT>
+ Quarterly ISSN: 1583-3186<br /><DD>SERBAN SOLACOLU FOUNDATION, STR GHEORGHE POLIZU NR 1, COD 011061 SECTOR 1, BUCUREST, ROMANIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14815. REVISTA ROMANA DE MEDICINA DE LABORATOR</strong></DT>
+ Quarterly ISSN: 1841-6624<br /><DD>UNIV PRESS, UNIV MED FARMACIE TIRGU MURES, DISCIPLINA BIOCHIMIE CLIN, STR GHEORGHE MARINESCU, NR 38, TIRES MURES, ROMANIA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14816. REVISTA SIGNOS</strong></DT>
+ Tri-annual ISSN: 0718-0934<br /><DD>EDICIONES UNIV VALPARAISO, CASILLA 1415, VALPARAISO, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14817. REVISTA TECNICA DE LA FACULTAD DE INGENIERIA UNIVERSIDAD DEL ZULIA</strong></DT>
+ Tri-annual ISSN: 0254-0770<br /><DD>UNIV ZULIA, APARTADO POSTAL 10 482, MARACAIBO, VENEZUELA, ZULIA, 4002A<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14818. REVISTA UNIVERSIDADE DE GUARULHOS GEOCIENCIAS</strong></DT>
+ Annual ISSN: 1981-7428<br /><DD>UNIV GUARULHOS, PRACA TEREZA CRISTINA OL CENTRO, GUARULHOS SP, BRAZIL, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14819. REVISTA UNIVERSIDADE RURAL-SERIE CIENCIAS DA VIDA</strong></DT>
+ Semiannual ISSN: 0104-7264<br /><DD>UNIV FEDERAL RURAL DO RIO JANEIRO, KM 47 ANTIGA ROD RIO-S PAULO, SALA 102 - PREDIO PRINCIPAL, SEROPEDICA, BRAZIL, RJ, 23851-970<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14820. REVISTA VENEZOLANA DE GERENCIA</strong></DT>
+ Semiannual ISSN: 1315-9984<br /><DD>UNIV ZULIA CENTRO ESTUDIOS EMPRESA, FACULTAD CIENCIAS ECONOMIAS SOCIALES CUIDAD, UNIV NUCLEO HUMANISTICO, MARACAIBO, VENEZUELA, 15401<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14821. REVISTA VETERINARIA-CORRIENTES</strong></DT>
+ Semiannual ISSN: 1668-4834<br /><DD>UNIV NACIONAL NORDESTE-UNNE, INST ICTIOLOGIA, FAC CIENCIAS VET, SARGENTO CABRAL 2139, CORRIENTES, ARGENTINA, 3400<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14822. REVOLUTIONARY RUSSIA</strong></DT>
+ Semiannual ISSN: 0954-6545<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14823. REVSTAT-STATISTICAL JOURNAL</strong></DT>
+ Tri-annual ISSN: 1645-6726<br /><DD>INST NACIONAL ESTATISTICA-INE, AV ANTONIO JOSE ALMEIDA, 2, LISBON, PORTUGAL, 1000-043<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14824. REVUE ARACHNOLOGIQUE</strong></DT>
+ Irregular ISSN: 0398-4346<br /><DD>J C LEDOUX IMPRIMEUR-EDITEUR, 43 RUE PAUL-BERT, ARAMON, FRANCE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14825. REVUE BELGE DE PHILOLOGIE ET D HISTOIRE</strong></DT>
+ Quarterly ISSN: 0035-0818<br /><DD>REVUE BELGE PHILOLOGIE HISTOIRE, C/O BIBLIOTHEQUE ROYALE DE BELGIQUE, BOULEVARD DE L EMPEREUR 4, BRUSSELS, BELGIUM, B-1000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14826. REVUE BIBLIQUE</strong></DT>
+ Quarterly ISSN: 0035-0907<br /><DD>J GABALDA CIE, 18 RUE PIERRE ET MARIE CURIE, PARIS, FRANCE, 75005<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14827. REVUE D ECOLOGIE-LA TERRE ET LA VIE</strong></DT>
+ Quarterly ISSN: 0249-7395<br /><DD>SOC NATL PROTECTION NATURE ACCLIMATATION FRANCE, 57 RUE CUVIER, PARIS 5, FRANCE, 75005<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14828. REVUE D ECONOMIE POLITIQUE</strong></DT>
+ Bimonthly ISSN: 0373-2630<br /><DD>EDITIONS DALLOZ, 31-35 RUE FROIDEVAUX, PARIS CEDEX 14, FRANCE, 75685<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14829. REVUE D ELEVAGE ET DE MEDECINE VETERINAIRE DES PAYS TROPICAUX</strong></DT>
+ Quarterly ISSN: 0035-1865<br /><DD>LAVOISIER, 14, RUE DE PROVIGNY, CACHAN, FRANCE, 94236<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14830. REVUE D ENTOMOLOGIE GENERALE</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>UNION ENTOMOLOGISTES BELGES, C/O M. M. NEURAY, AV. ALBERT IER, 8, EMBOURG, BELGIUM, B-4053<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14831. REVUE D EPIDEMIOLOGIE ET DE SANTE PUBLIQUE</strong></DT>
+ Bimonthly ISSN: 0398-7620<br /><DD>MASSON EDITEUR, 21 STREET CAMILLE DESMOULINS, ISSY, MOULINEAUX CEDEX 9, FRANCE, 92789<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14832. REVUE D ETUDES COMPARATIVES EST-OUEST</strong></DT>
+ Quarterly ISSN: 0338-0599<br /><DD>NECPLUS, 16, RUE CLAUDE TILLIER, PARIS, FRANCE, 75012<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14833. REVUE D HISTOIRE DE L AMERIQUE FRANCAISE</strong></DT>
+ Quarterly ISSN: 0035-2357<br /><DD>INST HIST DEL L AMER FR, 261 AVE BLOOMFIELD OUTREMONT, MONTREAL, CANADA, QUEBEC, H2V 3R6<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14834. REVUE D HISTOIRE DES MATHEMATIQUES</strong></DT>
+ Semiannual ISSN: 1262-022X<br /><DD>SOC MATHEMATIQUE FRANCE, IPH 11 RUE PIERRE MARIE CURIE, PARIS, FRANCE, F 75231<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14835. REVUE D HISTOIRE DU THEATRE</strong></DT>
+ Quarterly ISSN: 1291-2530<br /><DD>SOC HISTOIRE THEATRE, BNF 58 RUE DE RICHELIEU, PARIS CEDEX 02, FRANCE, 75084<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14836. REVUE D HISTOIRE ECCLESIASTIQUE</strong></DT>
+ Quarterly ISSN: 0035-2381<br /><DD>CULTURA, HOENDERSTRAAT 22, WETTEREN, BELGIUM, B 9230<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14837. REVUE D HISTOIRE LITTERAIRE DE LA FRANCE</strong></DT>
+ Quarterly ISSN: 0035-2411<br /><DD>PRESSES UNIV FRANCE, 6 AVENUE REILLE, PARIS CEDEX 14, FRANCE, 75685<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14838. REVUE D HISTOIRE MODERNE ET CONTEMPORAINE</strong></DT>
+ Quarterly ISSN: 0048-8003<br /><DD>SOC HISTOIRE MODERNE CONTEMPORAINE, RHMC, BUREAU 114, 56 RUE JACOB, PARIS, FRANCE, F-75006<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14839. REVUE DE GEOGRAPHIE ALPINE-JOURNAL OF ALPINE RESEARCH</strong></DT>
+ Quarterly ISSN: 0035-1121<br /><DD>IGA-ASSOC DIFFUSION RECHERCHE ALPINE, 14 BIS AVENUE MARIE REYNOARD, GRENOBLE, FRANCE, 38100<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14840. REVUE DE L ART</strong></DT>
+ Quarterly ISSN: 0035-1326<br /><DD>EDITIONS C N R S, 20/22 RUE ST. AMAND, PARIS, FRANCE, 75015<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14841. REVUE DE L ASSOCIATION ROUSSILLONNAISE D ENTOMOLOGIE</strong></DT>
+ Tri-annual ISSN: 1288-5509<br /><DD>ASSOC ROUSSIL ENTOMOL, 18, RUE LACAZE-DUTHIERS, PERPIGNAN, FRANCE, F-66000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14842. REVUE DE L HISTOIRE DES RELIGIONS</strong></DT>
+ Quarterly ISSN: 0035-1423<br /><DD>PRESSES UNIV FRANCE, 6 AVENUE REILLE, PARIS CEDEX 14, FRANCE, 75685<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14843. REVUE DE LINGUISTIQUE ROMANE</strong></DT>
+ Semiannual ISSN: 0035-1458<br /><DD>SOC LINGUISTIQUE ROMANE, UNIV SCI HUMAINES 25 RUE DU MARECHAL-JUIN, STRASBOURG CEDEX, FRANCE, F-67084<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14844. REVUE DE MEDECINE INTERNE</strong></DT>
+ Monthly ISSN: 0248-8663<br /><DD>ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER, 23 RUE LINOIS, PARIS, FRANCE, 75724<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14845. REVUE DE MEDECINE VETERINAIRE</strong></DT>
+ Monthly ISSN: 0035-1555<br /><DD>ECOLE NATIONALE VETERINAIRE TOULOUSE, 23 CHEMIN DES CAPELLES, TOULOUSE CEDEX 3, FRANCE, 31076<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li></ol>
+</li>
+<DT><strong>14846. REVUE DE METALLURGIE-CAHIERS D INFORMATIONS TECHNIQUES</strong></DT>
+ Monthly ISSN: 0035-1563<br /><DD>REVUE DE METALLURGIE, 5 RUE LUIGI CHERUBINI, LA PLAINE SAINT-DENIS CEDEX, FRANCE, 93212<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14847. REVUE DE METAPHYSIQUE ET DE MORALE</strong></DT>
+ Quarterly ISSN: 0035-1571<br /><DD>PRESSES UNIV FRANCE, 6 AVENUE REILLE, PARIS CEDEX 14, FRANCE, 75685<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14848. REVUE DE MICROPALEONTOLOGIE</strong></DT>
+ Quarterly ISSN: 0035-1598<br /><DD>ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER, 23 RUE LINOIS, PARIS, FRANCE, 75724<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14849. REVUE DE MUSICOLOGIE</strong></DT>
+ Semiannual ISSN: 0035-1601<br /><DD>EDITIONS TRANSATLANTIQUES, 50 RUE JOSEPH DE MAISTRE, PARIS, FRANCE, 75018<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14850. REVUE DE PALEOBIOLOGIE</strong></DT>
+ Semiannual ISSN: 0253-6730<br /><DD>MUSEUM HISTOIRE NATURELLE, CASE POSTALE 6434, ATTN:DENISE MAIER ADMN REV SUISSE DE ZOOLOGIE, GENEVA 6, SWITZERLAND, CH-L211<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14851. REVUE DE PHILOLOGIE DE LITTERATURE ET D HISTOIRE ANCIENNES</strong></DT>
+ Semiannual ISSN: 0035-1652<br /><DD>EDITIONS KLINCKSIECK, 11 RUE DE LILLE, PARIS, FRANCE, 75007<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14852. REVUE DE PHYLLIE</strong></DT>
+ Irregular ISSN: 1632-7705<br /><DD>ASSOC FOYER CULT SARREGUEMINES, C/O EMMANUEL DELFOSSE, BAT. A ESC. B, 35 BALLYGUNGE CIRCULAR ROAD, SARCELLES, FRANCE, 95200<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14853. REVUE DE PNEUMOLOGIE CLINIQUE</strong></DT>
+ Bimonthly ISSN: 0761-8417<br /><DD>ELSEVIER, 685 ROUTE 202-206, BRIDGEWATER, USA, NJ, 08807<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14854. REVUE DE PRIMATOLOGIE</strong></DT>
+ Semiannual ISSN: 2077-3757<br /><DD>SOC FRANCOPHONE PRIMATOLOGIE-SFDP, C/O GUY GERMAIN, CENTRE RECHERCHES MIRCEN, BATIMENT 61, 18 ROUTE PANORMA, BP 6, FONTENAY-AUX-ROSES, FRANCE, F-92265<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14855. REVUE DE STOMATOLOGIE ET DE CHIRURGIE MAXILLO-FACIALE</strong></DT>
+ Bimonthly ISSN: 0035-1768<br /><DD>ELSEVIER, 685 ROUTE 202-206, BRIDGEWATER, USA, NJ, 08807<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14856. REVUE DE SYNTHESE</strong></DT>
+ Quarterly ISSN: 0035-1776<br /><DD>SPRINGER FRANCE, 22 RUE DE PALESTRO, PARIS, FRANCE, 75002<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14857. REVUE DES ETUDES ITALIENNES</strong></DT>
+ Semiannual ISSN: 0035-2047<br /><DD>EDITIONS L'AGE D'HOMME, 5 RUE FEROU, PARIS, FRANCE, 75006<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14858. REVUE DES ETUDES JUIVES</strong></DT>
+ Semiannual ISSN: 0484-8616<br /><DD>EDITIONS PEETERS SPRL, 52 BOULEVARD SAINT-MICHEL, PARIS, FRANCE, 75006<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14859. REVUE DES LANGUES ROMANES</strong></DT>
+ Semiannual ISSN: 0223-3711<br /><DD>REVUE DES LANGUES ROMANES, UNIV PAUL VALERY, BP 5043,, MONTPELLIER-CEDEX, FRANCE, 34052<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14860. REVUE DES MALADIES RESPIRATOIRES</strong></DT>
+ Monthly ISSN: 0761-8425<br /><DD>MASSON EDITEUR, 21 STREET CAMILLE DESMOULINS, ISSY, MOULINEAUX CEDEX 9, FRANCE, 92789<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14861. REVUE DES MUSEES DE FRANCE-REVUE DU LOUVRE</strong></DT>
+ Bimonthly ISSN: 1962-4271<br /><DD>CONSEIL MUSEES NATIONAUX, 10 RUE DE L ABBAYE, PARIS, FRANCE, 75006<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14862. REVUE DES SCIENCES DE L EAU-JOURNAL OF WATER SCIENCE</strong></DT>
+ Quarterly ISSN: 0992-7158<br /><DD>LAVOISIER, 14, RUE DE PROVIGNY, CACHAN, FRANCE, 94236<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14863. REVUE DES SCIENCES NATURELLES D AUVERGNE</strong></DT>
+ Annual ISSN: 0373-2851<br /><DD>SOC D HISTOIRE NATURELLE D UVERGNE, HERBIERS DE CLERMONT-FERRAND, 3, BOULEVARD LAFAYETTE, CLERMONT-FERRAND, FRANCE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14864. REVUE DES SCIENCES PHILOSOPHIQUES ET THEOLOGIQUES</strong></DT>
+ Quarterly ISSN: 0035-2209<br /><DD>LIBRAIRIE PHILOS, J VRIN, 6 PLACE SORBONNE, PARIS, FRANCE, 75005<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14865. REVUE DU NORD</strong></DT>
+ Quarterly ISSN: 0035-2624<br /><DD>UNIV CHARLES DE GAULLE -LILLE III, REVUE DU NORD PONT DE BOIS B P 149, VILLENEUVE DASCQ, FRANCE, 59653<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14866. REVUE FORESTIERE FRANCAISE-NANCY</strong></DT>
+ Bimonthly ISSN: 0035-2829<br /><DD>AGROPARISTECH-ENGREF, 14 RUE GIRARDET, CS 14216, NANCY CEDEX, FRANCE, F-54042<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14867. REVUE FRANCAISE D ALLERGOLOGIE</strong></DT>
+ Bimonthly ISSN: 1877-0320<br /><DD>ELSEVIER MASSON, VIA PALEOCAPA 7, MILANO, ITALY, 20121<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14868. REVUE FRANCAISE D ENTOMOLOGIE-NOUVELLE SERIE</strong></DT>
+ Quarterly ISSN: 0181-0863<br /><DD>ASSOC AMIS LABORATOIRE ENTOMOLOGIE MUSEUM-A A L E M, 45, RUE DE BUFFON, PARIS, FRANCE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14869. REVUE FRANCAISE D ETUDES AMERICAINES</strong></DT>
+ Quarterly ISSN: 0397-7870<br /><DD>ASSOC FRANCAISE ETUDES AMER, 8 RUE FEROU, PARIS, FRANCE, 75278<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14870. REVUE FRANCAISE DE LINGUISTIQUE APPLIQUEE</strong></DT>
+ Semiannual ISSN: 1386-1204<br /><DD>PUBLICATIONS LINGUISTIQUES, 15 RUE LAKANAL, PARIS, FRANCE, 75015<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14871. REVUE FRANCAISE DE SOCIOLOGIE</strong></DT>
+ Quarterly ISSN: 0035-2969<br /><DD>EDITIONS OPHRYS, BP 87, GAP CEDEX, FRANCE, 05003<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14872. REVUE FRANCAISE DES CICHLIDOPHILES</strong></DT>
+ Monthly ISSN: 0997-4806<br /><DD>ASSOC FRANCE CICHLID, C/O ROLAND STAUB, TRESORIER, 5 RUE CLEMENCEAU, HOENHEIM, FRANCE, 67800<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14873. REVUE HISTORIQUE</strong></DT>
+ Quarterly ISSN: 0035-3264<br /><DD>PRESSES UNIV FRANCE, 6 AVENUE REILLE, PARIS CEDEX 14, FRANCE, 75685<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14874. REVUE INTERNATIONALE DE PHILOSOPHIE</strong></DT>
+ Quarterly ISSN: 0048-8143<br /><DD>REVUE INT PHILOSOPHIE, UNIV LIBRE DE BRUXELLES, INST DE PHILOSOPHIE CP-188, AV. ROOSEVELT, 50, BRUSSELS, BELGIUM, B-1050<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14875. REVUE INTERNATIONALE DE PSYCHOLOGIE SOCIALE-INTERNATIONAL REVIEW OF SOCIALPSYCHOLOGY</strong></DT>
+ Quarterly ISSN: 0992-986X<br /><DD>PRESSES UNIV GRENOBLE, 1041 RUE DES RESIDENCES, GRENOBLE, FRANCE, 38040<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14876. REVUE INTERNATIONALE DES SERVICES DE SANTE DES FORCES ARMEES</strong></DT>
+ Quarterly ISSN: 0259-8582<br /><DD>REVUE INT SERVICES SANTE FORCES ARMEES, 13, RUE PORTEFOIN, PARIS, FRANCE, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14877. REVUE NEUROLOGIQUE</strong></DT>
+ Monthly ISSN: 0035-3787<br /><DD>MASSON EDITEUR, 21 STREET CAMILLE DESMOULINS, ISSY, MOULINEAUX CEDEX 9, FRANCE, 92789<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14878. REVUE PHILOSOPHIQUE DE LA FRANCE ET DE L ETRANGER</strong></DT>
+ Quarterly ISSN: 0035-3833<br /><DD>PRESSES UNIV FRANCE, 6 AVENUE REILLE, PARIS CEDEX 14, FRANCE, 75685<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14879. REVUE PHILOSOPHIQUE DE LOUVAIN</strong></DT>
+ Quarterly ISSN: 0035-3841<br /><DD>INST SUPERIEUR PHILOSOPHIE, COLLEGE THOMAS MORE (SH3), LOUVAIN LA NEUVE, BELGIUM, B-1348<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14880. REVUE ROMANE</strong></DT>
+ Semiannual ISSN: 0035-3906<br /><DD>JOHN BENJAMINS PUBLISHING COMPANY, PO BOX 36224, AMSTERDAM, NETHERLANDS, 1020 ME<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14881. REVUE ROUMAINE DE CHIMIE</strong></DT>
+ Monthly ISSN: 0035-3930<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14882. REVUE ROUMAINE DE GEOLOGIE GEOPHYSIQUE ET GEOGRAPHIE-GEOPHYSIQUE</strong></DT>
+ Annual ISSN: 1220-529X<br /><DD>RODIPET, CALEA 13 SEPTEMBRIE 13, P. O. BOX 5-42, BUCHAREST, ROMANIA, 50711<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14883. REVUE ROUMAINE DE LINGUISTIQUE-ROMANIAN REVIEW OF LINGUISTICS</strong></DT>
+ Quarterly ISSN: 0035-3957<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14884. REVUE ROUMAINE DE PHILOSOPHIE</strong></DT>
+ Semiannual ISSN: 1220-5400<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14885. REVUE ROUMAINE DES SCIENCES TECHNIQUES-SERIE ELECTROTECHNIQUE ET ENERGETIQUE</strong></DT>
+ Quarterly ISSN: 0035-4066<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14886. REVUE SCIENTIFIQUE DU BOURBONNAIS ET DU CENTRE DE LA FRANCE</strong></DT>
+ Annual ISSN: 0370-7164<br /><DD>SOCIETE SCIENTIFIQUE BOURBONNAIS  ETUDE  PROTECTION  NATURE, C/O M. AIMARD, 20, RUE DE LA REPUBLIQUE, AVERMES, FRANCE, 3000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14887. REVUE SCIENTIFIQUE ET TECHNIQUE-OFFICE INTERNATIONAL DES EPIZOOTIES</strong></DT>
+ Tri-annual ISSN: 0253-1933<br /><DD>OFFICE INT EPIZOOTIES, 12 RUE DE PRONY, PARIS, FRANCE, 75017<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14888. REVUE SUISSE DE ZOOLOGIE</strong></DT>
+ Quarterly ISSN: 0035-418X<br /><DD>MUSEUM HISTOIRE NATURELLE, CASE POSTALE 6434, ATTN:DENISE MAIER ADMN REV SUISSE DE ZOOLOGIE, GENEVA 6, SWITZERLAND, CH-L211<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14889. REVUE SUISSE DE ZOOLOGIE VOLUME HORS SERIE</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>MUSEUM HISTOIRE NATURELLE, CASE POSTALE 6434, ATTN:DENISE MAIER ADMN REV SUISSE DE ZOOLOGIE, GENEVA 6, SWITZERLAND, CH-L211<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14890. REVUE THEOLOGIQUE DE LOUVAIN</strong></DT>
+ Quarterly ISSN: 0080-2654<br /><DD>UNIV CATHOLIQUE LOUVAIN, COLLEGE ALBERT DESCAMPS GRAND-PLACE 45, LOUVAIN LA NEUVE, BELGIUM, B-1348<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14891. REVUE VALDOTAINE D HISTOIRE NATURELLE</strong></DT>
+ Annual ISSN: 1120-1371<br /><DD>SOC FLORE VALDOTAINE, VIA J-B DE TILLIER, 3, AOSTA, ITALY, I-11100<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14892. RHEEDEA</strong></DT>
+ Semiannual ISSN: 0971-2313<br /><DD>INDIAN ASSOC ANGIOSPERM TAXONOMY-IAAT, C/O A. K. PRADEEP, TREASURER, DEPARTMENT OF BOTANY, UNIVERSITY OF CALICUT,CALICUT UNIVERSITY P. O., CALICUT, INDIA, KERALA, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14893. RHEOLOGICA ACTA</strong></DT>
+ Bimonthly ISSN: 0035-4511<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14894. RHETORIC REVIEW</strong></DT>
+ Quarterly ISSN: 0735-0198<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14895. RHETORIC SOCIETY QUARTERLY</strong></DT>
+ Bimonthly ISSN: 0277-3945<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14896. RHETORICA-A JOURNAL OF THE HISTORY OF RHETORIC</strong></DT>
+ Quarterly ISSN: 0734-8584<br /><DD>UNIV CALIFORNIA PRESS, C/O JOURNALS & DIGITAL PUBLISHING DIVISION, 2000 CENTER ST, STE 303, BERKELEY, USA, CA, 94704-1223<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14897. RHEUMATIC DISEASE CLINICS OF NORTH AMERICA</strong></DT>
+ Quarterly ISSN: 0889-857X<br /><DD>W B SAUNDERS CO-ELSEVIER INC, 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, USA, PA, 19103-2899<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li>
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Reviews Reports And Meetings</a></li></ol>
+</li>
+<DT><strong>14898. RHEUMATOLOGY</strong></DT>
+ Monthly ISSN: 1462-0324<br /><DD>OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14899. RHEUMATOLOGY INTERNATIONAL</strong></DT>
+ Tri-annual ISSN: 0172-8172<br /><DD>SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, HEIDELBERG, GERMANY, D-69121<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14900. RHINOLOGY</strong></DT>
+ Quarterly ISSN: 0300-0729<br /><DD>INT RHINOLOGIC SOC, UNIV MEDICAL CENTER UTRECHT, RM G05 127, DEPT OTORHINOL, HEIDELBERGLAAN 100, UTRECHT, NETHERLANDS, 3584 CX<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14901. RHINOLOPHE</strong></DT>
+ Annual ISSN: 1011-8098<br /><DD>MUSEUM HISTOIRE NATURELLE, CASE POSTALE 6434, ATTN:DENISE MAIER ADMN REV SUISSE DE ZOOLOGIE, GENEVA 6, SWITZERLAND, CH-L211<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14902. RHODE ISLAND NATURALIST</strong></DT>
+ Semiannual ISSN: ****-****<br /><DD>RHODE ISLAND NATURAL HIST SURVEY, COASTAL INST KINGSTON, RM 101, PO BOX 1858, KINGSTON, USA, RI, 02881<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14903. RHODORA</strong></DT>
+ Quarterly ISSN: 0035-4902<br /><DD>NEW ENGLAND BOTANICAL CLUB INC, P.O. BOX 368, LAWRENCE, USA, KS, 66044<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14904. RHUMATOLOGIE</strong></DT>
+ Bimonthly ISSN: 0249-7581<br /><DD>MEDITIONS CARLINE, 1-3, RUE DU DEPART, PARIS, FRANCE<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14905. RIBARSTVO</strong></DT>
+ Quarterly ISSN: 1330-061X<br /><DD>HRVATSKO IHTIOLOSKO DRUSTVO, ROOSEVELTOV TRG 6, ZAGREB, CROATIA, 10 000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14906. RICE</strong></DT>
+ Quarterly ISSN: 1939-8425<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li></ol>
+</li>
+<DT><strong>14907. RICERCHE DI STORIA DELL ARTE</strong></DT>
+ Tri-annual ISSN: 0392-7202<br /><DD>NUOVA ITALIA SCIENTIFICA SPA, VIA SARDEGNA 50, ROME, ITALY, 00187<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14908. RIDE-THE JOURNAL OF APPLIED THEATRE AND PERFORMANCE</strong></DT>
+ Quarterly ISSN: 1356-9783<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14909. RIHA JOURNAL</strong></DT>
+ Irregular ISSN: 2190-3328<br /><DD>RIHA-INT ASSOC RESEARCH, INST HISTORY ART, C/O ZENTRALINSTITUT KUNSTGESCHICHTE, KATHARINA-VON-BORA-STRASSE 10, MUNCHEN, GERMANY, D-80333<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14910. RIISTA-JA KALATALOUS TUTKIMUKSIA JA SELVITYKSIA</strong></DT>
+ Irregular ISSN: 1799-4764<br /><DD>FINNISH GAME & FISHERIES RESEARCH INST-FGFRI, VIIKINKAARI 4, PO BOX 2, HELSINKI, FINLAND, FI-00791<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14911. RIJKSMUSEUM BULLETIN</strong></DT>
+ Quarterly ISSN: 1877-8127<br /><DD>RIJKSMUSEUM AMSTERDAM-RIJKSMUSEM PUBLICATIONS, PO BOX 74888, AMSTERDAM, NETHERLANDS, 1070 DN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14912. RILCE-REVISTA DE FILOLOGIA HISPANICA</strong></DT>
+ Semiannual ISSN: 0213-2370<br /><DD>SERVICIO PUBL UNIV NAVARRA, PIO XII, 53, PAMPLONA, SPAIN, NAVARRA, 31007<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14913. RINASCIMENTO</strong></DT>
+ Annual ISSN: 0080-3073<br /><DD>CASA EDITRICE LEO S OLSCHKI, CASELLA POSTALE 66 VIUZZO DEL POZZETTO, FLORENCE, ITALY, I-50126<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14914. RING</strong></DT>
+ Semiannual ISSN: 0035-5429<br /><DD>THE RING (INTERNATIONAL ORNITHOLOGICAL JOURNAL), C/O EDITOR, PRZEBENDOWO, CHOCZEWO, POLAND, 84-210<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14915. RINGING & MIGRATION</strong></DT>
+ Tri-annual ISSN: 0307-8698<br /><DD>BRITISH TRUST ORNITHOLOGY, NUNNERY, NUNNERY PLACE, THETFORD NORFOLK, ENGLAND, IP24 2PU<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14916. RINKELBOLLEN</strong></DT>
+ Tri-annual ISSN: 1383-925X<br /><DD>NATUURVERENIGING TERSCHELLING, WEST-TERSCHELLING, TERSCHELLING SEERIJP, NETHERLANDS, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14917. RISHIRI STUDIES</strong></DT>
+ Annual ISSN: 0919-9160<br /><DD>RISHIRI TOWN MUSEUM, SENHOSHI, HOKKAIDO, JAPAN, 097-0311<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14918. RISK ANALYSIS</strong></DT>
+ Monthly ISSN: 0272-4332<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14919. RISK MANAGEMENT-AN INTERNATIONAL JOURNAL</strong></DT>
+ Quarterly ISSN: 1460-3799<br /><DD>PALGRAVE MACMILLAN LTD, BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE, ENGLAND, HANTS, RG21 6XS<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14920. RIVER RESEARCH AND APPLICATIONS</strong></DT>
+ Monthly ISSN: 1535-1459<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14921. RIVER SYSTEMS</strong></DT>
+ Irregular ISSN: 1868-5749<br /><DD>E SCHWEIZERBARTSCHE VERLAGSBUCHHANDLUNG, NAEGELE U OBERMILLER, SCIENCE PUBLISHERS, JOHANNESSTRASSE 3A, STUTTGART, GERMANY, D 70176<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14922. RIVIERA SCIENTIFIQUE</strong></DT>
+ Annual ISSN: 0395-0395<br /><DD>ASSOC NATURAL NICE ALPES MARITIMES, C/O MUSEUM D'HISTOIRE NATURELLE, 60 BIS. BD RISSO, NICE, FRANCE, F-06300<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14923. RIVISTA DEL MUSEO CIVICO DI SCIENZE NATURALI ENRICO CAFFI</strong></DT>
+ Irregular ISSN: 0393-8700<br /><DD>MUSEO CIVICO SCIENZE NATURALI E CAFFI, PIAZZA CITTADELLA 10, BERGAMO, ITALY, I-24129<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14924. RIVISTA DEL NUOVO CIMENTO</strong></DT>
+ Monthly ISSN: 0393-697X<br /><DD>SOC ITALIANA FISICA, VIA SARAGOZZA, 12, BOLOGNA, ITALY, I-40123<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14925. RIVISTA DI ESTETICA</strong></DT>
+ Tri-annual ISSN: 0035-6212<br /><DD>ROSENBERG & SELLIER, VIA ANDREA DORIA 14, TURIN, ITALY, 10123<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14926. RIVISTA DI FILOLOGIA E DI ISTRUZIONE CLASSICA</strong></DT>
+ Semiannual ISSN: 0035-6220<br /><DD>LOESCHER EDITORE, VIA VITTORIO AMEDEO II, 18, TORINO, ITALY, 10121<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14927. RIVISTA DI FILOSOFIA NEO-SCOLASTICA</strong></DT>
+ Quarterly ISSN: 0035-6247<br /><DD>VITA PENSIERO, PUBBLICAZIONI DELL UNIV CATTOLICA DEL SACRO CUORE, LARGO A GEMELLI 1, MILAN, ITALY, 20123<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14928. RIVISTA DI IDROBIOLOGIA</strong></DT>
+ Quarterly ISSN: 0048-8399<br /><DD>UNIV DEGLI STUDI PERUGIA, IST IDROBIOLOGIA PESCICOLTURA, VIA ELCE DI SOTTO, PERUGIA, ITALY, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14929. RIVISTA DI LETTERATURE MODERNE E COMPARATE</strong></DT>
+ Quarterly ISSN: 0391-2108<br /><DD>PACINI EDITORE, VIA DELLA GHERARDESCA-ZONA INDUSTRIALE OSPEDALETTO, PISA, ITALY, 56121<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14930. RIVISTA DI PARASSITOLOGIA</strong></DT>
+ Tri-annual ISSN: 0035-6387<br /><DD>IST PARASSITOLOGIA, UNIV MESSINA, VIA CESARE BATTISTI, 48, MESSINA, ITALY, 98168<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14931. RIVISTA DI PSICHIATRIA</strong></DT>
+ Bimonthly ISSN: 0035-6484<br /><DD>PENSIERO SCIENTIFICO EDITOR, VIA BRADANO 3/C, ROME, ITALY, 00199<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14932. RIVISTA DI PSICOANALISI</strong></DT>
+ Quarterly ISSN: 0035-6492<br /><DD>EDIZIONI BORLA SRL, VIA DELLE FORNACI 50, ROME, ITALY, 00165<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14933. RIVISTA DI SCIENZA DELL ALIMENTAZIONE</strong></DT>
+ Quarterly ISSN: 1128-7969<br /><DD>SOC EDITRICE ALIMENTI ALIMENTAZIONE NUTRIZONEVIA, VIA TIBERIO IMPERATORE 65, ROME, ITALY, 00145<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14934. RIVISTA DI STORIA DELLA FILOSOFIA</strong></DT>
+ Quarterly ISSN: 0393-2516<br /><DD>FRANCO ANGELI, VIALE MONZA 106, MILAN, ITALY, 20127<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14935. RIVISTA DI STORIA E LETTERATURA RELIGIOSA</strong></DT>
+ Tri-annual ISSN: 0035-6573<br /><DD>CASA EDITRICE LEO S OLSCHKI, CASELLA POSTALE 66 VIUZZO DEL POZZETTO, FLORENCE, ITALY, I-50126<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14936. RIVISTA ITALIANA DELLE SOSTANZE GRASSE</strong></DT>
+ Quarterly ISSN: 0035-6808<br /><DD>SERVIZI EDITORIALI ASSOC SRL, VIA ADAMO DEL PERO, 6, COMO, ITALY, 22100<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Agriculture, Biology &amp; Environmental Sciences</a></li></ol>
+</li>
+<DT><strong>14937. RIVISTA ITALIANA DI MUSICOLOGIA</strong></DT>
+ Semiannual ISSN: 0035-6867<br /><DD>CASA EDITRICE LEO S OLSCHKI, CASELLA POSTALE 66 VIUZZO DEL POZZETTO, FLORENCE, ITALY, I-50126<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14938. RIVISTA ITALIANA DI ORNITOLOGIA</strong></DT>
+ Semiannual ISSN: 0035-6875<br /><DD>SOC ITALIANA SCIENZE NATURALI, MUSEO CIVICO STORIA NATURALE, CORSO VENEZIA 55, MILAN, ITALY, I-20121<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14939. RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA</strong></DT>
+ Tri-annual ISSN: 0035-6883<br /><DD>UNIV STUDI MILANO, C/O RIVISTA ITALIANA PALEONTOLOGIA STRATIGRAFIA, VIA MANGIAGALLI, 34, MILANO, ITALY, 20133<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14940. RIVISTA PIEMONTESE DI STORIA NATURALE</strong></DT>
+ Annual ISSN: 1121-1423<br /><DD>ASSOC NATURAL PIEMONTESE, MUSEO CIVICO DI STORIA NATURALE, PARCO 'CASCINA VIGNA', VIA S. FRANCESCO DI SALES 188, CARMAGNOLA, ITALY, I-10022<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14941. RIVISTA STORICA DELL ANTICHITA</strong></DT>
+ Annual ISSN: 0300-340X<br /><DD>PATRON EDITORE S R L, VIA BADINI 12, QUARTO INFERIORE, BOLOGNA, ITALY, 00000<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14942. RIVISTA STORICA ITALIANA</strong></DT>
+ Tri-annual ISSN: 0035-7073<br /><DD>EDIZIONI SCIENTIFICHE ITALIANE, VIA CHIATAMONE 7, NAPLES, ITALY, 80121<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14943. RLA-REVISTA DE LINGUISTICA TEORICA Y APLICADA</strong></DT>
+ Semiannual ISSN: 0718-4883<br /><DD>UNIV CONCEPCION, FAC HUMANIDADES ARTE, CASILLA 160-C, CORREO 3, CONCEPCION, CHILE, 00000<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14944. RLC-REVUE DE LITTERATURE COMPAREE</strong></DT>
+ Quarterly ISSN: 0035-1466<br /><DD>DIDIER-ERUDITION, 6 RUE DE LA SORBONNE, PARIS, FRANCE, 75005<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14945. RN MAGAZINE</strong></DT>
+ Monthly ISSN: 0033-7021<br /><DD>MEDICAL ECONOMICS, FIVE PARAGON DRIVE, MONTVALE, USA, NJ, 07645-1742</li>
+<DT><strong>14946. RNA BIOLOGY</strong></DT>
+ Quarterly ISSN: 1547-6286<br /><DD>LANDES BIOSCIENCE, 1806 RIO GRANDE ST, AUSTIN, USA, TX, 78702<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14947. RNA-A PUBLICATION OF THE RNA SOCIETY</strong></DT>
+ Monthly ISSN: 1355-8382<br /><DD>COLD SPRING HARBOR LAB PRESS, PUBLICATIONS DEPT, 1 BUNGTOWN RD, COLD SPRING HARBOR, USA, NY, 11724<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Life Sciences</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14948. ROAD & TRANSPORT RESEARCH</strong></DT>
+ Quarterly ISSN: 1037-5783<br /><DD>ARRB GROUP LTD, 500 BURWOOD HIGHWAY, VERMOUTH SOUTH, AUSTRALIA, VIC 3133<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14949. ROAD MATERIALS AND PAVEMENT DESIGN</strong></DT>
+ Quarterly ISSN: 1468-0629<br /><DD>TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14950. ROBOTICA</strong></DT>
+ Bimonthly ISSN: 0263-5747<br /><DD>CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14951. ROBOTICS AND AUTONOMOUS SYSTEMS</strong></DT>
+ Monthly ISSN: 0921-8890<br /><DD>ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14952. ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING</strong></DT>
+ Bimonthly ISSN: 0736-5845<br /><DD>PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND, OX5 1GB<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14953. ROCK ART RESEARCH</strong></DT>
+ Semiannual ISSN: 0813-0426<br /><DD>ARCHAEOLOGICAL PUBL, PO BOX 216, CAULFIELD SOUTH, AUSTRALIA, VIC 3162<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14954. ROCK MECHANICS AND ROCK ENGINEERING</strong></DT>
+ Bimonthly ISSN: 0723-2632<br /><DD>SPRINGER WIEN, SACHSENPLATZ 4-6, PO BOX 89, WIEN, AUSTRIA, A-1201<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14955. ROCKY MOUNTAIN BIRD OBSERVATORY ORNITHOLOGICAL MONOGRAPH</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>ROCKY MOUNTAIN BIRD OBSERVATORY, 14500 LARK BUNTING LANE, BRIGHTON, USA, CO, 80603-8311<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14956. ROCKY MOUNTAIN GEOLOGY</strong></DT>
+ Semiannual ISSN: 1555-7332<br /><DD>UNIV WYOMING, BOX 3354 UNIV STATION, LARAMIE, USA, WY, 82071<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14957. ROCKY MOUNTAIN JOURNAL OF MATHEMATICS</strong></DT>
+ Bimonthly ISSN: 0035-7596<br /><DD>ROCKY MT MATH CONSORTIUM, ARIZ STATE UNIV, DEPT MATH, TEMPE, USA, AZ, 85287-1904<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14958. ROCZNIK HELSKI</strong></DT>
+ Annual ISSN: 1641-9189<br /><DD>STOWARZYSZENIE PRZYJACIELE HELU, UL BULWAR NADMORSKI 2, HELU, POLAND, 84-150<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14959. ROCZNIK OCHRONA SRODOWISKA</strong></DT>
+ Annual ISSN: 1506-218X<br /><DD>MIDDLE POMERANIAN SCI SOC ENV PROT, POLITECHNIKA KOSZALINSKA, SNIADEKICH 2, KOSZALIN, POLAND, 75-453<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14960. ROCZNIKI AKADEMII ROLNICZEJ W POZNANIU</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>WYDAWNICTWO AKAD ROLNICZEJ W POZNANIU, UL. WITOSA 45, POZNAN, POLAND, 60-667<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14961. ROCZNIKI POMORSKIEJ AKADEMII MEDYCZNEJ W SZCZECINIE</strong></DT>
+ Annual ISSN: 1427-440X<br /><DD>POMORSKA AKAD MEDYCZNA, UL. RYBACKA 1, SZCZECIN, POLAND, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14962. RODENTIA</strong></DT>
+ Bimonthly ISSN: 1617-6170<br /><DD>NATUR TIER - VERLAG, AN DER KLEIMANNBRUECKE 39, MUENSTER, GERMANY, 48157<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14963. ROFO-FORTSCHRITTE AUF DEM GEBIET DER RONTGENSTRAHLEN UND DER BILDGEBENDEN VERFAHREN</strong></DT>
+ Monthly ISSN: 1438-9029<br /><DD>GEORG THIEME VERLAG KG, RUDIGERSTR 14, STUTTGART, GERMANY, D-70469<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14964. ROHANA RESEARCH JOURNAL</strong></DT>
+ Semiannual ISSN: 1391-0701<br /><DD>UNIV RUHUNA, MAIN LIB, MATARA, SRI LANKA, 00000<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14965. ROMANCE NOTES</strong></DT>
+ Tri-annual ISSN: 0035-7995<br /><DD>UNIV NORTH CAROLINA, DEPT OF ROMANCE LANGUAGES, CHAPEL HILL, USA, NC, 27514<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14966. ROMANCE PHILOLOGY</strong></DT>
+ Semiannual ISSN: 0035-8002<br /><DD>BREPOLS PUBLISHERS, BEGIJNHOF 67, TURNHOUT, BELGIUM, B-2300<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14967. ROMANCE QUARTERLY</strong></DT>
+ Quarterly ISSN: 0883-1157<br /><DD>ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD, 4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXFORDSHIRE, OX14 4RN<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14968. ROMANCE STUDIES</strong></DT>
+ Quarterly ISSN: 0263-9904<br /><DD>MANEY PUBLISHING, STE 1C, JOSEPHS WELL, HANOVER WALK, LEEDS, ENGLAND, W YORKS, LS3 1AB<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14969. ROMANI STUDIES</strong></DT>
+ Semiannual ISSN: 1528-0748<br /><DD>LIVERPOOL UNIV PRESS, 4 CAMBRIDGE ST, LIVERPOOL, ENGLAND, L69 7ZU<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14970. ROMANIAN AGRICULTURAL RESEARCH</strong></DT>
+ Annual ISSN: 1222-4227<br /><DD>NATL AGRICULTURAL RESEARCH & DEVELOPMENT INST, CALARASI COUNTY, FUNDULEA, ROMANIA, 915200<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14971. ROMANIAN BIOTECHNOLOGICAL LETTERS</strong></DT>
+ Bimonthly ISSN: 1224-5984<br /><DD>ARS DOCENDI, SOS PANDURI 90, SECT 5, BUCHAREST, ROMANIA, RO-050663<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14972. ROMANIAN JOURNAL OF BIOCHEMISTRY</strong></DT>
+ Semiannual ISSN: 1582-3318<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14973. ROMANIAN JOURNAL OF BIOLOGY-ZOOLOGY</strong></DT>
+ Semiannual ISSN: 1843-7761<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14974. ROMANIAN JOURNAL OF ECONOMIC FORECASTING</strong></DT>
+ Quarterly ISSN: 1582-6163<br /><DD>INST ECONOMIC FORECASTING, CASA ACADEMIEI, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCHAREST, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14975. ROMANIAN JOURNAL OF INFORMATION SCIENCE AND TECHNOLOGY</strong></DT>
+ Quarterly ISSN: 1453-8245<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14976. ROMANIAN JOURNAL OF LEGAL MEDICINE</strong></DT>
+ Quarterly ISSN: 1221-8618<br /><DD>ROMANIAN LEGAL MED SOC, SOS VITAN-BIRZESTI 9, BUCHAREST, ROMANIA, 75669<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14977. ROMANIAN JOURNAL OF MORPHOLOGY AND EMBRYOLOGY</strong></DT>
+ Quarterly ISSN: 1220-0522<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14978. ROMANIAN JOURNAL OF PHYSICS</strong></DT>
+ Monthly ISSN: 1221-146X<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14979. ROMANIAN JOURNAL OF POLITICAL SCIENCE</strong></DT>
+ Semiannual ISSN: 1582-456X<br /><DD>ROMANIAN ACAD SOC, MIHAI EMINESCU ST 61, BUCHAREST, ROMANIA, 2<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li></ol>
+</li>
+<DT><strong>14980. ROMANIAN REPORTS IN PHYSICS</strong></DT>
+ Quarterly ISSN: 1221-1451<br /><DD>EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li></ol>
+</li>
+<DT><strong>14981. ROMANISCHE FORSCHUNGEN</strong></DT>
+ Quarterly ISSN: 0035-8126<br /><DD>VITTORIO KLOSTERMANN GMBH, POSTFACH 90 06 01, FRANKFURT-AM-MAIN, GERMANY, D-60446<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14982. ROMANISTISCHE ZEITSCHRIFT FUR LITERATURGESCHICHTE-CAHIERS D HISTOIRE DES LITTERATURES ROMANES</strong></DT>
+ Semiannual ISSN: 0343-379X<br /><DD>UNIVERSITATSVERLAG C WINTER HEIDELBERG GMBH, POSTFACH 10 61 40, HEIDELBERG, GERMANY, D-69051<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14983. ROMANTICISM</strong></DT>
+ Tri-annual ISSN: 1354-991X<br /><DD>EDINBURGH UNIV PRESS, 22 GEORGE SQUARE, EDINBURGH, SCOTLAND, MIDLOTHIAN, EH8 9LF<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li></ol>
+</li>
+<DT><strong>14984. ROMANTISME</strong></DT>
+ Quarterly ISSN: 0048-8593<br /><DD>EDITIONS SEDES, 11, RUE SOUFFLOT, PARIS, FRANCE, F-75005<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14985. ROSALIA</strong></DT>
+ Irregular ISSN: 1787-825X<br /><DD>SPRAVA CHKO PONITRIE, SAMOVA 3, NITRA, SLOVAKIA, 949 01<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14986. ROSSIISKII VESTNIK PERINATOLOGII I PEDIATRII</strong></DT>
+ Bimonthly ISSN: 1027-4065<br /><DD>IZDATELSTVO MEDIA SFERA, DMITROVSKOE SH, 46, KORP 2, ETAZH 4, MOSCOW, RUSSIA, 127238<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14987. ROSSIISKII ZHURNAL BIOLOGICHESKIKH INVASII</strong></DT>
+ Semiannual ISSN: ****-****<br /><DD>A N SEVERSTOV INST ECOL EVOL, RUSSIAN ACAD SCI, LENINSKY PROSPEKT 33, MOSCOW, RUSSIA, RU-119071<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14988. ROSTANIHA</strong></DT>
+ Semiannual ISSN: 1608-4306<br /><DD>PLANT PESTS & DISEASES RESEARCH INST, CHAMRAN PARK WAY, TABNAK AVE. NO: 1-2, P. O. BOX 1454, TEHRAN, IRAN, 00000<ol> 
+
+
+
+
+<li><a href="http://thomsonreuters.com/biosis-previews">BIOSIS Previews</a></li></ol>
+</li>
+<DT><strong>14989. RSC ADVANCES</strong></DT>
+ Weekly ISSN: 2046-2069<br /><DD>ROYAL SOC CHEMISTRY, THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE, ENGLAND, CAMBS, CB4 0WF<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14990. RSPB RESEARCH REPORT</strong></DT>
+ Irregular ISSN: ****-****<br /><DD>ROYAL SOC PROTECTION BIRDS-RSPB, THE LODGE, SANDY, ENGLAND, BEDS, SG19 2DL<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14991. RUBBER CHEMISTRY AND TECHNOLOGY</strong></DT>
+ Bimonthly ISSN: 0035-9475<br /><DD>AMER CHEMICAL SOC INC, RUBBER DIV UNIV AKRON PO BOX 499, AKRON, USA, OH, 44309-0499<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Engineering, Computing &amp; Technology</a></li></ol>
+</li>
+<DT><strong>14992. RUDOLSTAEDTER NATURHISTORISCHE SCHRIFTEN</strong></DT>
+ Annual ISSN: 0863-0844<br /><DD>THUERINGER LANDESMUSEUM HEIDECKSBURG  RUDOLSTADT, SCHLOSSBEZIRK 1, RUDOLSTADT, GERMANY, D-07407<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14993. RUNDSCHREIBEN DES VEREINS SAECHSISCHER ORNITHOLOGEN</strong></DT>
+ Irregular ISSN: 1618-5897<br /><DD>VEREIN SAECHSISCHER ORNITHOLOGEN E V, POSTFACH 11 29, HOHENSTEIN-ERNSTTHAL, GERMANY, D-09331<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+<DT><strong>14994. RURAL AND REMOTE HEALTH</strong></DT>
+ Irregular ISSN: 1445-6354<br /><DD>AUSTRALIAN RURAL HEALTH EDUC NETWORK, PO BOX 242, DEAKIN WEST, AUSTRALIA, ACT 2600<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Clinical Medicine</a></li></ol>
+</li>
+<DT><strong>14995. RURAL HISTORY-ECONOMY SOCIETY CULTURE</strong></DT>
+ Semiannual ISSN: 0956-7933<br /><DD>CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473<ol> 
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li>
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14996. RURAL SOCIOLOGY</strong></DT>
+ Quarterly ISSN: 0036-0112<br /><DD>WILEY-BLACKWELL, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774<ol> 
+
+
+<li><a href="http://thomsonreuters.com/social-sciences-citation-index">Social Sciences Citation Index</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect/">Current Contents - Social &amp; Behavioral Sciences</a></li></ol>
+</li>
+<DT><strong>14997. RUSSELL-THE JOURNAL OF THE BERTRAND RUSSELL STUDIES</strong></DT>
+ Semiannual ISSN: 0036-0163<br /><DD>BETRAND RUSSELL RESEARCH CENTRE, MCMASTER UNIVERSITY, HAMILTON, CANADA, ONTARIO, L8S 4M2<ol> 
+<li><a href="http://thomsonreuters.com/arts-humanities-citation-index">Arts &amp; Humanities Citation Index</a></li>
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Arts & Humanities</a></li></ol>
+</li>
+<DT><strong>14998. RUSSIAN CHEMICAL BULLETIN</strong></DT>
+ Monthly ISSN: 1066-5285<br /><DD>SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>14999. RUSSIAN CHEMICAL REVIEWS</strong></DT>
+ Monthly ISSN: 0036-021X<br /><DD>TURPION LTD, C/O TURPION LTD, IOP PUBLISHING, DIRAC HOUSE, TEMPLE BACK, BRISTOL, ENGLAND, BS1 6BE<ol> 
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index</a></li>
+
+<li><a href="http://thomsonreuters.com/science-citation-index-expanded">Science Citation Index Expanded</a></li>
+
+
+
+
+
+<li><a href="http://thomsonreuters.com/current-contents-connect">Current Contents - Physical, Chemical &amp; Earth Sciences</a></li></ol>
+</li>
+<DT><strong>15000. RUSSIAN CONSERVATION NEWS</strong></DT>
+ Quarterly ISSN: 1026-6380<br /><DD>POCONO ENVIRONMENTAL EDUCATION CENTER-RCN, P O BOX 57277, WASHINGTON, USA, DC, 20037-7277<ol> 
+<li><a href="http://thomsonreuters.com/zoological-record">Zoological Record</a></li></ol>
+</li>
+
+</dl>
+</form>
+
+</body>
+</html>
