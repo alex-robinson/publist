@@ -32,5 +32,5 @@ def is_ISI(titles,name):
     check = name.strip().upper() in titles
     return(check)
 
-
+# Load the ISI titles into a list
 ISI = extract_titles("ThomsonReutersMasterList/ISImaster_2013-06-24.txt")

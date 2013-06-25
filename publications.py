@@ -11,15 +11,17 @@ from pybtex.database import Person
 import argparse
 import time 
 
+from numpy import *
+
 # Load additional functions
 execfile("lastfirst.py")
 execfile("unicode_to_latex.py")
+execfile("ISIjournals.py")
 
 # Define aliases
-parser = bibtex.Parser()
+parser    = bibtex.Parser()
 lastfirst = NameStyle().format
-
-thisyear = time.localtime().tm_year
+thisyear  = time.localtime().tm_year
 
 script_description = '''
 This script will generate a list of publications 
@@ -31,31 +33,46 @@ def main():
 
     ## Define command line options/arguments
     argparser = argparse.ArgumentParser(description=script_description)
-    argparser.add_argument('-s','--style',nargs=1,default='copernicus',help="Specify the citation style to be used. Currently only 'copernicus' is available.")
-    argparser.add_argument('--output',nargs=1,default=None,help="Specify the output filename. If not specified, output will be printed to screen.")
-    argparser.add_argument('bibtex_file', nargs='+', help='Bibtex files that will be used to generate publication list.')
+    argparser.add_argument('-s','--style',nargs=1,default=["copernicus"],choices=["copernicus"],help="Specify the citation style to be used. Currently only 'copernicus' is available.")
+    argparser.add_argument('-n','--nyears',nargs=1,default=[100],type=int,help="Number of years to list.")
+    argparser.add_argument('-o','--output',nargs=1,default=None,help="Desired output filename. If not specified, output will be printed to screen.")
+    argparser.add_argument('bibtex_file', nargs='+',help='Bibtex files that will be used to generate publication list.')
     argparser.add_argument('--version', action='version', version='%(prog)s 0.1')
     
-
     # Test args
-    args = argparser.parse_args(["-s copernicus","mypublications.bib"])
-    #args = argparser.parse_args()
+    #args = argparser.parse_args(["-s","copernicus","exportlist4bibtex_wkeys.bib"])
+    #args = argparser.parse_args("-o test.txt -n 5 mypublications.bib".split())
+    args = argparser.parse_args()
 
+    # Remove lists from args
+    if type(args.style)==list:  args.style  = args.style[0]
+    if type(args.nyears)==list: args.nyears = args.nyears[0]
+    if type(args.output)==list: args.output = args.output[0]
+    
     # Load bibliography data from all files
     for filename in args.bibtex_file: bib_data = parser.parse_file(filename)
 
-    # Extract entry list from bibliography data
-    all_entries = bib_data.entries.items()
+    # Extract entry list from bibliography data, deleting apparent duplicates
+    all_entries = deleteDuplicates( bib_data.entries.items() )
 
-    # Isolate different entry types 
-    bib_articles = bibSubset(all_entries,bibtype="article")
+    # Get the publication list
+    publist = get_historial(all_entries,nyears=args.nyears,printStats=True,confTypes=False)
 
-    for key, value in bib_articles:
+    # Highlight author(s)
+    # publist = highlight(publist,author="Robinson, A.")
 
-        print "\n" + key 
-        print copernicus(value)
+    if not args.output is None:
+        ## Write to file
+        with open(args.output, "w") as text_file:
+            text_file.write(publist)
+    else:
+        print publist
 
-        if key == "Alvarez-Solas2012": cit = value 
+
+    # for key, value in bib_articles:
+    #     print "\n" + key 
+    #     print copernicus(value)
+    #     if key == "Alvarez-Solas2012": cit = value 
         
     return
 
@@ -66,30 +83,156 @@ def main():
 ##
 ############################################
 
-def get_historial(entries,types=None,years=5):
+def get_historial(entries,nyears=5,printStats=True,confTypes=True):
     '''Make a nice historial list for web or word file for the last N years.'''
-    
+
     # Get a list of years to output
-    allyears = arange(thisyear-years-1,thisyear)
+    allyears = [thisyear]
+    k = 0
+    while k < nyears: 
+        k = k+1
+        allyears.append(thisyear-k)
 
-    # Get a list of bibtypes to loop over
-    if types is None:
-        types = ["article","book"]
-    text = "" 
-    for year in allyears:
-        text = text + "\n{0}".format(year)
+    # Limit entries to years of interest and sort
+    #entries = bibSubset(entries,year=[str(y) for y in allyears])
+    entries = bibSubset(entries,year=allyears)
+
+    # Make empty lists of all publication types
+    articles_submitted  = []
+    articles_discussion = []
+    articles_inpress    = []
+    articles_isi        = []
+    pubs_reviewed       = []
+    pubs_extra          = []
+    conf_all            = []
+    conf_oral           = []
+    conf_poster         = []
+
+    # Loop over all entries and store them
+    for entry in entries:
+        if entry[1].type == "article":
+            if entry[1].fields['year'] == "submitted":
+                articles_submitted.append( entry )
+            elif entry[1].fields['year'] == "in press":
+                articles_inpress.append( entry )
+            elif entry[1].fields['journal'].lower().find("discussions")>0:
+                articles_discussion.append( entry )
+            elif ('type' in entry[1].fields.keys() and entry[1].fields['type'] == "ISI") or\
+                  is_ISI(ISI,entry[1].fields['journal']):
+                articles_isi.append( entry )
+            elif 'type' in entry[1].fields.keys() and entry[1].fields['type'] == "Peer-reviewed":
+                pubs_reviewed.append( entry ) 
+            else:
+                pubs_extra.append( entry )
+
+        elif entry[1].type == "inproceedings":
+            conf_all.append( entry ) 
+
+            if 'type' in entry[1].fields.keys():
+                if entry[1].fields['type'] == "Poster":
+                    conf_poster.append( entry )
+                elif entry[1].fields['type'].lower().find("oral") >= 0:
+                    conf_oral.append( entry )
+
+        elif 'type' in entry[1].fields.keys() and entry[1].fields['type'] == "Peer-reviewed":
+            pubs_reviewed.append( entry )
+
+        else:
+            pubs_extra.append( entry ) 
+
+    text = ""
+
+    if printStats:
+        #stats = list_stats()
+        if len(articles_submitted) > 0: text = text + "\n{0} articles in review/submitted".format(len(articles_submitted))
+        if len(articles_inpress) > 0:   text = text + "\n{0} articles in press".format(len(articles_inpress))
+        if len(articles_isi) > 0:       text = text + "\n{0} ISI articles".format(len(articles_isi))
+        if len(pubs_reviewed) > 0:      text = text + "\n{0} other peer-reviewed publications".format(len(pubs_reviewed))
+        if len(pubs_extra) > 0:         text = text + "\n{0} other publications".format(len(pubs_extra))
+        if confTypes:
+            if len(conf_oral) > 0:      text = text + "\n{0} oral presentations".format(len(conf_oral))
+            if len(conf_poster) > 0:    text = text + "\n{0} poster presentations".format(len(conf_poster))
+        else:
+            if len(conf_all) > 0: text = text + "\n{0} conference presentations".format(len(conf_all))
+
+    text = text + print_subset(articles_submitted,heading="Articles in review/submitted")
+    text = text + print_subset(articles_discussion,heading="Articles in discussion")
+    text = text + print_subset(articles_inpress,heading="Articles in press")
+    text = text + print_subset(articles_isi,heading="ISI articles")
+    text = text + print_subset(pubs_reviewed,heading="Other peer-reviewed publications")
+    text = text + print_subset(pubs_extra,heading="Other publications")
+
+    if confTypes:
+        text = text + print_subset(conf_oral,heading="Oral presentations")
+        text = text + print_subset(conf_poster,heading="Poster presentations")
+    else:
+        text = text + print_subset(conf_all,heading="Conference presentations")
+    
+    return text 
+
+def get_subset(entries,heading):
+    '''Produce a formatted subset, including optional heading and stats info.'''
 
 
+    return(subset)
+
+def print_subset(entries,heading):
+    lines = []
+    n = len(entries)
+    if n > 0:
+        k = 0
+        lines.append("\n\n"+heading)
+        for key, value in entries:
+            lines.append( "\n\n {0}. [{1}] {2}".format(n-k,value.fields['year'],
+                                                     copernicus(value).text() ) )
+            k = k+1
+
+    text = "".join(lines)
     return(text)
 
-def bibSubset(entries,bibtype=None,year=None,isi=True):
+def calc_stats(entries):
+    '''Calculate some statistics about the given list.'''
+
+
+    return(stats)
+
+def deleteDuplicates(entries):
+    '''Remove duplicate entries from list.'''
+
+    subset = []
+
+    for entry in entries:
+
+        this = {"bibtype":entry[1].type, "title":"","journal":""}
+        if 'title' in entry[1].fields.keys():   this['title']   = entry[1].fields['title']
+        if 'journal' in entry[1].fields.keys(): this['journal'] = entry[1].fields['journal']
+
+        add = True 
+        for entry2 in subset:
+            that = {"bibtype":entry2[1].type, "title":"","journal":""}
+            if 'title' in entry2[1].fields.keys():   that['title']   = entry2[1].fields['title']
+            if 'journal' in entry2[1].fields.keys(): that['journal'] = entry2[1].fields['journal']
+
+            if this == that: add = False
+
+        if add: subset.append(entry)
+
+    return subset
+
+def bibSubset(entries,bibtype=None,year=None,isi=False,peerreview=False,discussion=False):
     '''Extract only specific bib entry types from a set of bibtex entries.'''
 
-    # Make sure desired years come in list and string format
     if not year is None:
-        if type(year) == "int": year = [year]
+        if type(year) in [int,str]: year = [year]
         year = [str(y) for y in year]
 
+    # Make sure arguments are self-consistent
+    if discussion and isi:
+        print "Note: writing only discussion publications."
+        isi = False
+        peerreview = False 
+
+    # Loop over all entries and collect subset that matches all criteria
     subset = []
     for entry in entries:
         
@@ -104,11 +247,23 @@ def bibSubset(entries,bibtype=None,year=None,isi=True):
         if add and not year is None:
             if not str(entry[1].fields['year']) in year: add = False 
 
-        # Check if article is ISI, if desired
-        if add and bibtype == "article" and isi:
-                if entry[1].fields['journal'].lower().find("discussions") > 0: add = False
 
-                # Other ISI tests...
+        # Check if article is ISI, if desired
+        if add and entry[1].type=="article" and isi:
+            # ISI tests...
+            # (eg compare article name/abbr with list from isi database)
+            if 'type' in entry[1].fields.keys():
+                if not entry[1].fields['type'] == "ISI": add = False 
+
+        # Check if article is discussion, if desired
+        if add and entry[1].type=="article" and discussion:
+            if 'journal' in entry[1].fields.keys():
+                if entry[1].fields['journal'].lower().find("discussions") == -1: add = False
+
+        # Otherwise remove discussion articles from list 
+        else:
+            if 'journal' in entry[1].fields.keys():
+                if entry[1].fields['journal'].lower().find("discussions") > 0: add = False
 
         # If entry passed all filtering tests, add the entry to the list
         if add: subset.append(entry)
@@ -120,14 +275,14 @@ def bibSubset(entries,bibtype=None,year=None,isi=True):
 
 # Convert year strings to values
 def convert_to_year(x):
-    if type(x) == "str":
-        x = x.lower()
-        if x == "submitted": 
-            year = "3000"
-        elif x in ["in press","press","online","advanced online publication"]:
-            year = "2999"
+
+    x = str(x).lower()
+    if x == "submitted": 
+        year = "3000"
+    elif x in ["in press","press"]:
+        year = "2999"
     else:
-        year = str(x)
+        year = x 
 
     return(year)
 
@@ -229,7 +384,7 @@ class copernicus:
                           'chapter':"",'doi':"",'edition':"",'editor':"",
                           'institution':"",'journal':"",'location':"",'month':"",
                           'number':"",'pages':"",'publisher':"",'school':"",
-                          'title':"",'volume':"",'year':"" }
+                          'title':"",'type':"",'volume':"",'year':"" }
 
     def __repr__(self):
         
@@ -289,6 +444,9 @@ class copernicus:
             all['title'] = clean(fields['title'])
             all['title'] = " {0},".format(all['title'])
 
+        if 'type' in fields.keys(): 
+            all['type'] = clean(" {0},".format(fields['type']))
+        
         if 'volume' in fields.keys(): 
             all['volume'] = clean(" {0},".format(fields['volume']))
         
@@ -302,6 +460,8 @@ class copernicus:
 
         return(text)
 
+    def text(self):
+        return(str(self.__repr__()))
 
     def format(self,all):
 
@@ -323,8 +483,9 @@ class copernicus:
                                            all['location'],all['pages'],all['year'])
         
         elif self.type.lower() == "inproceedings":
-            text = "{0}{1}{2}{3}{4}{5}{6}".format(all['author'],all['title'],all['booktitle'],
-                                           all['address'],all['doi'],all['month'],all['year'])
+            text = "{0}{1}{2}{3}{4}{5}{6}{7}".format(all['author'],all['title'],all['booktitle'],
+                                           all['address'],all['doi'],all['month'],
+                                           all['type'],all['year'])
 
         elif self.type.lower() == "phdthesis":
             text = "{0}{1} PhD thesis,{2}{3}{4}{5}".format(
