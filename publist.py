@@ -55,7 +55,8 @@ def main():
 
     # Extract entry list from bibliography data, deleting apparent duplicates
     all_entries = deleteDuplicates( bib_data.entries.items() )
-
+    all_entries = checkFields(all_entries)
+    
     # Get the publication list
     publist = get_historial(all_entries,nyears=args.nyears,printStats=True,confTypes=False)
 
@@ -88,11 +89,18 @@ def get_historial(entries,nyears=5,printStats=True,confTypes=True):
     '''Make a nice historial list for web or word file for the last N years.'''
 
     # Get a list of years to output
-    allyears = [thisyear]
+    allyears = [str(thisyear)]
     k = 0
     while k < nyears: 
         k = k+1
-        allyears.append(thisyear-k)
+        allyears.append(str(thisyear-k))
+    allyears.append("in press")
+    allyears.append("in review")
+    allyears.append("in prep")
+    allyears.append("submitted")
+    
+    
+
 
     # Limit entries to years of interest and sort
     #entries = bibSubset(entries,year=[str(y) for y in allyears])
@@ -101,7 +109,7 @@ def get_historial(entries,nyears=5,printStats=True,confTypes=True):
     # Make empty lists of all publication types
     articles_submitted  = []
     articles_discussion = []
-    articles_inpress    = []
+    # articles_inpress    = []
     articles_isi        = []
     pubs_reviewed       = []
     pubs_extra          = []
@@ -109,13 +117,15 @@ def get_historial(entries,nyears=5,printStats=True,confTypes=True):
     conf_oral           = []
     conf_poster         = []
 
+    submit_types = ["submitted","in review","in press","in prep"]
+
     # Loop over all entries and store them
     for entry in entries:
         if entry[1].type == "article":
-            if entry[1].fields['year'] == "submitted":
+            if entry[1].fields['year'] in submit_types or entry[1].fields['journal'] in submit_types:
                 articles_submitted.append( entry )
-            elif entry[1].fields['year'] == "in press":
-                articles_inpress.append( entry )
+            # elif entry[1].fields['year'] == "in press":
+            #     articles_inpress.append( entry )
             elif entry[1].fields['journal'].lower().find("discussions")>0:
                 articles_discussion.append( entry )
             elif ('type' in entry[1].fields.keys() and entry[1].fields['type'] == "ISI") or\
@@ -145,8 +155,8 @@ def get_historial(entries,nyears=5,printStats=True,confTypes=True):
 
     if printStats:
         #stats = list_stats()
-        if len(articles_submitted) > 0: text = text + "\n{0} articles in review/submitted".format(len(articles_submitted))
-        if len(articles_inpress) > 0:   text = text + "\n{0} articles in press".format(len(articles_inpress))
+        if len(articles_submitted) > 0: text = text + "\n{0} articles in progress".format(len(articles_submitted))
+        # if len(articles_inpress) > 0:   text = text + "\n{0} articles in press".format(len(articles_inpress))
         if len(articles_isi) > 0:       text = text + "\n{0} ISI articles".format(len(articles_isi))
         if len(pubs_reviewed) > 0:      text = text + "\n{0} other peer-reviewed publications".format(len(pubs_reviewed))
         if len(pubs_extra) > 0:         text = text + "\n{0} other publications".format(len(pubs_extra))
@@ -156,9 +166,9 @@ def get_historial(entries,nyears=5,printStats=True,confTypes=True):
         else:
             if len(conf_all) > 0: text = text + "\n{0} conference presentations".format(len(conf_all))
 
-    text = text + print_subset(articles_submitted,heading="Articles in review/submitted")
+    text = text + print_subset(articles_submitted,heading="Articles in progress")
     text = text + print_subset(articles_discussion,heading="Articles in discussion")
-    text = text + print_subset(articles_inpress,heading="Articles in press")
+    # text = text + print_subset(articles_inpress,heading="Articles in press")
     text = text + print_subset(articles_isi,heading="ISI articles")
     text = text + print_subset(pubs_reviewed,heading="Other peer-reviewed publications")
     text = text + print_subset(pubs_extra,heading="Other publications")
@@ -220,6 +230,19 @@ def deleteDuplicates(entries):
 
     return subset
 
+def checkFields(entries):
+    '''Make sure all fields needed for this script are available.'''
+
+    subset = []
+
+    for entry in entries:
+        if not 'year' in entry[1].fields.keys(): 
+            entry[1].fields['year'] = thisyear 
+
+        subset.append(entry)
+
+    return subset 
+
 def bibSubset(entries,bibtype=None,year=None,isi=False,peerreview=False,discussion=False):
     '''Extract only specific bib entry types from a set of bibtex entries.'''
 
@@ -244,8 +267,9 @@ def bibSubset(entries,bibtype=None,year=None,isi=False,peerreview=False,discussi
         if add and not bibtype is None:
             if not entry[1].type in bibtype: add = False 
         
-        # Check if this entry is from a desired year        
-        if add and not year is None:
+        # Check if this entry is from a desired year      
+        if add and not year is None and \
+           'year' in entry[1].fields.keys():
             if not str(entry[1].fields['year']) in year: add = False 
 
 
@@ -278,10 +302,14 @@ def bibSubset(entries,bibtype=None,year=None,isi=False,peerreview=False,discussi
 def convert_to_year(x):
 
     x = str(x).lower()
-    if x == "submitted": 
+    if   x == "in prep": 
+        year = "3001"
+    elif x == "submitted":
         year = "3000"
-    elif x in ["in press","press"]:
+    elif x == "in review":
         year = "2999"
+    elif x in ["in press","press"]:
+        year = "2998"
     else:
         year = x 
 
@@ -347,6 +375,7 @@ def clean_latex(text):
     text = text.replace("\'{u}",latex_to_unicode("\\'{u}"))
     text = text.replace("\ n",latex_to_unicode("\\~{n}"))
     text = text.replace("\\ {n}",latex_to_unicode("\\~{n}"))
+    text = text.replace("\\'{c}",latex_to_unicode("\\'{c}"))
     #text = text.replace(u'\xf1',"n")
 
     text = text.replace("\'{}","")

@@ -1,8 +1,17 @@
 
+3 articles in progress
 6 ISI articles
 2 other peer-reviewed publications
 1 other publications
 14 conference presentations
+
+Articles in progress
+
+ 3. [in prep] Banderas-Carreño, R., Alvarez-Solas, J., Robinson, A. and Montoya, M.: Bipolar seesaw control of the glacial Atlantic overturning, in prep.
+
+ 2. [in review] Alvarez-Solas, J., Robinson, A., Montoya, M. and Ritz, C.: Iceberg discharges of the last glacial period driven by oceanic circulation changes, in review.
+
+ 1. [in press] Levermann, A., Clark, P. U., Marzeion, B., Milne, G., Pollard, D., Radić, V. and Robinson, A.: The multi-millennial sea-level commitment of global warming, Proceedings of the National Academy of Sciences, in press.
 
 ISI articles
 
@@ -34,26 +43,26 @@ Conference presentations
 
  13. [2013] Perrette, M., Calov, R., Ganopolski, A. and Robinson, A.: A statistical-dynamical approach to represent Greenland ocean-ice sheet interactions, EGU General Assembly, Vienna, Austria, doi:EGU2013-11019, April, Poster, 2013.
 
- 12. [2012] Coumou, D., Robinson, A. and Rahmstorf, S.: Increase of record-breaking extremes in a warming world, 8º Congreso Internacional AEC, Salamanca, Spain, September, Poster, 2012.
+ 12. [2012] Robinson, A., Calov, R. and Ganopolski, A.: Simulating past and future changes to the Greenland ice sheet using an intermediate complexity modelling approach, Geologica Belgica, Brussels, Belgium, September, Oral presentation (invited), 2012.
 
- 11. [2012] Robinson, A., Calov, R. and Ganopolski, A.: Simulating past and future changes to the Greenland ice sheet using an intermediate complexity modelling approach, Geologica Belgica, Brussels, Belgium, September, Oral presentation (invited), 2012.
+ 11. [2012] Robinson, A., Perrette, M., Calov, R. and Ganopolski, A.: Irreversible melting of the Greenland Ice Sheet, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2012.
 
- 10. [2012] Robinson, A., Perrette, M., Calov, R. and Ganopolski, A.: Irreversible melting of the Greenland Ice Sheet, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2012.
+ 10. [2012] Alvarez-Solas, J., Montoya, M., Robinson, A., Banderas-Carreño, R., Ritz, C. and Ganopolski, A.: Northern Hemisphere millennial-scale ice discharges as a response to oceanic forcing simulated with a hybrid ice-sheet/ice-shelf model, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2012.
 
- 9. [2012] Alvarez-Solas, J., Montoya, M., Robinson, A., Banderas-Carreño, R., Ritz, C. and Ganopolski, A.: Northern Hemisphere millennial-scale ice discharges as a response to oceanic forcing simulated with a hybrid ice-sheet/ice-shelf model, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2012.
+ 9. [2012] Calov, R., Robinson, A., Perrette, M. and Ganopolski, A.: Improved representation of ice discharge from the Greenland ice sheet into the surrounding ocean, EGU General Assembly, Vienna, Austria, April, Poster, 2012.
 
- 8. [2012] Calov, R., Robinson, A., Perrette, M. and Ganopolski, A.: Improved representation of ice discharge from the Greenland ice sheet into the surrounding ocean, EGU General Assembly, Vienna, Austria, April, Poster, 2012.
+ 8. [2012] Rahmstorf, S., Coumou, D. and Robinson, A.: A Fivefold Increase in Monthly Heat Records, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2012.
 
- 7. [2012] Rahmstorf, S., Coumou, D. and Robinson, A.: A Fivefold Increase in Monthly Heat Records, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2012.
+ 7. [2012] Coumou, D., Robinson, A. and Rahmstorf, S.: Increase of record-breaking extremes in a warming world, 8º Congreso Internacional AEC, Salamanca, Spain, September, Poster, 2012.
 
- 6. [2011] Robinson, A., Calov, R. and Ganopolski, A.: The Pliocene-Pleistocene transition and the onset of the Northern Hemisphere glacial inception, AGU Fall Meeting, San Francisco, CA, USA, December, Oral presentation, 2011.
+ 6. [2011] Coumou, D., Lehmann, J., Robinson, A. and Rahmstorf, S.: Increase of record-breaking temperature and precipitation extremes in a warming world, AGU Fall Meeting, San Francisco, CA, USA, Poster, 2011.
 
  5. [2011] Robinson, A., Calov, R. and Ganopolski, A.: A new indicator of Greenland Ice Sheet stability, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2011.
 
- 4. [2011] Coumou, D., Lehmann, J., Robinson, A. and Rahmstorf, S.: Increase of record-breaking temperature and precipitation extremes in a warming world, AGU Fall Meeting, San Francisco, CA, USA, Poster, 2011.
+ 4. [2011] Robinson, A., Calov, R. and Ganopolski, A.: The Pliocene-Pleistocene transition and the onset of the Northern Hemisphere glacial inception, AGU Fall Meeting, San Francisco, CA, USA, December, Oral presentation, 2011.
 
- 3. [2010] Robinson, A., Calov, R. and Ganopolski, A.: Multistability and critical thresholds of the Greenland Ice Sheet, AGU Fall Meeting, San Francisco, CA, USA, December, Poster, 2010.
+ 3. [2010] Robinson, A., Calov, R. and Ganopolski, A.: Constraining Greenland surface mass balance model parameters using paleoclimate data, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2010.
 
- 2. [2010] Robinson, A., Calov, R. and Ganopolski, A.: Constraining Greenland surface mass balance model parameters using paleoclimate data, EGU General Assembly, Vienna, Austria, April, Oral presentation, 2010.
+ 2. [2010] Robinson, A., Calov, R. and Ganopolski, A.: Multistability and critical thresholds of the Greenland Ice Sheet, AGU Fall Meeting, San Francisco, CA, USA, December, Poster, 2010.
 
  1. [2009] Robinson, A., Calov, R. and Ganopolski, A.: Towards reducing uncertainty in modeling of the long-term response of the Greenland Ice Sheet to climate change, AGU Fall Meeting, San Francisco, CA, USA, December, Poster, 2009.
