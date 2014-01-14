@@ -405,9 +405,9 @@ class copernicus:
     '''
 
     def __init__(self,entry):
-        self.type = entry.type 
+        self.type    = entry.type 
         self.persons = entry.persons
-        self.fields = entry.fields 
+        self.fields  = entry.fields 
 
         # Initialize all formatted fields as empty strings
         self.formatted = {'address':"",'author':"",'booktitle':"",
@@ -495,46 +495,20 @@ class copernicus:
 
     def format(self,all):
 
-        if self.type.lower() == "article": 
-            text = "{0}{1}{2}{3}{4}{5}{6}{7}".format(all['author'],all['title'],all['journal'],
-                                                 all['volume'],all['number'],all['pages'],
-                                                 all['doi'],all['year'])
+        patterns = {
+            "article"       : "{author}{title}{journal}{volume}{number}{pages}{doi}{year}",
+            "book"          : "{author}{editor}{title}{edition}{publisher}{location}{year}",
+            "inbook"        : "{author}{title}{booktitle}{edition}{editor}{publisher}{location}{pages}{year}",
+            "inproceedings" : "{author}{title}{booktitle}{address}{doi}{month}{type}{year}",
+            "phdthesis"     : "{author}{title}{school}{address}{pages}{year}",
+            "techreport"    : "{author}{title}{institution}{address}{pages}{year}",
+            "unpublished"   : "{author}{title}{volume}{pages}{year}"
+            }
 
-        elif self.type.lower() == "book":
-            text = "{0}{1}{2}{3}{4}{5}{6}{7}{8}".format(
-                                           all['author'],all['editor'],all['title'],
-                                           all['edition'],all['publisher'],
-                                           all['location'],all['year'])
-        
-        elif self.type.lower() == "inbook":
-            text = "{0}{1}, in:{2}{3}{4}{5}{6}{7}{8}".format(
-                                           all['author'],all['title'],all['booktitle'],
-                                           all['edition'],all['editor'],all['publisher'],
-                                           all['location'],all['pages'],all['year'])
-        
-        elif self.type.lower() == "inproceedings":
-            text = "{0}{1}{2}{3}{4}{5}{6}{7}".format(all['author'],all['title'],all['booktitle'],
-                                           all['address'],all['doi'],all['month'],
-                                           all['type'],all['year'])
-
-        elif self.type.lower() == "phdthesis":
-            text = "{0}{1} PhD thesis,{2}{3}{4}{5}".format(
-                                           all['author'],all['title'],#all['type'],
-                                           all['school'],all['address'],
-                                           all['pages'],all['year'])
-
-        elif self.type.lower() == "techreport":
-            text = "{0}{1} Report,{2}{3}{4}{5}".format(
-                                           all['author'],all['title'],
-                                           all['institution'],all['address'],
-                                           all['pages'],all['year'])
-
-        elif self.type.lower() == "unpublished":
-            text = "{0}{1}{2}{3}{4}".format(all['author'],all['title'],
-                                            all['volume'],all['pages'],all['year'])
-
-        else: 
+        if not self.type.lower() in patterns.keys():
             text = "No format defined for: {0}".format(self.type)
+        else:
+            text = patterns[self.type.lower()].format(**all)
 
         return(text)
 
@@ -543,6 +517,4 @@ class copernicus:
 if __name__ == "__main__":
     main()
 # Done!
-
-
 
