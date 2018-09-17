@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+#!/opt/local/bin/python
+# -*- coding: utf-8 -*-
+
 # Copyright (c) 2010, 2011, 2012  Andrey Golovizin
 #
 # Permission is hereby granted, free of charge, to any person obtaining

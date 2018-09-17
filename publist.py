@@ -11,13 +11,16 @@ from pybtex.database import Person
 #import sys
 import argparse
 import time 
-
 from numpy import *
 
 # Load additional functions
-execfile("lastfirst.py")
-execfile("unicode_to_latex.py")
-execfile("ISIjournals.py")
+#execfile("lastfirst.py")
+#execfile("unicode_to_latex.py")
+#execfile("ISIjournals.py")
+
+from lastfirst import * 
+from unicode_to_latex import * 
+from ISIjournals import * 
 
 # Define aliases
 parser    = bibtex.Parser()
@@ -68,7 +71,7 @@ def main():
         with open(args.output, "w") as text_file:
             text_file.write(publist)
     else:
-        print publist
+        print(publist)
 
 
     # for key, value in bib_articles:
@@ -99,12 +102,9 @@ def get_historial(entries,nyears=5,printStats=True,confTypes=True):
     allyears.append("in prep")
     allyears.append("submitted")
     
-    
-
-
     # Limit entries to years of interest and sort
     #entries = bibSubset(entries,year=[str(y) for y in allyears])
-    entries = bibSubset(entries,year=allyears)
+    entries = bibSubset(entries,year=allyears,discussion=False)
 
     # Make empty lists of all publication types
     articles_submitted  = []
@@ -121,6 +121,7 @@ def get_historial(entries,nyears=5,printStats=True,confTypes=True):
 
     # Loop over all entries and store them
     for entry in entries:
+
         if entry[1].type == "article":
             if entry[1].fields['year'] in submit_types or entry[1].fields['journal'] in submit_types:
                 articles_submitted.append( entry )
@@ -214,15 +215,17 @@ def deleteDuplicates(entries):
 
     for entry in entries:
 
-        this = {"bibtype":entry[1].type, "title":"","journal":""}
-        if 'title' in entry[1].fields.keys():   this['title']   = entry[1].fields['title']
+        this = {"bibtype":entry[1].type, "title":"","journal":"","doi":""}
+        if 'title'   in entry[1].fields.keys(): this['title']   = entry[1].fields['title']
         if 'journal' in entry[1].fields.keys(): this['journal'] = entry[1].fields['journal']
+        #if 'doi'     in entry[1].fields.keys(): this['doi']     = entry[1].fields['doi']
 
         add = True 
         for entry2 in subset:
             that = {"bibtype":entry2[1].type, "title":"","journal":""}
-            if 'title' in entry2[1].fields.keys():   that['title']   = entry2[1].fields['title']
+            if 'title'   in entry2[1].fields.keys(): that['title']   = entry2[1].fields['title']
             if 'journal' in entry2[1].fields.keys(): that['journal'] = entry2[1].fields['journal']
+            #if 'doi'     in entry2[1].fields.keys(): that['doi']     = entry2[1].fields['doi']
 
             if this == that: add = False
 
@@ -252,7 +255,7 @@ def bibSubset(entries,bibtype=None,year=None,isi=False,peerreview=False,discussi
 
     # Make sure arguments are self-consistent
     if discussion and isi:
-        print "Note: writing only discussion publications."
+        print("Note: writing only discussion publications.")
         isi = False
         peerreview = False 
 

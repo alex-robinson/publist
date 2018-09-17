@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+#!/opt/local/bin/python
+# -*- coding: utf-8 -*-
+
 # original XML at http://www.w3.org/Math/characters/unicode.xml
 # XSL for conversion: https://gist.github.com/798546
 
